@@ -1,0 +1,15 @@
+{
+  "repository": "sciknoworg/LLMs4OL-Challenge",
+  "commit": "315a9a5d883eada26e00fef1356a05802936c584",
+  "train_path": "2026/TaskA-Flagship/train_task_a.json",
+  "train_blob_sha": "a074265ed063dfc7e34f0f6745d4b0aaca7d0425",
+  "train_bytes": 15594307,
+  "metric_path": "2026/metrics/graph_similarity.py",
+  "metric_blob_sha": "6c2971bb0c500fdc34bc52abaa7d309a61d6056d",
+  "official_page": "https://sites.google.com/view/llms4ol2026/flagship-task",
+  "accessed_date": "2026-10-15",
+  "license": "MIT",
+  "usage": "Only published Task A training data; no model inference; no test data used.",
+  "train_sha256": "ddf05cdc7970c64616569252234655985014e3ddbc4e32f1c1be7e5dcc6b1569",
+  "metric_sha256": "4eb22bfb304a0239269951c3ac65ff8fa39a8fd69fe1159ee40bbeba676159c9"
+}
