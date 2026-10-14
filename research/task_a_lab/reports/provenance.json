@@ -1,0 +1,53 @@
+{
+  "date_jst": "2026-10-15",
+  "branch": "research/task-a-autonomous-cpu",
+  "upstream_base": "eead547edbe2684540e864ce22eb702b63f50474",
+  "preservation_commit": "4791725bea4eea9f7e50aef7f0d6588f0b723d0b",
+  "implementation_commit": "66643c78216a24139eead74d740b3fee1f07aa94",
+  "github_status": "New preservation, implementation and report commits are local only; no push/PR/merge performed",
+  "split_seed": 42,
+  "train_documents": 3442,
+  "validation_documents": 861,
+  "inference_random_seed": null,
+  "evaluation_pythonhashseed": 0,
+  "mode": "official exact; local per-document arithmetic mean",
+  "semantic_evaluation": "not run",
+  "LLM_validation": "mock-only; no real model loaded",
+  "code_sha256": {
+    "research/task_a_lab/__init__.py": "0427588bc7beee26516f39307ab1fc122a5d28e63932285cbd9d5d56d4c24d16",
+    "research/task_a_lab/analysis.py": "9b52d2a4b285e9adbad238a5d3fb69e5b145f5af5be1d6dd8e5fd86d16bc88ea",
+    "research/task_a_lab/compare.py": "e53cd57d8ce6f0afb85c331e7976b41647ad63dd045ab3bff8d6def081df97d6",
+    "research/task_a_lab/contracts.py": "f0ec60a5435f0dc0c03162c5030bbcf7d35932cd46be5a98d028dd65860e6582",
+    "research/task_a_lab/cpu.py": "724af58f69d286002e77509c6c7ffc2f68534886746ea2221164d2ae5a578951",
+    "research/task_a_lab/diagnostic_cases.py": "77de1fdd684b2e5d93eea3a07458e646e3142096715e77168fc904d77325bd3d",
+    "research/task_a_lab/llm.py": "70501611aeecd1823aff7c3586a21d5bec8884a44bafc959312cac0b6b66c055",
+    "research/task_a_lab/local_backend.py": "5d585637f7ecafd92c763134eaa72718e64ac887140ac6b13abbe94566506e95",
+    "research/task_a_lab/postprocess.py": "ea097ba32cc9dcb3f242481ef13630bcebd28f8948016e89281748a7c638b26e",
+    "research/task_a_lab/postprocess_run.py": "f6add52b80860943cd2674027a9e702867ed55b99fae44f47f26373c527b2aa8",
+    "research/task_a_lab/run_llm.py": "f51329db5d9648a09dbc941c9e9a25b76ddf0f8cbf39a08388b38c7081407baf"
+  },
+  "fixed_sources_sha256": {
+    "baselines/task_a_cpu/predict.py": "c04b9b4c14398b543b6c5463d761ba3d62f6f8fe8defa13500b456f7d8ac7419",
+    "research/llms4ol2026/evaluator.py": "481529c7bf395217e37491a9ed462a010f919cf5993a4e04ef58b77d28366059",
+    "research/llms4ol2026/vendor/graph_similarity.py": "4eb22bfb304a0239269951c3ac65ff8fa39a8fd69fe1159ee40bbeba676159c9",
+    "research/llms4ol2026/splits/seed42/manifest.json": "7a4dd41743208a30699a0c4947067680204e834f9e878120328684c22f4f361b",
+    "research/llms4ol2026/splits/seed42/train_ids.json": "b524ff478fbe8c16ee60c70626b2b76b3df520fb6057a6b1a159336c57a6de5e",
+    "research/llms4ol2026/splits/seed42/validation_ids.json": "dbca1614437cf43d9b118483abf197e3b49decd62ee1f85ebec6eb98c8f2441c"
+  },
+  "source_train_sha256": "ddf05cdc7970c64616569252234655985014e3ddbc4e32f1c1be7e5dcc6b1569",
+  "versions": {
+    "python": "3.12.14",
+    "networkx": "3.2.1",
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "pytest": "9.0.3",
+    "ruff": "0.15.12",
+    "torch": "2.11.0",
+    "transformers": "5.7.0"
+  },
+  "reproduction": {
+    "original_predictions_byte_identical": true,
+    "surface_predictions_byte_identical": true
+  },
+  "declaration": "Validation annotations were used only for diagnostics/evaluation; inference consumed train and id/context-only validation."
+}

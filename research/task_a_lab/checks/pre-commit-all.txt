@@ -1,0 +1,23 @@
+check for merge conflicts................................................Passed
+fix end of files.........................................................Failed
+- hook id: end-of-file-fixer
+- exit code: 1
+- files were modified by this hook
+
+Fixing research/llms4ol2026/vendor/2026_README.md
+Fixing metadata/ontolearner-metadata.rdf
+
+trim trailing whitespace.................................................Failed
+- hook id: trailing-whitespace
+- exit code: 1
+- files were modified by this hook
+
+Fixing research/llms4ol2026/vendor/2026_README.md
+Fixing research/llms4ol2026/vendor/graph_similarity.py
+
+detect private key.......................................................Passed
+check BOM - deprecated: use fix-byte-order-marker........................Passed
+mixed line ending........................................................Passed
+check for added large files..............................................Passed
+flake8...................................................................Passed
+ruff.....................................................................Passed

@@ -1,0 +1,32 @@
+{
+  "backend": "mock",
+  "mock_only": true,
+  "model_path": "None",
+  "device": "cpu",
+  "examples": 1,
+  "postprocess": "C",
+  "max_input_tokens": 4096,
+  "max_new_tokens": 1024,
+  "input_sha256": "a63270b66a1eada6e9aa518dab81d6602af8ec8cd1c4a7a74060f387dd74be75",
+  "train_sha256": "fbbd0257b6fe599ba25b196bcdfcb1770aed518877349e5c1ab9b2fcd6cd8265",
+  "mock_responses_sha256": "2472ebcf2dbd9e80f18b03464edac4b02056271c9722c353ea89ba3827a40c90",
+  "code_sha256": {
+    "__init__.py": "0427588bc7beee26516f39307ab1fc122a5d28e63932285cbd9d5d56d4c24d16",
+    "analysis.py": "9b52d2a4b285e9adbad238a5d3fb69e5b145f5af5be1d6dd8e5fd86d16bc88ea",
+    "contracts.py": "f0ec60a5435f0dc0c03162c5030bbcf7d35932cd46be5a98d028dd65860e6582",
+    "cpu.py": "724af58f69d286002e77509c6c7ffc2f68534886746ea2221164d2ae5a578951",
+    "llm.py": "70501611aeecd1823aff7c3586a21d5bec8884a44bafc959312cac0b6b66c055",
+    "local_backend.py": "5d585637f7ecafd92c763134eaa72718e64ac887140ac6b13abbe94566506e95",
+    "postprocess.py": "ea097ba32cc9dcb3f242481ef13630bcebd28f8948016e89281748a7c638b26e",
+    "postprocess_run.py": "f6add52b80860943cd2674027a9e702867ed55b99fae44f47f26373c527b2aa8",
+    "run_llm.py": "f51329db5d9648a09dbc941c9e9a25b76ddf0f8cbf39a08388b38c7081407baf"
+  },
+  "git_commit": "4791725bea4eea9f7e50aef7f0d6588f0b723d0b",
+  "python": "3.12.14",
+  "statuses": {
+    "ok": 2,
+    "invalid_response": 1
+  },
+  "generation": "greedy; no sampling; no automatic retries or silent truncation",
+  "evaluation": "not performed by this command; mock outputs are not model performance"
+}

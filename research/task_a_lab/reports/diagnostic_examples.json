@@ -1,0 +1,181 @@
+{
+  "examples": {
+    "other_endpoint_or_unsupported_relation": [
+      {
+        "id": "006ff9ac8e70474fa8468dd26e736394",
+        "predicted": [
+          "familial lipoprotein lipase deficiency",
+          "is-a",
+          "autosomal recessive disease"
+        ],
+        "gold_candidates": [],
+        "context_excerpt": "The most prevalent form is familial lipoprotein lipase deficiency, an autosomal recessive disease that directly compromises the enzymatic activity required for triglyceride hydrolysis."
+      },
+      {
+        "id": "009266a5ed274512a888623450721159",
+        "predicted": [
+          "environment",
+          "is-a",
+          "system component"
+        ],
+        "gold_candidates": [],
+        "context_excerpt": "Title: Agent Roles and Testing Hardware in the HALLT Environment \n\n Content: \nThe operational framework for reliability assessment relies heavily on the coordination between specialized personnel and precision hardware. Their work centers around sophisticated environments designed to evaluate durability under stress, most notably the electrical component highly accelerated lifetime testing system. Additionally, the sample holder case plays a vital role by functioning simultaneously as equipment mount and electrical component highly accelerated lifetime testing system component, ensuring that specimens remain securely positioned throughout the rigorous testing phases."
+      },
+      {
+        "id": "00c3f7cbedd845b483c070efcb986272",
+        "predicted": [
+          "long qt syndrome",
+          "is-a",
+          "a"
+        ],
+        "gold_candidates": [],
+        "context_excerpt": "Title: Genetic Heterogeneity in Neuromuscular Disorders and Long QT Syndrome Subtypes \n\n Content: \nIn the realm of complex genetic disorders, the classification of diseases often reveals intricate inheritance patterns, such as digenic inheritance where mutations in two distinct genes contribute to the phenotype. Several notable conditions exemplify this mechanism. For instance, facioscapulohumeral muscular dystrophy 3 is recognized as a subclass of digenic disease, highlighting the contribution of multiple genetic factors to this neuromuscular presentation. Similarly, Joubert syndrome 15 falls under the category of a digenic disease, underscoring the genetic complexity behind this developmental disorder. Another condition, autosomal-mitochondrial sensorineural deafness, is also classified "
+      }
+    ],
+    "near_spelling_candidate": [
+      {
+        "id": "077c49916632447e9fb07c407e7e4ce6",
+        "predicted": [
+          "fast food",
+          "is-a",
+          "convenience"
+        ],
+        "gold_candidates": [
+          [
+            "fast food",
+            "is-a",
+            "convenience food"
+          ]
+        ],
+        "context_excerpt": "Title: The Evolution of Agricultural Supply Chains and Convenience Food \n\n Content: \nModern agricultural and marine supply chains have evolved to balance ecological stewardship with industrial efficiency. This industrial shift has standardized the production of convenience food, a broad market segment designed to reduce kitchen labor and streamline distribution. Industry guidelines establish that food (ready-to-cook) is a subclass of convenience food, encompassing pre-portioned ingredients that require final thermal treatment. At the opposite end of the preparation spectrum, market data confirms that food (ready-to-serve) is a subclass of convenience food, covering fully assembled meals intended for immediate consumption. The commercial expansion of these processed frameworks has also resh"
+      },
+      {
+        "id": "082ebbfea7c547b1912ed34430ba2d9c",
+        "predicted": [
+          "a solid substance",
+          "is-a",
+          "substance"
+        ],
+        "gold_candidates": [
+          [
+            "solid substance",
+            "is-a",
+            "substance"
+          ]
+        ],
+        "context_excerpt": "Title: Ecology and Environment: Chemical and Physical Definitions \n\n Content: \nIntroduction: In the environment, various substances and material things are present. An inorganic substance is also a subclass of chemical. An organic substance is a subclass of substance, encompassing living matter. Within this, an organic compound is a subclass of organic substance, forming the basis of metabolic processes. Particles and physics: at the microscopic level, all matter is composed of a subatomic particle, itself a subclass of substance. A solid substance is a subclass of substance. Atmospheric aerosols often include condensation nuclei, which are a subclass of solid substance. Natural geology involves rock, a subclass of solid substance, and rock body. Particulate pollution includes ash and dust"
+      },
+      {
+        "id": "0f309033dad3467480538effa99acba7",
+        "predicted": [
+          "piece of reindeer meat",
+          "is-a",
+          "piece of reindeer"
+        ],
+        "gold_candidates": [
+          [
+            "piece of reindeer meat (raw)",
+            "is-a",
+            "piece of reindeer"
+          ],
+          [
+            "piece of reindeer meat (raw)",
+            "is-a",
+            "piece of reindeer meat"
+          ]
+        ],
+        "context_excerpt": "In the domain of game meats, the terminology often overlaps between related species; for instance, a piece of reindeer meat (raw) is taxonomically consistent with being a piece of caribou meat (raw) due to the biological proximity of the animals. Furthermore, this specific cut is directly derived from a piece of reindeer (raw), and collectively, these items fall under the general umbrella of piece of reindeer meat."
+      }
+    ],
+    "wrong_predicate_same_endpoints": [
+      {
+        "id": "496c6efb68d34d4f90f3808b1eb1a7cb",
+        "predicted": [
+          "chloroform",
+          "instance-of",
+          "one-carbon compound"
+        ],
+        "gold_candidates": [
+          [
+            "chloroform",
+            "is-a",
+            "one-carbon compound"
+          ]
+        ],
+        "context_excerpt": "Expanding to smaller molecular frameworks, the category of one-carbon compound includes diverse substances with significant industrial and biological roles; for instance, chloroform is a subclass of one-carbon compound widely used as an organic solvent, while carbon dioxide is also a subclass of one-carbon compound and serves as a key byproduct in metabolic pathways."
+      },
+      {
+        "id": "4e0a94acb89e4df9902c0730299e2f53",
+        "predicted": [
+          "mass percentage",
+          "instance-of",
+          "concentration unit"
+        ],
+        "gold_candidates": [
+          [
+            "mass percentage",
+            "type",
+            "concentration unit"
+          ]
+        ],
+        "context_excerpt": "Title: Classification of Concentration Units in Agricultural Science \n\n Content: \nIn agricultural chemistry, precise quantification of solutes is essential, and this is achieved through various concentration unit types tailored to specific analytical needs. When dealing with solid mixtures or bulk fertilizers, the mass percentage based unit is frequently employed as a subclass of concentration unit to express the ratio of solute mass to total mass. Within this category, the mass percentage serves as a direct subclass of mass percentage based unit, offering a straightforward measure for nutrient content. For liquid formulations, such as herbicides or liquid fertilizers, the mass volume percentage based unit is utilized as a subclass of concentration unit, allowing for the calculation of mas"
+      },
+      {
+        "id": "4e0a94acb89e4df9902c0730299e2f53",
+        "predicted": [
+          "mass volume percentage",
+          "instance-of",
+          "concentration unit"
+        ],
+        "gold_candidates": [
+          [
+            "mass volume percentage",
+            "type",
+            "concentration unit"
+          ]
+        ],
+        "context_excerpt": "Title: Classification of Concentration Units in Agricultural Science \n\n Content: \nIn agricultural chemistry, precise quantification of solutes is essential, and this is achieved through various concentration unit types tailored to specific analytical needs. When dealing with solid mixtures or bulk fertilizers, the mass percentage based unit is frequently employed as a subclass of concentration unit to express the ratio of solute mass to total mass. For liquid formulations, such as herbicides or liquid fertilizers, the mass volume percentage based unit is utilized as a subclass of concentration unit, allowing for the calculation of mass per unit volume. Correspondingly, the mass volume percentage is defined as a subclass of mass volume percentage based unit, providing a practical metric for"
+      }
+    ],
+    "reversed_endpoints": [
+      {
+        "id": "8b5213f78e66481e902a126b2f977d68",
+        "predicted": [
+          "hyphal tip",
+          "is-a",
+          "hyphal tip, septate hypha"
+        ],
+        "gold_candidates": [
+          [
+            "hyphal tip, septate hypha",
+            "is-a",
+            "hyphal tip"
+          ]
+        ],
+        "context_excerpt": "the advancing hyphal tip serves as the primary interface for soil exploration, and it can be broadly categorized into two developmental forms: the hyphal tip, aseptate hypha, which lacks internal cross-walls and allows rapid cytoplasmic streaming, and the hyphal tip, septate hypha, which features periodic septa to compartmentalize damage."
+      },
+      {
+        "id": "b1206d8baf8242a5837dca87ab1a8b7f",
+        "predicted": [
+          "geochronologic era",
+          "is-a",
+          "era"
+        ],
+        "gold_candidates": [
+          [
+            "era",
+            "is-a",
+            "geochronologic era"
+          ]
+        ],
+        "context_excerpt": "At the core of this framework lies the concept of geochronologic era, which serves as an umbrella term encompassing various temporal divisions of geological time. This hierarchical structuring allows for a nuanced exploration of geological events, reinforcing how ages are recognized as subclasses of geochronologic era."
+      }
+    ]
+  },
+  "gold_surface_coverage": {
+    "2_endpoints_literal_token_match": 8040,
+    "0_endpoints_literal_token_match": 1118,
+    "1_endpoints_literal_token_match": 1974
+  },
+  "note": "Evaluation-only candidate diagnoses; near spelling is not confirmed synonymy. No predictions were changed."
+}

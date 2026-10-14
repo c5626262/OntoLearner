@@ -1,0 +1,324 @@
+{
+  "baseline_analysis": {
+    "overall": {
+      "documents": 861,
+      "tp": 47,
+      "fp": 1227,
+      "fn": 11085,
+      "precision": 0.036891679748822605,
+      "recall": 0.00422206252245778,
+      "f1": 0.007576978881186523,
+      "official_mean": {
+        "edge_f1": 0.007914555765825712,
+        "neighborhood_similarity": 0.004046621421774261,
+        "taxonomy_similarity": 0.00453133092594166,
+        "graph_similarity": 0.005497502704513878
+      }
+    },
+    "by_relation": {
+      "is-a": {
+        "tp": 47,
+        "fp": 1127,
+        "fn": 9835,
+        "precision": 0.04003407155025554,
+        "recall": 0.004756122242461041,
+        "f1": 0.008502170767004342
+      },
+      "instance-of": {
+        "tp": 0,
+        "fp": 87,
+        "fn": 1060,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "other": {
+        "tp": 0,
+        "fp": 13,
+        "fn": 190,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "raw_prediction_triples": 1274,
+    "normalized_prediction_triples": 1274,
+    "empty_prediction_documents": 399
+  },
+  "rules_only": {
+    "overall": {
+      "documents": 861,
+      "tp": 47,
+      "fp": 730,
+      "fn": 11085,
+      "precision": 0.06048906048906049,
+      "recall": 0.00422206252245778,
+      "f1": 0.007893190024351331,
+      "official_mean": {
+        "edge_f1": 0.008367885154259583,
+        "neighborhood_similarity": 0.00437942831744261,
+        "taxonomy_similarity": 0.004668020726251387,
+        "graph_similarity": 0.005805111399317859
+      }
+    },
+    "by_relation": {
+      "is-a": {
+        "tp": 47,
+        "fp": 678,
+        "fn": 9835,
+        "precision": 0.06482758620689655,
+        "recall": 0.004756122242461041,
+        "f1": 0.008862072216460827
+      },
+      "instance-of": {
+        "tp": 0,
+        "fp": 52,
+        "fn": 1060,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "other": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 190,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "raw_prediction_triples": 777,
+    "normalized_prediction_triples": 777,
+    "empty_prediction_documents": 525
+  },
+  "conservative": {
+    "overall": {
+      "documents": 861,
+      "tp": 46,
+      "fp": 257,
+      "fn": 11086,
+      "precision": 0.15181518151815182,
+      "recall": 0.004132231404958678,
+      "f1": 0.00804547442063839,
+      "official_mean": {
+        "edge_f1": 0.009719656206249276,
+        "neighborhood_similarity": 0.005778560471744917,
+        "taxonomy_similarity": 0.006184137958608891,
+        "graph_similarity": 0.007227451545534361
+      }
+    },
+    "by_relation": {
+      "is-a": {
+        "tp": 46,
+        "fp": 233,
+        "fn": 9836,
+        "precision": 0.16487455197132617,
+        "recall": 0.004654928152195912,
+        "f1": 0.009054226946166716
+      },
+      "instance-of": {
+        "tp": 0,
+        "fp": 24,
+        "fn": 1060,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "other": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 190,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "raw_prediction_triples": 303,
+    "normalized_prediction_triples": 303,
+    "empty_prediction_documents": 646
+  },
+  "surface": {
+    "overall": {
+      "documents": 861,
+      "tp": 166,
+      "fp": 1111,
+      "fn": 10966,
+      "precision": 0.12999216914643696,
+      "recall": 0.01491196550485088,
+      "f1": 0.026754774760254653,
+      "official_mean": {
+        "edge_f1": 0.023624994082375877,
+        "neighborhood_similarity": 0.01419548121264581,
+        "taxonomy_similarity": 0.014098098147665272,
+        "graph_similarity": 0.01730619114756232
+      }
+    },
+    "by_relation": {
+      "is-a": {
+        "tp": 165,
+        "fp": 1055,
+        "fn": 9717,
+        "precision": 0.13524590163934427,
+        "recall": 0.016697024893746207,
+        "f1": 0.029724373986669068
+      },
+      "instance-of": {
+        "tp": 1,
+        "fp": 54,
+        "fn": 1059,
+        "precision": 0.01818181818181818,
+        "recall": 0.0009433962264150943,
+        "f1": 0.0017937219730941704
+      },
+      "other": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 190,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "raw_prediction_triples": 1280,
+    "normalized_prediction_triples": 1277,
+    "empty_prediction_documents": 418
+  },
+  "surface-A": {
+    "overall": {
+      "documents": 861,
+      "tp": 166,
+      "fp": 1111,
+      "fn": 10966,
+      "precision": 0.12999216914643696,
+      "recall": 0.01491196550485088,
+      "f1": 0.026754774760254653,
+      "official_mean": {
+        "edge_f1": 0.023624994082375877,
+        "neighborhood_similarity": 0.01419548121264581,
+        "taxonomy_similarity": 0.014098098147665272,
+        "graph_similarity": 0.01730619114756232
+      }
+    },
+    "by_relation": {
+      "is-a": {
+        "tp": 165,
+        "fp": 1055,
+        "fn": 9717,
+        "precision": 0.13524590163934427,
+        "recall": 0.016697024893746207,
+        "f1": 0.029724373986669068
+      },
+      "instance-of": {
+        "tp": 1,
+        "fp": 54,
+        "fn": 1059,
+        "precision": 0.01818181818181818,
+        "recall": 0.0009433962264150943,
+        "f1": 0.0017937219730941704
+      },
+      "other": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 190,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "raw_prediction_triples": 1280,
+    "normalized_prediction_triples": 1277,
+    "empty_prediction_documents": 418
+  },
+  "surface-B": {
+    "overall": {
+      "documents": 861,
+      "tp": 166,
+      "fp": 1111,
+      "fn": 10966,
+      "precision": 0.12999216914643696,
+      "recall": 0.01491196550485088,
+      "f1": 0.026754774760254653,
+      "official_mean": {
+        "edge_f1": 0.023624994082375877,
+        "neighborhood_similarity": 0.01419548121264581,
+        "taxonomy_similarity": 0.014098098147665272,
+        "graph_similarity": 0.01730619114756232
+      }
+    },
+    "by_relation": {
+      "is-a": {
+        "tp": 165,
+        "fp": 1055,
+        "fn": 9717,
+        "precision": 0.13524590163934427,
+        "recall": 0.016697024893746207,
+        "f1": 0.029724373986669068
+      },
+      "instance-of": {
+        "tp": 1,
+        "fp": 54,
+        "fn": 1059,
+        "precision": 0.01818181818181818,
+        "recall": 0.0009433962264150943,
+        "f1": 0.0017937219730941704
+      },
+      "other": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 190,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "raw_prediction_triples": 1277,
+    "normalized_prediction_triples": 1277,
+    "empty_prediction_documents": 418
+  },
+  "surface-C": {
+    "overall": {
+      "documents": 861,
+      "tp": 166,
+      "fp": 1111,
+      "fn": 10966,
+      "precision": 0.12999216914643696,
+      "recall": 0.01491196550485088,
+      "f1": 0.026754774760254653,
+      "official_mean": {
+        "edge_f1": 0.023624994082375877,
+        "neighborhood_similarity": 0.01419548121264581,
+        "taxonomy_similarity": 0.014098098147665272,
+        "graph_similarity": 0.01730619114756232
+      }
+    },
+    "by_relation": {
+      "is-a": {
+        "tp": 165,
+        "fp": 1055,
+        "fn": 9717,
+        "precision": 0.13524590163934427,
+        "recall": 0.016697024893746207,
+        "f1": 0.029724373986669068
+      },
+      "instance-of": {
+        "tp": 1,
+        "fp": 54,
+        "fn": 1059,
+        "precision": 0.01818181818181818,
+        "recall": 0.0009433962264150943,
+        "f1": 0.0017937219730941704
+      },
+      "other": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 190,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "raw_prediction_triples": 1277,
+    "normalized_prediction_triples": 1277,
+    "empty_prediction_documents": 418
+  }
+}

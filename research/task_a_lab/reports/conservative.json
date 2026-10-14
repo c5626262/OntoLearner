@@ -1,0 +1,1075 @@
+{
+  "definition": "Official exact, per-document arithmetic mean; relation F1 is normalized directed micro F1",
+  "overall": {
+    "documents": 861,
+    "tp": 46,
+    "fp": 257,
+    "fn": 11086,
+    "precision": 0.15181518151815182,
+    "recall": 0.004132231404958678,
+    "f1": 0.00804547442063839,
+    "official_mean": {
+      "edge_f1": 0.009719656206249276,
+      "neighborhood_similarity": 0.005778560471744917,
+      "taxonomy_similarity": 0.006184137958608891,
+      "graph_similarity": 0.007227451545534361
+    }
+  },
+  "raw_prediction_triples": 303,
+  "raw_predictions_by_relation": {
+    "is-a": 279,
+    "instance-of": 24
+  },
+  "raw_gold_triples": 11135,
+  "normalized_prediction_triples": 303,
+  "normalized_gold_triples": 11132,
+  "empty_prediction_documents": 646,
+  "documents_with_correct_triples": 36,
+  "exact_graph_documents": 0,
+  "gold_triples_with_unseen_endpoint": 9479,
+  "by_relation": {
+    "is-a": {
+      "tp": 46,
+      "fp": 233,
+      "fn": 9836,
+      "precision": 0.16487455197132617,
+      "recall": 0.004654928152195912,
+      "f1": 0.009054226946166716
+    },
+    "instance-of": {
+      "tp": 0,
+      "fp": 24,
+      "fn": 1060,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "other": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 190,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "exclusive_fp_diagnostics": {
+    "other_endpoint_or_unsupported_relation": 249,
+    "near_spelling_candidate": 6,
+    "wrong_predicate_same_endpoints": 2
+  },
+  "diagnostic_note": "Candidate categories, not semantic judgments or one-to-one correction scores",
+  "by_characters": {
+    "0-999": {
+      "documents": 63,
+      "tp": 1,
+      "fp": 18,
+      "fn": 495,
+      "precision": 0.05263157894736842,
+      "recall": 0.0020161290322580645,
+      "f1": 0.003883495145631068,
+      "official_mean": {
+        "edge_f1": 0.003968253968253968,
+        "neighborhood_similarity": 0.001469723691945914,
+        "taxonomy_similarity": 0.0011757789535567313,
+        "graph_similarity": 0.0022045855379188707
+      }
+    },
+    "1000-1999": {
+      "documents": 552,
+      "tp": 33,
+      "fp": 145,
+      "fn": 5301,
+      "precision": 0.1853932584269663,
+      "recall": 0.006186726659167604,
+      "f1": 0.011973875181422351,
+      "official_mean": {
+        "edge_f1": 0.012466987177370473,
+        "neighborhood_similarity": 0.0076611702922444605,
+        "taxonomy_similarity": 0.008494060095322883,
+        "graph_similarity": 0.009540739188312606
+      }
+    },
+    "2000-3999": {
+      "documents": 243,
+      "tp": 12,
+      "fp": 90,
+      "fn": 5205,
+      "precision": 0.11764705882352941,
+      "recall": 0.0023001725129384704,
+      "f1": 0.0045121263395375075,
+      "official_mean": {
+        "edge_f1": 0.005089905644741256,
+        "neighborhood_similarity": 0.002690460791196863,
+        "taxonomy_similarity": 0.0023117182537858005,
+        "graph_similarity": 0.003364028229907973
+      }
+    },
+    "4000-999999": {
+      "documents": 3,
+      "tp": 0,
+      "fp": 4,
+      "fn": 85,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official_mean": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      }
+    }
+  },
+  "by_gold_triples": {
+    "0-5": {
+      "documents": 204,
+      "tp": 11,
+      "fp": 46,
+      "fn": 1009,
+      "precision": 0.19298245614035087,
+      "recall": 0.010784313725490196,
+      "f1": 0.02042711234911792,
+      "official_mean": {
+        "edge_f1": 0.01663165266106443,
+        "neighborhood_similarity": 0.010604135787959318,
+        "taxonomy_similarity": 0.010714993067934244,
+        "graph_similarity": 0.012650260505652662
+      }
+    },
+    "6-10": {
+      "documents": 322,
+      "tp": 16,
+      "fp": 99,
+      "fn": 2381,
+      "precision": 0.1391304347826087,
+      "recall": 0.006675010429703796,
+      "f1": 0.012738853503184714,
+      "official_mean": {
+        "edge_f1": 0.009801258093183558,
+        "neighborhood_similarity": 0.005831980016762626,
+        "taxonomy_similarity": 0.007286285430695368,
+        "graph_similarity": 0.007639841180213851
+      }
+    },
+    "11-20": {
+      "documents": 142,
+      "tp": 13,
+      "fp": 44,
+      "fn": 2058,
+      "precision": 0.22807017543859648,
+      "recall": 0.006277160791887977,
+      "f1": 0.012218045112781954,
+      "official_mean": {
+        "edge_f1": 0.010036855904165023,
+        "neighborhood_similarity": 0.005502291883298511,
+        "taxonomy_similarity": 0.00460451608442495,
+        "graph_similarity": 0.006714554623962828
+      }
+    },
+    "21-999999": {
+      "documents": 193,
+      "tp": 6,
+      "fp": 68,
+      "fn": 5638,
+      "precision": 0.08108108108108109,
+      "recall": 0.0010630758327427356,
+      "f1": 0.002098635886673662,
+      "official_mean": {
+        "edge_f1": 0.002044187597548933,
+        "neighborhood_similarity": 0.0007920925005322177,
+        "taxonomy_similarity": 0.0007184404343596769,
+        "graph_similarity": 0.0011849068441469423
+      }
+    }
+  },
+  "success_definition": "TP>0, highest F1 then ID; partial successes, not perfect graphs",
+  "failure_definition": "5 empty predictions by ID and 5 nonempty errors by F1, descending FP, ID",
+  "success_examples": [
+    {
+      "id": "df11445b146c4aaeb5554514c4ede6f0",
+      "characters": 1733,
+      "words": 218,
+      "raw_gold": 8,
+      "gold": 8,
+      "predicted": 5,
+      "tp": 4,
+      "fp": 1,
+      "fn": 4,
+      "precision": 0.8,
+      "recall": 0.5,
+      "f1": 0.6153846153846154,
+      "official": {
+        "edge_f1": 0.6153846153846154,
+        "neighborhood_similarity": 0.4090909090909091,
+        "taxonomy_similarity": 0.5,
+        "graph_similarity": 0.5081585081585082
+      },
+      "correct": [
+        [
+          "binary operation",
+          "is-a",
+          "operation"
+        ],
+        [
+          "operation on function",
+          "is-a",
+          "operation"
+        ],
+        [
+          "statistical operation",
+          "is-a",
+          "operation"
+        ],
+        [
+          "unary operation",
+          "is-a",
+          "operation"
+        ]
+      ],
+      "fp_examples": [
+        [
+          "point",
+          "is-a",
+          "operation"
+        ]
+      ],
+      "fn_examples": [
+        [
+          "degree c",
+          "instance-of",
+          "unit derived by shifting"
+        ],
+        [
+          "function",
+          "is-a",
+          "operation"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 3,
+      "title": "Title: Mathematical Frameworks in Environmental Science"
+    },
+    {
+      "id": "9eb707300b074efc9f94ac693b0e7c3e",
+      "characters": 1169,
+      "words": 162,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 3,
+      "precision": 1.0,
+      "recall": 0.4,
+      "f1": 0.5714285714285714,
+      "official": {
+        "edge_f1": 0.5714285714285715,
+        "neighborhood_similarity": 0.3095238095238095,
+        "taxonomy_similarity": 0.2857142857142857,
+        "graph_similarity": 0.38888888888888884
+      },
+      "correct": [
+        [
+          "chenopodium pallidicaule",
+          "is-a",
+          "chenopodium"
+        ],
+        [
+          "chenopodium quinoa",
+          "is-a",
+          "chenopodium"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "brightest brilliant rainbow quinoa cultivar",
+          "is-a",
+          "chenopodium quinoa"
+        ],
+        [
+          "chenopodium album",
+          "is-a",
+          "chenopodium"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 2,
+      "title": "Title: Culinary Diversity and Taxonomic Groupings in Agriculture"
+    },
+    {
+      "id": "2e31f1fa13324890b03248b5cfb2541d",
+      "characters": 1340,
+      "words": 179,
+      "raw_gold": 8,
+      "gold": 8,
+      "predicted": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 6,
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1": 0.4,
+      "official": {
+        "edge_f1": 0.4,
+        "neighborhood_similarity": 0.25,
+        "taxonomy_similarity": 0.25,
+        "graph_similarity": 0.3
+      },
+      "correct": [
+        [
+          "global climate",
+          "is-a",
+          "climatological average"
+        ],
+        [
+          "regional climate",
+          "is-a",
+          "climatological average"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "local climate",
+          "is-a",
+          "climatological average"
+        ],
+        [
+          "mesoclimate",
+          "is-a",
+          "climatological average"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 0,
+      "title": "Title: Taxonomy of Climatic Averages in Ecological Systems"
+    },
+    {
+      "id": "0b3fae2f42c64fed9751af434f672e0c",
+      "characters": 1400,
+      "words": 194,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333333333333333,
+      "official": {
+        "edge_f1": 0.33333333333333337,
+        "neighborhood_similarity": 0.2,
+        "taxonomy_similarity": 0.2,
+        "graph_similarity": 0.24444444444444446
+      },
+      "correct": [
+        [
+          "kathetostoma giganteum",
+          "is-a",
+          "stargazer family"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "bearded seal carcass (raw)",
+          "is-a",
+          "bearded seal carcass"
+        ],
+        [
+          "beef shoulder clod (raw)",
+          "is-a",
+          "beef shoulder clod"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 3,
+      "title": "Title: Agricultural and Biological Classifications: Marine Life and Meat Products"
+    },
+    {
+      "id": "0d909cb0d9584989a5a54fbce9128386",
+      "characters": 1547,
+      "words": 214,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333333333333333,
+      "official": {
+        "edge_f1": 0.33333333333333337,
+        "neighborhood_similarity": 0.2857142857142857,
+        "taxonomy_similarity": 0.2857142857142857,
+        "graph_similarity": 0.30158730158730157
+      },
+      "correct": [
+        [
+          "retinol",
+          "is-a",
+          "primary allylic alcohol"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "lamb chop (boneless, raw)",
+          "is-a",
+          "lamb chop (raw)"
+        ],
+        [
+          "lamb shoulder blade chop",
+          "is-a",
+          "lamb chop (raw)"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 3,
+      "title": "Title: Understanding Lamb Cuts and Nutritional Chemistry"
+    },
+    {
+      "id": "3e0ea8c8b1d54ca4a90f043a8120c4d0",
+      "characters": 1677,
+      "words": 219,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333333333333333,
+      "official": {
+        "edge_f1": 0.33333333333333337,
+        "neighborhood_similarity": 0.2,
+        "taxonomy_similarity": 0.2,
+        "graph_similarity": 0.24444444444444446
+      },
+      "correct": [
+        [
+          "urea",
+          "is-a",
+          "monocarboxylic acid amide"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "astroblepus sp. white spot",
+          "is-a",
+          "unclassified astroblepus"
+        ],
+        [
+          "chordata",
+          "is-a",
+          "deuterostomia"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 3,
+      "title": "Title: Nutrient Management and Biological Monitoring in Agro-ecosystems"
+    },
+    {
+      "id": "3f9a7f851efa44b9b84a621d84e78149",
+      "characters": 1878,
+      "words": 255,
+      "raw_gold": 9,
+      "gold": 9,
+      "predicted": 3,
+      "tp": 2,
+      "fp": 1,
+      "fn": 7,
+      "precision": 0.6666666666666666,
+      "recall": 0.2222222222222222,
+      "f1": 0.3333333333333333,
+      "official": {
+        "edge_f1": 0.3333333333333333,
+        "neighborhood_similarity": 0.25,
+        "taxonomy_similarity": 0.25,
+        "graph_similarity": 0.27777777777777773
+      },
+      "correct": [
+        [
+          "granule",
+          "is-a",
+          "gravel"
+        ],
+        [
+          "pebble",
+          "is-a",
+          "gravel"
+        ]
+      ],
+      "fp_examples": [
+        [
+          "lapse rate",
+          "is-a",
+          "environmental lapse rate"
+        ]
+      ],
+      "fn_examples": [
+        [
+          "auto convective lapse rate",
+          "is-a",
+          "environmental lapse rate"
+        ],
+        [
+          "binning",
+          "is-a",
+          "data reduction service"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 7,
+      "title": "Title: Granular Classification and Atmospheric Data Processing Protocols"
+    },
+    {
+      "id": "a45b946a73844610aebbdad2df7227ea",
+      "characters": 1398,
+      "words": 211,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333333333333333,
+      "official": {
+        "edge_f1": 0.33333333333333337,
+        "neighborhood_similarity": 0.21428571428571427,
+        "taxonomy_similarity": 0.21428571428571427,
+        "graph_similarity": 0.253968253968254
+      },
+      "correct": [
+        [
+          "acetes japonicus",
+          "is-a",
+          "sergestidae"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "cranberry bean (dried)",
+          "is-a",
+          "cranberry bean"
+        ],
+        [
+          "cranberry bean (mature)",
+          "is-a",
+          "cranberry bean"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 4,
+      "title": "Title: Cranberry Beans and Sergestid Shrimp: A Biological Overview"
+    },
+    {
+      "id": "a67907b1f9d940479bb3b66d71999c41",
+      "characters": 1081,
+      "words": 147,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333333333333333,
+      "official": {
+        "edge_f1": 0.33333333333333337,
+        "neighborhood_similarity": 0.1875,
+        "taxonomy_similarity": 0.21428571428571427,
+        "graph_similarity": 0.24503968253968256
+      },
+      "correct": [
+        [
+          "elephas maximus",
+          "is-a",
+          "elephantidae"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "elephas maximus",
+          "is-a",
+          "obsolete: elephant"
+        ],
+        [
+          "lamb spleen",
+          "is-a",
+          "lamb spleen"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 3,
+      "title": "Title: Agricultural Diversity: Taxonomy and Preparation"
+    },
+    {
+      "id": "bbff51cfcc4b4a32b5871bda9b839d2a",
+      "characters": 1896,
+      "words": 277,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 1,
+      "tp": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333333333333333,
+      "official": {
+        "edge_f1": 0.33333333333333337,
+        "neighborhood_similarity": 0.20833333333333334,
+        "taxonomy_similarity": 0.19999999999999998,
+        "graph_similarity": 0.24722222222222223
+      },
+      "correct": [
+        [
+          "tropical forest",
+          "is-a",
+          "forest"
+        ]
+      ],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "boreal forest",
+          "is-a",
+          "taiga"
+        ],
+        [
+          "taiga",
+          "is-a",
+          "forest"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 3,
+      "title": "Title: The Taxonomic Diversity of Global Forest Biomes"
+    }
+  ],
+  "failure_examples": [
+    {
+      "id": "001e034f50924f959c34fc020a76122e",
+      "characters": 1508,
+      "words": 201,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "aggregated carbon nanorods",
+          "is-a",
+          "carbon allotrope"
+        ],
+        [
+          "amorphous carbon",
+          "is-a",
+          "carbon allotrope"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 5,
+      "title": "Title: Diverse Structural Manifestations of Carbon Allotropes"
+    },
+    {
+      "id": "005eceb71f8b4377b8aff8436b19556e",
+      "characters": 871,
+      "words": 127,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "beef brisket (raw)",
+          "is-a",
+          "beef brisket"
+        ],
+        [
+          "beef thymus",
+          "is-a",
+          "beef thymus"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 2,
+      "title": "Title: Culinary Butchery and Ingredient Overview"
+    },
+    {
+      "id": "006ff9ac8e70474fa8468dd26e736394",
+      "characters": 2018,
+      "words": 267,
+      "raw_gold": 6,
+      "gold": 6,
+      "predicted": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "familial apolipoprotein a5 deficiency",
+          "is-a",
+          "familial chylomicronemia syndrome"
+        ],
+        [
+          "familial apolipoprotein c-ii deficiency",
+          "is-a",
+          "familial chylomicronemia syndrome"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 6,
+      "title": "Title: Clinical Spectrum and Genetic Etiology of Familial Chylomicronemia Syndrome"
+    },
+    {
+      "id": "0084c7e04a564d58bb9e51a1ed0ebacb",
+      "characters": 1453,
+      "words": 200,
+      "raw_gold": 7,
+      "gold": 7,
+      "predicted": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 7,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "10000240 - pasta/noodles - ready to eat (perishable) (gs1 gpc)",
+          "is-a",
+          "50192900 - pasta/noodles (gs1 gpc)"
+        ],
+        [
+          "10000241 - pasta/noodles - ready to eat (shelf stable) (gs1 gpc)",
+          "is-a",
+          "50192900 - pasta/noodles (gs1 gpc)"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 7,
+      "title": "Title: Food Chemistry and Product Classification: Saccharin and Pasta Categories"
+    },
+    {
+      "id": "00857be4a7494939aa6bb960c3d04839",
+      "characters": 1021,
+      "words": 143,
+      "raw_gold": 6,
+      "gold": 6,
+      "predicted": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [],
+      "fn_examples": [
+        [
+          "17480 - papayas (efsa foodex2)",
+          "is-a",
+          "17470 - papayas and similar- (efsa foodex2)"
+        ],
+        [
+          "17490 - akee apples (efsa foodex2)",
+          "is-a",
+          "17470 - papayas and similar- (efsa foodex2)"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 6,
+      "title": "Title: Taxonomic Classification of Papayas and Similar Fruit Groupings"
+    },
+    {
+      "id": "eef1f2b4059a42c9861516c6b01e5c71",
+      "characters": 3466,
+      "words": 502,
+      "raw_gold": 30,
+      "gold": 30,
+      "predicted": 4,
+      "tp": 0,
+      "fp": 4,
+      "fn": 30,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [
+        [
+          "as",
+          "is-a",
+          "concentration of"
+        ],
+        [
+          "dilution",
+          "is-a",
+          "concentration"
+        ]
+      ],
+      "fn_examples": [
+        [
+          "concentration of adenosine 5-triphosphate in liquid water",
+          "is-a",
+          "concentration of phosphate in liquid water"
+        ],
+        [
+          "concentration of bacteriochlorophyll a in liquid water",
+          "is-a",
+          "concentration of chlorophyll in liquid water"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 29,
+      "title": "Title: Molecular Quality Distributions in Terrestrial and Aquatic Environments"
+    },
+    {
+      "id": "0be201447e964836855154a745aeb3c6",
+      "characters": 1939,
+      "words": 279,
+      "raw_gold": 8,
+      "gold": 8,
+      "predicted": 3,
+      "tp": 0,
+      "fp": 3,
+      "fn": 8,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [
+        [
+          "dough",
+          "is-a",
+          "macaroni or noodle food product"
+        ],
+        [
+          "enrichment",
+          "is-a",
+          "common"
+        ]
+      ],
+      "fn_examples": [
+        [
+          "barley egg noodle",
+          "is-a",
+          "egg noodle product"
+        ],
+        [
+          "egg noodle product",
+          "is-a",
+          "macaroni or noodle food product"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 7,
+      "title": "Title: The Botanical and Culinary Diversity of Noodle-Based Products"
+    },
+    {
+      "id": "232403f28a194c6d8bd1a31c1dc8d946",
+      "characters": 1667,
+      "words": 232,
+      "raw_gold": 6,
+      "gold": 6,
+      "predicted": 3,
+      "tp": 0,
+      "fp": 3,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [
+        [
+          "event",
+          "is-a",
+          "change"
+        ],
+        [
+          "system",
+          "is-a",
+          "in"
+        ]
+      ],
+      "fn_examples": [
+        [
+          "experiment activity",
+          "is-a",
+          "experiment"
+        ],
+        [
+          "feedback",
+          "is-a",
+          "self regulation"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 5,
+      "title": "Title: Understanding the Critical Zone and Ecosystem Dynamics"
+    },
+    {
+      "id": "60a9bd85ee0f47108fafbdf4e18928e8",
+      "characters": 1498,
+      "words": 226,
+      "raw_gold": 7,
+      "gold": 7,
+      "predicted": 3,
+      "tp": 0,
+      "fp": 3,
+      "fn": 7,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [
+        [
+          "entity",
+          "is-a",
+          "liver lipoma"
+        ],
+        [
+          "group",
+          "is-a",
+          "familial hepatic adenoma"
+        ]
+      ],
+      "fn_examples": [
+        [
+          "familial hepatic adenoma",
+          "is-a",
+          "hepatocellular adenoma"
+        ],
+        [
+          "hemangioma of liver",
+          "is-a",
+          "liver benign neoplasm"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 3,
+      "title": "Title: Classification of Benign Liver Neoplasms"
+    },
+    {
+      "id": "6b2f50813ed84e5688d1c22c1246cacb",
+      "characters": 1045,
+      "words": 149,
+      "raw_gold": 5,
+      "gold": 5,
+      "predicted": 3,
+      "tp": 0,
+      "fp": 3,
+      "fn": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "official": {
+        "edge_f1": 0.0,
+        "neighborhood_similarity": 0.0,
+        "taxonomy_similarity": 0.0,
+        "graph_similarity": 0.0
+      },
+      "correct": [],
+      "fp_examples": [
+        [
+          "group",
+          "is-a",
+          "sphyrna lewini"
+        ],
+        [
+          "species",
+          "is-a",
+          "sphyrna mokarran"
+        ]
+      ],
+      "fn_examples": [
+        [
+          "sphyrna lewini",
+          "is-a",
+          "sphyrna"
+        ],
+        [
+          "sphyrna mokarran",
+          "is-a",
+          "sphyrna"
+        ]
+      ],
+      "gold_endpoints_unseen_in_train": 5,
+      "title": "Title: Diversity within the Hammerhead Shark Genus Sphyrna"
+    }
+  ],
+  "hashes": {
+    "source": "ddf05cdc7970c64616569252234655985014e3ddbc4e32f1c1be7e5dcc6b1569",
+    "split": "7a4dd41743208a30699a0c4947067680204e834f9e878120328684c22f4f361b",
+    "predictions": "0fe06c944d536f7abe2e127bc0fb59be47491fa89e6da2a10e358f3f98fb2b95",
+    "train": "5a0b7d4bf89e2cbaae8cf44c81352a0cd820e92feb96c6bee64734539cbd1c37"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "variant": "surface",
+  "train_sha256": "5a0b7d4bf89e2cbaae8cf44c81352a0cd820e92feb96c6bee64734539cbd1c37",
+  "input_sha256": "ed5d7ac4d75abd664e7826a23aae507e0d01a9331e011553ef0ca2fd5aebc5ce",
+  "predictions_sha256": "4e542bcdcd0126f572edaf7be6dfc2bf6e5de6a8a3a5caf3354e85469e90eb5c",
+  "implementation_sha256": "724af58f69d286002e77509c6c7ffc2f68534886746ea2221164d2ae5a578951",
+  "baseline_sha256": "c04b9b4c14398b543b6c5463d761ba3d62f6f8fe8defa13500b456f7d8ac7419",
+  "documents": 861,
+  "fit_and_predict_seconds": 1.9457498159999886,
+  "seed": null,
+  "deterministic": true,
+  "device": "CPU",
+  "fitting_scope": "train only"
+}
