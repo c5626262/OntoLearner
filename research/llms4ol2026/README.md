@@ -116,3 +116,19 @@ is-a/instance-ofを別カテゴリに保ち、part_of/has partの逆関係を同
 - `reports/tests.log`, `reports/tests.xml`: 既存21＋追加33＝54テストの検証結果
 
 合成評価例の完全一致は評価器の正常系テストであり、モデル性能として報告しません。
+
+## 再現可能なtrain/validation分割
+
+`split` コマンドを追加しています。固定版の公開trainから、共有トリプルと類似文書を
+同じ側に置く分割を作ります。保存済みID一覧・条件は `splits/seed42/`、
+方式・漏洩検査・希少関係の注意点は [SPLITTING.md](SPLITTING.md) を参照してください。
+
+```bash
+.venv/bin/python -m research.llms4ol2026 split \
+  --train /workspace/llms4ol2026-data/train_task_a.json \
+  --seed 42 --validation-fraction 0.2 --candidates 64 --near-threshold 0.8 \
+  --output research/llms4ol2026/splits/seed42
+```
+
+推論用の文書は `splitting.inference_documents()` でid/contextだけを取り出します。
+正解トリプルは分割条件・関係分布・評価のためだけに参照し、推論入力へ渡しません。

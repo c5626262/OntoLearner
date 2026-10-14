@@ -1,0 +1,66 @@
+{
+  "source": {
+    "scope": "official public train only; no official test used",
+    "official_repository": "sciknoworg/LLMs4OL-Challenge",
+    "official_commit": "315a9a5d883eada26e00fef1356a05802936c584",
+    "official_train_path": "2026/TaskA-Flagship/train_task_a.json",
+    "git_blob_sha": "a074265ed063dfc7e34f0f6745d4b0aaca7d0425",
+    "sha256": "ddf05cdc7970c64616569252234655985014e3ddbc4e32f1c1be7e5dcc6b1569"
+  },
+  "config": {
+    "algorithm": "seeded_group_subset_search_v1",
+    "seed": 42,
+    "validation_fraction_requested": 0.2,
+    "rounding": "ceil(N * validation_fraction), capped at N-1; nearest feasible atomic-group count",
+    "target_validation_documents": 861,
+    "candidates": 64,
+    "selected_candidate_index": 4,
+    "relation_count_discrepancy": 10.650730656112962,
+    "candidate_objective": "min(count error, sum((validation label count - requested fraction * full label count)^2 / max(full label count,1)), sorted validation IDs)",
+    "near_document_grouping_cosine_threshold": 0.8,
+    "text_normalization": "lowercase and collapse whitespace",
+    "fact_normalization": "lowercase and collapse whitespace on each triple component",
+    "grouping": "connected components of shared normalized facts, duplicate normalized contexts, and near documents",
+    "similarity": {
+      "method": "word/bigram TF-IDF cosine",
+      "ngram_range": [
+        1,
+        2
+      ],
+      "lowercase": true,
+      "token_pattern": "(?u)\\b\\w\\w+\\b",
+      "norm": "l2",
+      "use_idf": true,
+      "smooth_idf": true,
+      "sublinear_tf": false,
+      "dtype": "float64",
+      "scope": "all public train for partition construction only; future model/retrieval fitting must use split train only"
+    }
+  },
+  "grouping": {
+    "shared_normalized_triple_types": 1420,
+    "duplicate_normalized_context_groups": 0,
+    "near_document_pairs_grouped": 9,
+    "groups": 3521,
+    "largest_group_documents": 416
+  },
+  "counts": {
+    "full": 4303,
+    "train": 3442,
+    "validation": 861
+  },
+  "ids": {
+    "train_file": "train_ids.json",
+    "train_sha256": "b524ff478fbe8c16ee60c70626b2b76b3df520fb6057a6b1a159336c57a6de5e",
+    "validation_file": "validation_ids.json",
+    "validation_sha256": "dbca1614437cf43d9b118483abf197e3b49decd62ee1f85ebec6eb98c8f2441c"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "networkx": "3.2.1"
+  },
+  "implementation_sha256": "41f31d08f29b25edaeda3a2a485b4b53c2e1faf7499000f9c7a35a76bec3ae83",
+  "inference_contract": "id/context only via inference_documents(); reference triples are used for splitting and evaluation, never exported as inference inputs"
+}

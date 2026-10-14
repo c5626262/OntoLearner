@@ -1,0 +1,65 @@
+{
+  "overlapping_ids": 0,
+  "shared_normalized_triples": 0,
+  "duplicate_normalized_contexts": 0,
+  "shared_node_strings": 3203,
+  "split_type": "document/fact-group holdout, not entity-disjoint or verified domain-disjoint",
+  "lexical_similarity_audit_floor": 0.7,
+  "all_document_pairs_at_or_above_floor": 44,
+  "cross_partition_pairs_at_or_above_floor": 17,
+  "cross_partition_pairs_at_or_above_grouping_threshold": 0,
+  "highest_detected_cross_partition_cosine": 0.7982717026599467,
+  "cross_partition_examples": [
+    {
+      "left_id": "6167a51ee8cb4e67820d816bd9526c62",
+      "right_id": "952a6fbd6aea46f1bcf5e119800eab4a",
+      "cosine": 0.7982717026599467
+    },
+    {
+      "left_id": "6e4b09412abf4f28a356ab42958e27e3",
+      "right_id": "c4c2ac24daa84fadb1fb4eed8cab78a0",
+      "cosine": 0.7770151180837314
+    },
+    {
+      "left_id": "6167a51ee8cb4e67820d816bd9526c62",
+      "right_id": "b0a07bd375ce40008c61639798b5ab69",
+      "cosine": 0.7613677231124952
+    },
+    {
+      "left_id": "88dd7f2ca16e4db7928ac020bb3ba041",
+      "right_id": "952a6fbd6aea46f1bcf5e119800eab4a",
+      "cosine": 0.7581135939944235
+    },
+    {
+      "left_id": "83c4dae1636e443b990f040f73b5e79d",
+      "right_id": "952a6fbd6aea46f1bcf5e119800eab4a",
+      "cosine": 0.7565524279713036
+    },
+    {
+      "left_id": "83c4dae1636e443b990f040f73b5e79d",
+      "right_id": "b0a07bd375ce40008c61639798b5ab69",
+      "cosine": 0.7453195267463459
+    },
+    {
+      "left_id": "7fb01349c8e84d26b0e86177b620c687",
+      "right_id": "9522c033da8b42a8ac2e8dd83c87a7f3",
+      "cosine": 0.7446348473988664
+    },
+    {
+      "left_id": "63c099cd84dd4023a679184751aef518",
+      "right_id": "81bc61925c4c4f18b2499c111007e6e6",
+      "cosine": 0.7388380728424155
+    },
+    {
+      "left_id": "5538c1dd77a246bb94f89865c9926d3b",
+      "right_id": "b1ac698f395d43248526e8e237302d40",
+      "cosine": 0.7365586055448564
+    },
+    {
+      "left_id": "a64388378d8a4dbd841c20265573ec77",
+      "right_id": "d07b9cc2633f4e21a400fd03131e3564",
+      "cosine": 0.7331611510695749
+    }
+  ],
+  "limitations": "Lexical audit only. Similarity below the floor and paraphrase/semantic leakage are not ruled out. Shared concepts are reported, not treated as identical facts."
+}
