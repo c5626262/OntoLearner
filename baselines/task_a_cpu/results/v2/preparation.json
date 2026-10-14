@@ -1,0 +1,8 @@
+{
+  "source_sha256": "ddf05cdc7970c64616569252234655985014e3ddbc4e32f1c1be7e5dcc6b1569",
+  "split_manifest_sha256": "7a4dd41743208a30699a0c4947067680204e834f9e878120328684c22f4f361b",
+  "train_sha256": "5a0b7d4bf89e2cbaae8cf44c81352a0cd820e92feb96c6bee64734539cbd1c37",
+  "validation_contexts_sha256": "ed5d7ac4d75abd664e7826a23aae507e0d01a9331e011553ef0ca2fd5aebc5ce",
+  "train_documents": 3442,
+  "validation_documents": 861
+}

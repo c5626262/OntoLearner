@@ -1,0 +1,11 @@
+{
+  "mode": "A",
+  "input_sha256": "ed5d7ac4d75abd664e7826a23aae507e0d01a9331e011553ef0ca2fd5aebc5ce",
+  "raw_predictions_sha256": "4e542bcdcd0126f572edaf7be6dfc2bf6e5de6a8a3a5caf3354e85469e90eb5c",
+  "output_sha256": "4e542bcdcd0126f572edaf7be6dfc2bf6e5de6a8a3a5caf3354e85469e90eb5c",
+  "implementation_sha256": "ea097ba32cc9dcb3f242481ef13630bcebd28f8948016e89281748a7c638b26e",
+  "merge_groups": 0,
+  "context_threshold": 0.6,
+  "scope": "within document",
+  "semantic_model_used": false
+}

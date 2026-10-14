@@ -1,0 +1,10278 @@
+[
+  {
+    "id": "001e034f50924f959c34fc020a76122e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "005eceb71f8b4377b8aff8436b19556e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "006ff9ac8e70474fa8468dd26e736394",
+    "primitive-ontology-triples": [
+      [
+        "familial lipoprotein lipase deficiency",
+        "is-a",
+        "autosomal recessive disease"
+      ]
+    ]
+  },
+  {
+    "id": "0084c7e04a564d58bb9e51a1ed0ebacb",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "00857be4a7494939aa6bb960c3d04839",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "009266a5ed274512a888623450721159",
+    "primitive-ontology-triples": [
+      [
+        "environment",
+        "is-a",
+        "system component"
+      ]
+    ]
+  },
+  {
+    "id": "00c3f7cbedd845b483c070efcb986272",
+    "primitive-ontology-triples": [
+      [
+        "long QT syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "long QT syndrome 1",
+        "is-a",
+        "digenic disease"
+      ],
+      [
+        "long QT syndrome 2",
+        "is-a",
+        "digenic disease"
+      ],
+      [
+        "long QT syndrome 3",
+        "is-a",
+        "digenic disease"
+      ],
+      [
+        "long QT syndrome 5",
+        "is-a",
+        "digenic disease"
+      ],
+      [
+        "long QT syndrome 6",
+        "is-a",
+        "digenic disease"
+      ],
+      [
+        "long QT syndrome 9",
+        "is-a",
+        "digenic disease"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "00d98ae025df4418ba9dc15cda3bcc15",
+    "primitive-ontology-triples": [
+      [
+        "disease",
+        "is-a",
+        "a"
+      ],
+      [
+        "inverted papilloma",
+        "is-a",
+        "a"
+      ],
+      [
+        "lung",
+        "is-a",
+        "an"
+      ],
+      [
+        "papilloma",
+        "is-a",
+        "a"
+      ],
+      [
+        "species",
+        "is-a",
+        "a"
+      ],
+      [
+        "urethra inverted papilloma",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "0149b754360848a993e70db155951023",
+    "primitive-ontology-triples": [
+      [
+        "an",
+        "is-a",
+        "vegetable food product"
+      ],
+      [
+        "artichoke head",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "0167d9505664453d9bf7423347141a70",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "01f9397c58ce4f5c8d991e6b3daf2620",
+    "primitive-ontology-triples": [
+      [
+        "patty",
+        "is-a",
+        "a"
+      ],
+      [
+        "patty",
+        "is-a",
+        "well"
+      ]
+    ]
+  },
+  {
+    "id": "02ca375f62cd42929b5bdbfe46cc6029",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "02d76283ac844228a5b357233d44f278",
+    "primitive-ontology-triples": [
+      [
+        "family",
+        "is-a",
+        "a"
+      ],
+      [
+        "gempylidae",
+        "is-a",
+        "scombriformes"
+      ]
+    ]
+  },
+  {
+    "id": "03903c37777f4a589e7895e64687f88a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "03b5306ec4d4486d874e48d813161a6a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "03e3888dba3549198223b924cbfa467d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "03f8fe7cb6e5403290aaae97ea3d8d8e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0418aa2c500d4ddcb886dd2b65a9cc21",
+    "primitive-ontology-triples": [
+      [
+        "carya",
+        "is-a",
+        "species"
+      ],
+      [
+        "group",
+        "is-a",
+        "carya"
+      ]
+    ]
+  },
+  {
+    "id": "04ab5d320c444da39c93f6637577f1e3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "04d751c28c584b138450a651da57fc99",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "05167c30f84d4408bf0cb95c72d5dd89",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0599a2f9025440c1a0c3e6f64f3afe67",
+    "primitive-ontology-triples": [
+      [
+        "species",
+        "is-a",
+        "a"
+      ],
+      [
+        "species",
+        "is-a",
+        "direct"
+      ]
+    ]
+  },
+  {
+    "id": "05b9e2abd6774c1d9c02304ada5e03ed",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "068b3071b0dc4653ad633ae34b6fa3f8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "06dd9c866ab94998a3a04279922abf2b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "06e7cbd71dc64b289d59ab25426d84fa",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "06eec4e3f84d4fa2b064af5e7d57b7b1",
+    "primitive-ontology-triples": [
+      [
+        "Iron",
+        "is-a",
+        "mineral"
+      ]
+    ]
+  },
+  {
+    "id": "0735325772874bd88108b787b6d010ca",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0757d69395e64f5d97a5ac1620f08f5e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "077c49916632447e9fb07c407e7e4ce6",
+    "primitive-ontology-triples": [
+      [
+        "fast food",
+        "is-a",
+        "a"
+      ],
+      [
+        "fast food",
+        "is-a",
+        "convenience"
+      ],
+      [
+        "food",
+        "instance-of",
+        "a"
+      ],
+      [
+        "food",
+        "instance-of",
+        "convenience"
+      ]
+    ]
+  },
+  {
+    "id": "07c4bee2c11d4713beab7cf8b14ae4d3",
+    "primitive-ontology-triples": [
+      [
+        "corrinoid",
+        "is-a",
+        "a"
+      ],
+      [
+        "ingredient",
+        "is-a",
+        "monkfish"
+      ],
+      [
+        "metalloporphyrin",
+        "is-a",
+        "coordination entity"
+      ]
+    ]
+  },
+  {
+    "id": "0811b7c9efeb4f4c8fadd25245d7e2d0",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "082ebbfea7c547b1912ed34430ba2d9c",
+    "primitive-ontology-triples": [
+      [
+        "A solid substance",
+        "is-a",
+        "substance"
+      ],
+      [
+        "An organic substance",
+        "is-a",
+        "substance, encompassing living matter"
+      ],
+      [
+        "Within this, an organic compound",
+        "is-a",
+        "organic substance, forming the basis of metabolic processes"
+      ],
+      [
+        "as",
+        "is-a",
+        "proton"
+      ],
+      [
+        "compound",
+        "is-a",
+        "a"
+      ],
+      [
+        "electron",
+        "is-a",
+        "a"
+      ],
+      [
+        "electron",
+        "is-a",
+        "subatomic particle"
+      ],
+      [
+        "gas",
+        "is-a",
+        "a"
+      ],
+      [
+        "gas",
+        "is-a",
+        "atmosphere"
+      ],
+      [
+        "organic compound",
+        "is-a",
+        "a"
+      ],
+      [
+        "substance",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "08b9bdf304174333909b9aa59a1ebf27",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "08f31a860888411192e9e00894e5994b",
+    "primitive-ontology-triples": [
+      [
+        "plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "species",
+        "is-a",
+        "an"
+      ],
+      [
+        "species",
+        "is-a",
+        "oil-producing plant"
+      ],
+      [
+        "triticum monococcum",
+        "is-a",
+        "triticum"
+      ],
+      [
+        "triticum spelta",
+        "is-a",
+        "triticum"
+      ]
+    ]
+  },
+  {
+    "id": "0911e2c22a844eaaa46ef93868217c14",
+    "primitive-ontology-triples": [
+      [
+        "planet",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "096f823724e44a9ebf8815857e3797aa",
+    "primitive-ontology-triples": [
+      [
+        "artifact function",
+        "is-a",
+        "a"
+      ],
+      [
+        "artifact function",
+        "is-a",
+        "broad"
+      ],
+      [
+        "artifact function",
+        "is-a",
+        "key"
+      ],
+      [
+        "function",
+        "is-a",
+        "a"
+      ],
+      [
+        "function",
+        "is-a",
+        "broad"
+      ],
+      [
+        "function",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "09974036266147c0902c5ccf11988b7d",
+    "primitive-ontology-triples": [
+      [
+        "18300 - compote of fruit / vegetables (efsa foodex2)",
+        "is-a",
+        "18040 - fruit / vegetable spreads and similar (efsa foodex2)"
+      ]
+    ]
+  },
+  {
+    "id": "099822c2d250483891b41afc4988d2f4",
+    "primitive-ontology-triples": [
+      [
+        "abyssal clay",
+        "is-a",
+        "clay"
+      ],
+      [
+        "dust",
+        "is-a",
+        "particulate environmental material"
+      ],
+      [
+        "dust",
+        "is-a",
+        "solid environmental material"
+      ]
+    ]
+  },
+  {
+    "id": "0a1335ff176442cbacb6f570b3f4264d",
+    "primitive-ontology-triples": [
+      [
+        "area",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "fruit",
+        "is-a",
+        "processed"
+      ],
+      [
+        "pome fruit",
+        "is-a",
+        "processed"
+      ]
+    ]
+  },
+  {
+    "id": "0a4ea371bf144daabfb037aff27042e3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0abc56730f1e45f3b6adec12170434ea",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0ad7ae416e1d415083669603c2c99d24",
+    "primitive-ontology-triples": [
+      [
+        "dicarboxylic aminoaciduria",
+        "is-a",
+        "amino acid metabolic disorder"
+      ],
+      [
+        "dicarboxylic aminoaciduria",
+        "is-a",
+        "an"
+      ]
+    ]
+  },
+  {
+    "id": "0ae73c2114f5489f9f5e4812e5dc1ffb",
+    "primitive-ontology-triples": [
+      [
+        "adult vascular leaf",
+        "is-a",
+        "vascular leaf"
+      ],
+      [
+        "substance",
+        "is-a",
+        "a"
+      ],
+      [
+        "substance",
+        "is-a",
+        "mass percentage based unit"
+      ],
+      [
+        "vascular leaf",
+        "is-a",
+        "leaf"
+      ]
+    ]
+  },
+  {
+    "id": "0afc7c8371fb4c31aa35071666b0fc4e",
+    "primitive-ontology-triples": [
+      [
+        "gating",
+        "is-a",
+        "partitioning data transformation"
+      ]
+    ]
+  },
+  {
+    "id": "0b3fae2f42c64fed9751af434f672e0c",
+    "primitive-ontology-triples": [
+      [
+        "kathetostoma giganteum",
+        "is-a",
+        "a"
+      ],
+      [
+        "kathetostoma giganteum",
+        "is-a",
+        "stargazer family"
+      ]
+    ]
+  },
+  {
+    "id": "0b993a70b1014ad997d145be3f9df107",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "faxonius limosus"
+      ],
+      [
+        "livestock",
+        "is-a",
+        "pork leg center slice (raw)"
+      ],
+      [
+        "pork leg center slice (raw)",
+        "is-a",
+        "piece of pig (raw)"
+      ]
+    ]
+  },
+  {
+    "id": "0ba2349c19f64f21a21c753905c28470",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0baef7f5ba4e46e4b720dd1386c6c588",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0be201447e964836855154a745aeb3c6",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "Product",
+        "is-a",
+        "macaroni or noodle food product"
+      ],
+      [
+        "dough",
+        "is-a",
+        "macaroni or noodle food product"
+      ],
+      [
+        "enrichment",
+        "is-a",
+        "common"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "macaroni or noodle food product",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "0c07ba9e099a4e87b154e3160c51050e",
+    "primitive-ontology-triples": [
+      [
+        "environmental impact",
+        "is-a",
+        "phenomena"
+      ],
+      [
+        "land environmental impact",
+        "is-a",
+        "environmental impact"
+      ],
+      [
+        "system",
+        "is-a",
+        "earth"
+      ]
+    ]
+  },
+  {
+    "id": "0c2d8152d7574655b1ce52c1a33700f9",
+    "primitive-ontology-triples": [
+      [
+        "soil",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "0cbdf156640b4c9f940b0a67ec9e7344",
+    "primitive-ontology-triples": [
+      [
+        "documentation",
+        "is-a",
+        "a"
+      ],
+      [
+        "process",
+        "exact match",
+        "process"
+      ]
+    ]
+  },
+  {
+    "id": "0ccb4f3085de4b428dcc79d503e93a02",
+    "primitive-ontology-triples": [
+      [
+        "moment of inertia",
+        "is-a",
+        "an"
+      ],
+      [
+        "moment of inertia",
+        "is-a",
+        "object"
+      ]
+    ]
+  },
+  {
+    "id": "0ce5153d7a93474fa16628eb156eb494",
+    "primitive-ontology-triples": [
+      [
+        "self describing format",
+        "is-a",
+        "format"
+      ]
+    ]
+  },
+  {
+    "id": "0d729633d61b4f21b4116f559492289a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0d909cb0d9584989a5a54fbce9128386",
+    "primitive-ontology-triples": [
+      [
+        "retinol",
+        "is-a",
+        "primary allylic alcohol"
+      ]
+    ]
+  },
+  {
+    "id": "0de795a23278429d9d139839b08b9d9c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0e1fcd751b744f508cd05d9c10fc6dc5",
+    "primitive-ontology-triples": [
+      [
+        "species",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "0ed5389e74754d8c996b364209b0b046",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0f1b30cf49684e2085fb2301a6d01ed9",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0f309033dad3467480538effa99acba7",
+    "primitive-ontology-triples": [
+      [
+        "piece of reindeer",
+        "is-a",
+        "piece of reindeer"
+      ],
+      [
+        "piece of reindeer meat",
+        "is-a",
+        "piece of reindeer"
+      ]
+    ]
+  },
+  {
+    "id": "0f3de867879d410bb32bba591e62bbda",
+    "primitive-ontology-triples": [
+      [
+        "steel",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "0f7a67a02a0b49bba28d310e7512687b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "0f83e697a3764db08c7e0c448498f59a",
+    "primitive-ontology-triples": [
+      [
+        "glucose transporter type 1 deficiency syndrome 2",
+        "is-a",
+        "an"
+      ],
+      [
+        "glucose transporter type 1 deficiency syndrome 2",
+        "is-a",
+        "autosomal dominant disease"
+      ]
+    ]
+  },
+  {
+    "id": "0f97e898ab044248bcdc3b3716eaf547",
+    "primitive-ontology-triples": [
+      [
+        "It",
+        "is-a",
+        "watt per steradian based unit"
+      ],
+      [
+        "This",
+        "is-a",
+        "mass per unit volume based unit"
+      ],
+      [
+        "biomacromolecule",
+        "is-a",
+        "a"
+      ],
+      [
+        "biomacromolecule",
+        "is-a",
+        "macromolecule"
+      ],
+      [
+        "per steradian",
+        "instance-of",
+        "a"
+      ],
+      [
+        "per steradian",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "process",
+        "is-a",
+        "water"
+      ],
+      [
+        "steradian",
+        "instance-of",
+        "a"
+      ],
+      [
+        "steradian",
+        "instance-of",
+        "unit"
+      ]
+    ]
+  },
+  {
+    "id": "101302e6ceec49138cc4f9c83f5878e2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "10331e1a071b4450a60bf42879aa8ddd",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "10a7bb5c32164d13884b681746af03df",
+    "primitive-ontology-triples": [
+      [
+        "garlic bulb",
+        "is-a",
+        "bulb"
+      ]
+    ]
+  },
+  {
+    "id": "10b69b3811dd4bbb9c5c26141fc36e67",
+    "primitive-ontology-triples": [
+      [
+        "peel",
+        "is-a",
+        "grapefruit"
+      ]
+    ]
+  },
+  {
+    "id": "10be2b8ed41c444b840ce39cfbdef682",
+    "primitive-ontology-triples": [
+      [
+        "flavans",
+        "is-a",
+        "1-benzopyran"
+      ]
+    ]
+  },
+  {
+    "id": "10daccd4b88d4e1981bf30174926ce77",
+    "primitive-ontology-triples": [
+      [
+        "lr",
+        "instance-of",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "11085cf125e440c7b13e58a425240c15",
+    "primitive-ontology-triples": [
+      [
+        "injection",
+        "is-a",
+        "common"
+      ]
+    ]
+  },
+  {
+    "id": "11214d92addd4c37b657caf41dcb7f0e",
+    "primitive-ontology-triples": [
+      [
+        "eccrine sweat gland cancer",
+        "is-a",
+        "sweat gland cancer"
+      ]
+    ]
+  },
+  {
+    "id": "112c54609a394caa967d1d3b7b1b2581",
+    "primitive-ontology-triples": [
+      [
+        "muscle tissue",
+        "is-a",
+        "tissue"
+      ],
+      [
+        "pork muscle tissue cut",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "115f74e0444e46f98bb84d21c5dbdcef",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1192a4ab6e274fb7b872e946d42b90f8",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "ginger food product",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "11d1b009dc914d53981d80cf5aaf9df2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "12b4ced4144a4ce19b620b5cd8ee17a1",
+    "primitive-ontology-triples": [
+      [
+        "flash flood",
+        "is-a",
+        "a"
+      ],
+      [
+        "flood",
+        "is-a",
+        "a"
+      ],
+      [
+        "order",
+        "is-a",
+        "a"
+      ],
+      [
+        "soil order",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "12f7924f765e448782f63c284b4a04cb",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "12fe165682594d57a01124a86817278d",
+    "primitive-ontology-triples": [
+      [
+        "bearded seal",
+        "is-a",
+        "seal"
+      ],
+      [
+        "bearded seal material",
+        "is-a",
+        "seal material"
+      ]
+    ]
+  },
+  {
+    "id": "13673e6bc0af4b71b51ee9b0415e1907",
+    "primitive-ontology-triples": [
+      [
+        "brucellosis",
+        "is-a",
+        "a"
+      ],
+      [
+        "brucellosis",
+        "is-a",
+        "primary bacterial infectious disease"
+      ],
+      [
+        "disease",
+        "is-a",
+        "a"
+      ],
+      [
+        "disease",
+        "is-a",
+        "well"
+      ]
+    ]
+  },
+  {
+    "id": "13be1c3c5e7046bfb974d74d3b410a7f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "15571981c06d4912a87754e271d92095",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1566d45872364cada261570108c4cdb5",
+    "primitive-ontology-triples": [
+      [
+        "desert sand",
+        "is-a",
+        "astronomical body part"
+      ]
+    ]
+  },
+  {
+    "id": "15e9ee4451b54293bbb15c14709eb815",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1665c7c49db448208646e5cf845f1f5c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "16ed249ffc014f9e9e130c259fb13032",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "171b07557da84167b30f6a18bbc7e1d3",
+    "primitive-ontology-triples": [
+      [
+        "molidae",
+        "is-a",
+        "tetraodontiformes"
+      ]
+    ]
+  },
+  {
+    "id": "17bc5bea1fa7416c8a2cfa7401e1a962",
+    "primitive-ontology-triples": [
+      [
+        "beta carotene",
+        "is-a",
+        "a"
+      ],
+      [
+        "carotene",
+        "is-a",
+        "a"
+      ],
+      [
+        "carotene",
+        "is-a",
+        "carotenoid"
+      ],
+      [
+        "retinol",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "17bcc070d53545d7a7359242f9e0bfac",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "180dc441a788456c867971ec5eeeda7b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1830f7e0bc02423cb872d0a21b9569f7",
+    "primitive-ontology-triples": [
+      [
+        "developmental and epileptic encephalopathy 64",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "18312b5d1910407188c4055167535584",
+    "primitive-ontology-triples": [
+      [
+        "autoimmune disease of skin and connective tissue",
+        "is-a",
+        "a"
+      ],
+      [
+        "connective tissue",
+        "is-a",
+        "a"
+      ],
+      [
+        "tinea manuum",
+        "is-a",
+        "common"
+      ],
+      [
+        "tissue",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "18738577bf154bc7bea1e8068167b4aa",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "Product"
+      ],
+      [
+        "group",
+        "is-a",
+        "a"
+      ],
+      [
+        "unit",
+        "is-a",
+        "a"
+      ],
+      [
+        "unit",
+        "is-a",
+        "vehicle"
+      ],
+      [
+        "vehicle",
+        "is-a",
+        "Product"
+      ],
+      [
+        "vehicle",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "1894f2a65a7249c585d29ecef974689b",
+    "primitive-ontology-triples": [
+      [
+        "Verification",
+        "is-a",
+        "data service that encompasses several critical checks"
+      ]
+    ]
+  },
+  {
+    "id": "196e03140d644aaba7149a7c113eea51",
+    "primitive-ontology-triples": [
+      [
+        "an",
+        "instance-of",
+        "denotator type"
+      ],
+      [
+        "as",
+        "instance-of",
+        "denotator type"
+      ],
+      [
+        "freshwater wetland ecosystem",
+        "is-a",
+        "a"
+      ],
+      [
+        "freshwater wetland ecosystem",
+        "is-a",
+        "wetland ecosystem"
+      ],
+      [
+        "mangrove swamp",
+        "is-a",
+        "a"
+      ],
+      [
+        "weight",
+        "is-a",
+        "a"
+      ],
+      [
+        "wetland ecosystem",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "1a3dbf03a5fb44f999056b4006e4b9f2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1ab615ea80644035a526fb959c2a37e6",
+    "primitive-ontology-triples": [
+      [
+        "solen",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "1acc5bfcd2074a7a890aa6a174c52fa5",
+    "primitive-ontology-triples": [
+      [
+        "aaaa battery",
+        "is-a",
+        "Product"
+      ],
+      [
+        "graph database",
+        "is-a",
+        "Product"
+      ],
+      [
+        "ole db",
+        "is-a",
+        "Product"
+      ]
+    ]
+  },
+  {
+    "id": "1ae8f54907974dbebb15745458d931f5",
+    "primitive-ontology-triples": [
+      [
+        "piece of deer",
+        "is-a",
+        "piece of deer"
+      ],
+      [
+        "piece of deer meat",
+        "is-a",
+        "piece of deer"
+      ],
+      [
+        "piece of elk",
+        "is-a",
+        "piece of deer"
+      ]
+    ]
+  },
+  {
+    "id": "1b429eca50134cdb8af436b106647ad0",
+    "primitive-ontology-triples": [
+      [
+        "alpha tocopherol",
+        "is-a",
+        "a"
+      ],
+      [
+        "alpha tocopherol",
+        "is-a",
+        "tocopherol"
+      ],
+      [
+        "copper complexes of chlorophylls",
+        "is-a",
+        "food additive"
+      ],
+      [
+        "tocopherol",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "1b73f04c66164ff9acee3dd7d4c11ca1",
+    "primitive-ontology-triples": [
+      [
+        "entity",
+        "is-a",
+        "concentration of vitamin b7 in material entity"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "concentration of vitamin b7 in material entity"
+      ]
+    ]
+  },
+  {
+    "id": "1c30e33be6ad43c99cf866031b04779f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1c7b61f487cc4b0c9bea7beb69a8c953",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1cd03f32128d4296b8914dff2e33885a",
+    "primitive-ontology-triples": [
+      [
+        "lamb roast (boneless, raw)",
+        "is-a",
+        "lamb roast"
+      ]
+    ]
+  },
+  {
+    "id": "1d86820c0d4648ba9e8d1d43010dd38f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1d96526764aa45c687c53898d29e506e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1db67866318c4d2d83ce05ba9403bada",
+    "primitive-ontology-triples": [
+      [
+        "parameter",
+        "is-a",
+        "concentration of tocopherol in material entity"
+      ]
+    ]
+  },
+  {
+    "id": "1dc08a229a804857aa1897ff213e0829",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1dec4f1035024132ab5384190d1a7d65",
+    "primitive-ontology-triples": [
+      [
+        "extract",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "1e1108b77c164a00a3e7c9097415453e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1e7e682aa8854fb2b2c07fc923e68f31",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1e8a8a80ead44e61bf8d0ce5785c6233",
+    "primitive-ontology-triples": [
+      [
+        "an",
+        "instance-of",
+        "duration"
+      ],
+      [
+        "loss modulus",
+        "is-a",
+        "dynamic modulus"
+      ],
+      [
+        "magnitude at maximum brightness",
+        "is-a",
+        "magnitude"
+      ],
+      [
+        "magnitude at minimum brightness",
+        "is-a",
+        "a"
+      ],
+      [
+        "magnitude at minimum brightness",
+        "is-a",
+        "magnitude"
+      ],
+      [
+        "magnitude at minimum brightness",
+        "is-a",
+        "photographic magnitude"
+      ],
+      [
+        "magnitude at minimum brightness",
+        "is-a",
+        "white light magnitude"
+      ],
+      [
+        "photographic magnitude",
+        "is-a",
+        "magnitude"
+      ],
+      [
+        "storage modulus",
+        "is-a",
+        "dynamic modulus"
+      ],
+      [
+        "white light magnitude",
+        "is-a",
+        "magnitude"
+      ]
+    ]
+  },
+  {
+    "id": "1efc9614a8a2488d8c9b08bfb4275412",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1f15119c42e443888c6d0630cc227a8c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1f390100a09549b08225e5d458fdab35",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "1fcf0aca99bf41e9a6e296d8904da902",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2000e8b3f3b64d878dcd4f0a9c7a25e1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "201c3dc85b044f7fa39d17228b66d854",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "203f6dd0dfc447a68e2a75c0d8b08075",
+    "primitive-ontology-triples": [
+      [
+        "piece of animal back (with skin, raw)",
+        "is-a",
+        "piece of animal back (with skin)"
+      ],
+      [
+        "piece of chicken back (with skin)",
+        "is-a",
+        "piece of animal back (with skin)"
+      ],
+      [
+        "piece of turkey back (with skin)",
+        "is-a",
+        "piece of animal back (with skin)"
+      ]
+    ]
+  },
+  {
+    "id": "208bf1f1c48049af8d8e2fadec8aefcc",
+    "primitive-ontology-triples": [
+      [
+        "fuzzy kiwifruit",
+        "is-a",
+        "berry"
+      ],
+      [
+        "fuzzy kiwifruit",
+        "is-a",
+        "fuzzy kiwifruit"
+      ],
+      [
+        "golden kiwifruit",
+        "is-a",
+        "berry"
+      ],
+      [
+        "grape",
+        "is-a",
+        "berry"
+      ],
+      [
+        "grape",
+        "is-a",
+        "grape"
+      ],
+      [
+        "olallieberry",
+        "is-a",
+        "berry"
+      ]
+    ]
+  },
+  {
+    "id": "20ba336a4b4f4a8c960c1b4ad87f45af",
+    "primitive-ontology-triples": [
+      [
+        "goat powdered milk food product",
+        "is-a",
+        "goat dairy food product"
+      ]
+    ]
+  },
+  {
+    "id": "20f5e4b1debf4662ac00395e936bc386",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "213504d6623146149630e2880a09cad4",
+    "primitive-ontology-triples": [
+      [
+        "bean",
+        "is-a",
+        "bean food product"
+      ],
+      [
+        "moth bean",
+        "is-a",
+        "bean"
+      ],
+      [
+        "velvet bean",
+        "is-a",
+        "bean"
+      ],
+      [
+        "velvet bean",
+        "is-a",
+        "velvet bean"
+      ]
+    ]
+  },
+  {
+    "id": "21da3e591567474782dfec94b2bf4b41",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "221d6548cbd34f31b4cfeb303d622428",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "224db7c736a34b1fa6229509a346f4d3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "22be6c47c46c42e493ee23cc9bcc9204",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "232403f28a194c6d8bd1a31c1dc8d946",
+    "primitive-ontology-triples": [
+      [
+        "activity",
+        "is-a",
+        "a"
+      ],
+      [
+        "event",
+        "is-a",
+        "a"
+      ],
+      [
+        "event",
+        "is-a",
+        "change"
+      ],
+      [
+        "experiment activity",
+        "is-a",
+        "a"
+      ],
+      [
+        "system",
+        "is-a",
+        "in"
+      ],
+      [
+        "trial",
+        "instance-of",
+        "an"
+      ],
+      [
+        "trial",
+        "instance-of",
+        "experiment activity"
+      ]
+    ]
+  },
+  {
+    "id": "238a86aa9f9547038f60e14510a1a81b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2445a8dd5f7d4cb7ac1fd928ab336b09",
+    "primitive-ontology-triples": [
+      [
+        "aspect",
+        "is-a",
+        "realm"
+      ],
+      [
+        "classification",
+        "is-a",
+        "concept"
+      ]
+    ]
+  },
+  {
+    "id": "24485586163844ccbb4a7d05294491bf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2472d90361384eff8838cee81d85791d",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "prepared food product with bakery base or enclosure, unsweetened (us cfr)"
+      ],
+      [
+        "prepared food product with bakery base or enclosure, unsweetened (us cfr)",
+        "is-a",
+        "prepared food product (us cfr)"
+      ]
+    ]
+  },
+  {
+    "id": "24b62d12d6924a0689995fc1fbf079ca",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "24df6ce61fa747a693b84bb877b0db39",
+    "primitive-ontology-triples": [
+      [
+        "drainage wind",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "24eece1fd67149ebae4894ec2a2ed7c5",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "251787c0365e4af49bca8736ea089b33",
+    "primitive-ontology-triples": [
+      [
+        "structure",
+        "is-a",
+        "core"
+      ]
+    ]
+  },
+  {
+    "id": "251df14028994d16a164e983ed9ab016",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2529b65128674981847599bf4a7670cd",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2574bc31f8464eb8886c613d6ac0885d",
+    "primitive-ontology-triples": [
+      [
+        "assay",
+        "is-a",
+        "one"
+      ]
+    ]
+  },
+  {
+    "id": "2638a8eafd474279b731f99b23ac2130",
+    "primitive-ontology-triples": [
+      [
+        "neural crest",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "268449818e3c4c56bb095499b9f8ec14",
+    "primitive-ontology-triples": [
+      [
+        "coupon",
+        "is-a",
+        "engineered"
+      ]
+    ]
+  },
+  {
+    "id": "26f63270954b42cfb7d8db07b6b4c7b8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "27269028cec64204a4dfb47699c34f47",
+    "primitive-ontology-triples": [
+      [
+        "dew point",
+        "is-a",
+        "temperature"
+      ]
+    ]
+  },
+  {
+    "id": "2792caac279f49e78333d778cfc12a04",
+    "primitive-ontology-triples": [
+      [
+        "measurement",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "27d2d1bc570846be832808c480ed8d94",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2844677205bb416d9ee60de0db6f4d23",
+    "primitive-ontology-triples": [
+      [
+        "classification",
+        "is-a",
+        "lathyrus sativus"
+      ],
+      [
+        "field pea",
+        "is-a",
+        "pea"
+      ]
+    ]
+  },
+  {
+    "id": "286015009bb246a0aa1ddb70b6837bea",
+    "primitive-ontology-triples": [
+      [
+        "neural crest",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "286ab5a51a1e4fc296537b2a0f3f8aca",
+    "primitive-ontology-triples": [
+      [
+        "moment",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "288f1978d44d4a4c8288a800b05a2225",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "295818ff0f7c4dc6aae509b92909de75",
+    "primitive-ontology-triples": [
+      [
+        "carotene",
+        "is-a",
+        "carotenoid"
+      ]
+    ]
+  },
+  {
+    "id": "298339db320a4495a31e96286565ee7d",
+    "primitive-ontology-triples": [
+      [
+        "dam",
+        "is-a",
+        "a"
+      ],
+      [
+        "field",
+        "is-a",
+        "a"
+      ],
+      [
+        "volcanic field",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "2ab90a5191bb437bb2aeb6bf7446fdac",
+    "primitive-ontology-triples": [
+      [
+        "condition",
+        "is-a",
+        "a"
+      ],
+      [
+        "disease",
+        "is-a",
+        "a"
+      ],
+      [
+        "subset",
+        "is-a",
+        "parasitic helminthiasis infectious disease"
+      ]
+    ]
+  },
+  {
+    "id": "2ae28b953cc3400a915496ea8b90427c",
+    "primitive-ontology-triples": [
+      [
+        "field",
+        "is-a",
+        "assay measuring biological activity resulting from B cell epitope:antibody binding"
+      ],
+      [
+        "tool",
+        "is-a",
+        "cytometric bead array assay"
+      ]
+    ]
+  },
+  {
+    "id": "2b14962b0d254c88af40fcc26d09dab9",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2b281912afa3480cb5da1831736ef6b6",
+    "primitive-ontology-triples": [
+      [
+        "sertoli cell-only syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "tertiary syphilis",
+        "is-a",
+        "syphilis"
+      ]
+    ]
+  },
+  {
+    "id": "2b2f57e9914f45389590a2f430fe9726",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2b479a9ad7764a97bda8b7c92318e314",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2b929ce22a754a23a75f95aa71843a74",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2c7bcd47aa494de2a439af4b29aa6fc6",
+    "primitive-ontology-triples": [
+      [
+        "squat lobster food product",
+        "is-a",
+        "lobster food product"
+      ]
+    ]
+  },
+  {
+    "id": "2cc744023c1440829f11ea4218794297",
+    "primitive-ontology-triples": [
+      [
+        "structure",
+        "is-a",
+        "a"
+      ],
+      [
+        "structure",
+        "is-a",
+        "collective"
+      ]
+    ]
+  },
+  {
+    "id": "2d7ead29ac924014b794591002a8eef8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2da7877c23ee491a97bbc31ce786b6fc",
+    "primitive-ontology-triples": [
+      [
+        "disease",
+        "is-a",
+        "an"
+      ],
+      [
+        "nasu-hakola disease",
+        "is-a",
+        "an"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "group"
+      ],
+      [
+        "torch syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "torch syndrome",
+        "is-a",
+        "group"
+      ]
+    ]
+  },
+  {
+    "id": "2db296b1ebbf416d9eaa5f3c11427c0a",
+    "primitive-ontology-triples": [
+      [
+        "brine",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "2dc7e439392f420897a650b31452bdf4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2e31f1fa13324890b03248b5cfb2541d",
+    "primitive-ontology-triples": [
+      [
+        "climate",
+        "equivalent class",
+        "climatological average"
+      ],
+      [
+        "climate",
+        "is-a",
+        "a"
+      ],
+      [
+        "climate",
+        "is-a",
+        "climatological average"
+      ],
+      [
+        "global climate",
+        "is-a",
+        "a"
+      ],
+      [
+        "global climate",
+        "is-a",
+        "climatological average"
+      ],
+      [
+        "regional climate",
+        "is-a",
+        "a"
+      ],
+      [
+        "regional climate",
+        "is-a",
+        "climatological average"
+      ]
+    ]
+  },
+  {
+    "id": "2e6df26c8b00420fb40373f9c9a2701c",
+    "primitive-ontology-triples": [
+      [
+        "leukemia",
+        "is-a",
+        "a"
+      ],
+      [
+        "leukemia",
+        "is-a",
+        "rare"
+      ]
+    ]
+  },
+  {
+    "id": "2e8952d4916148f4b419f7c8fbf6e9a1",
+    "primitive-ontology-triples": [
+      [
+        "beef bottom round",
+        "is-a",
+        "beef sub-primal cut"
+      ]
+    ]
+  },
+  {
+    "id": "2eb4fe3407fb479bad983d283b65555e",
+    "primitive-ontology-triples": [
+      [
+        "hoar crystal",
+        "is-a",
+        "ice crystal"
+      ],
+      [
+        "ice crystal",
+        "is-a",
+        "ice"
+      ],
+      [
+        "water ice",
+        "is-a",
+        "ice"
+      ],
+      [
+        "water ice crystal",
+        "is-a",
+        "crystal"
+      ]
+    ]
+  },
+  {
+    "id": "2ec7ea094825418c8d83f0421a11e691",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2ed855750c124adf86009d7d5b3a212b",
+    "primitive-ontology-triples": [
+      [
+        "cancer",
+        "is-a",
+        "a"
+      ],
+      [
+        "heart cancer",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "2f5fb1e3c16f4fb4b8421cccfec47d2a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "2f7f950544264668b064522fdd132254",
+    "primitive-ontology-triples": [
+      [
+        "independent continuant",
+        "is-a",
+        "continuant"
+      ],
+      [
+        "object",
+        "is-a",
+        "an"
+      ],
+      [
+        "object",
+        "is-a",
+        "independent continuant"
+      ]
+    ]
+  },
+  {
+    "id": "2f81baebce6c47edb2dbfefca03607fd",
+    "primitive-ontology-triples": [
+      [
+        "chicken",
+        "is-a",
+        "species"
+      ],
+      [
+        "food",
+        "instance-of",
+        "a"
+      ],
+      [
+        "poultry infant food",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "2fdffdf21db84e0ea1924c7e4369d0cd",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "20590 - equine edible offal, non-muscle, other than liver and kidney (efsa foodex2)"
+      ]
+    ]
+  },
+  {
+    "id": "302b1b29ba994fddb01bf604a69366e9",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "alaria (dried)",
+        "is-a",
+        "seaweed (dried)"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "for example, the agar food product",
+        "is-a",
+        "seaweed byproduct, ensuring minimal waste"
+      ],
+      [
+        "laver (dried)",
+        "is-a",
+        "seaweed (dried)"
+      ]
+    ]
+  },
+  {
+    "id": "302dade6c9d6485e90fcf6d9ebb8a2df",
+    "primitive-ontology-triples": [
+      [
+        "assay",
+        "is-a",
+        "engineered"
+      ],
+      [
+        "assay",
+        "is-a",
+        "one"
+      ],
+      [
+        "chip assay",
+        "is-a",
+        "assay"
+      ],
+      [
+        "chip chip assay",
+        "is-a",
+        "chip assay"
+      ],
+      [
+        "sequencing assay",
+        "is-a",
+        "one"
+      ]
+    ]
+  },
+  {
+    "id": "305681cc0ceb4f33aa32e114694688b1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "31d806c2a6d1482f8a03ae708ef50d8e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "31edef977fb5412d934ff203fdf25d32",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "32e6a7b9761944fbb8b6eae906d5e9ca",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "33609350574c468393cbe7f0146e9706",
+    "primitive-ontology-triples": [
+      [
+        "Similarly, glucose",
+        "is-a",
+        "aldohexose that circulates"
+      ],
+      [
+        "d glucose",
+        "is-a",
+        "a"
+      ],
+      [
+        "family",
+        "is-a",
+        "a"
+      ],
+      [
+        "glucose",
+        "is-a",
+        "a"
+      ],
+      [
+        "glucose",
+        "is-a",
+        "aldohexose"
+      ],
+      [
+        "green or red pepper plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant",
+        "is-a",
+        "solanaceae"
+      ]
+    ]
+  },
+  {
+    "id": "33c7a132a5ef4e00914fd427d45d2af1",
+    "primitive-ontology-triples": [
+      [
+        "concentration unit",
+        "is-a",
+        "unit"
+      ],
+      [
+        "mass volume percentage",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "molar",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "volume percentage",
+        "instance-of",
+        "concentration unit"
+      ]
+    ]
+  },
+  {
+    "id": "3410f99d0d2546e08ac50bd4aa4c86b1",
+    "primitive-ontology-triples": [
+      [
+        "cancer",
+        "is-a",
+        "a"
+      ],
+      [
+        "cancer",
+        "is-a",
+        "skull cancer"
+      ],
+      [
+        "ischemia",
+        "is-a",
+        "a"
+      ],
+      [
+        "ischemia",
+        "is-a",
+        "brain ischemia"
+      ],
+      [
+        "skull cancer",
+        "is-a",
+        "bone cancer"
+      ],
+      [
+        "subglottis cancer",
+        "is-a",
+        "larynx cancer"
+      ],
+      [
+        "transient cerebral ischemia",
+        "is-a",
+        "a"
+      ],
+      [
+        "transient cerebral ischemia",
+        "is-a",
+        "brain ischemia"
+      ]
+    ]
+  },
+  {
+    "id": "3456a6bd11ce4f1c8b76a955efd81693",
+    "primitive-ontology-triples": [
+      [
+        "amylose",
+        "is-a",
+        "starch"
+      ],
+      [
+        "fructan",
+        "is-a",
+        "one"
+      ],
+      [
+        "glucan",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "3522051c25f4433cb90de0ddd0945387",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "35694c74bcd14d19a1ad30252ff31cc6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "35cae627ac324d15a4a4a75038f93eb6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "36057061b2234baeb59924dae2148f60",
+    "primitive-ontology-triples": [
+      [
+        "oligosaccharide",
+        "is-a",
+        "a"
+      ],
+      [
+        "raffinose family oligosaccharide",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "366a630b3e114f1686e500c06c03199d",
+    "primitive-ontology-triples": [
+      [
+        "plant matter",
+        "is-a",
+        "organic material"
+      ]
+    ]
+  },
+  {
+    "id": "367ab58ad77b4c3e881f7573a395ab17",
+    "primitive-ontology-triples": [
+      [
+        "bean",
+        "is-a",
+        "bean food product"
+      ],
+      [
+        "red kidney bean (dried)",
+        "is-a",
+        "red kidney bean"
+      ]
+    ]
+  },
+  {
+    "id": "368535cc24c94b809734f996d025bfc5",
+    "primitive-ontology-triples": [
+      [
+        "beef top blade steak",
+        "is-a",
+        "a"
+      ],
+      [
+        "beef top blade steak",
+        "is-a",
+        "beef steak"
+      ],
+      [
+        "beef top blade steak (raw)",
+        "is-a",
+        "beef steak (raw)"
+      ]
+    ]
+  },
+  {
+    "id": "369d7e296b62421e97337c84051a714a",
+    "primitive-ontology-triples": [
+      [
+        "entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "entity",
+        "is-a",
+        "concentration of stachyose in material entity"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "concentration of stachyose in material entity"
+      ],
+      [
+        "organism",
+        "is-a",
+        "a"
+      ],
+      [
+        "raffinose",
+        "is-a",
+        "raffinose family oligosaccharide"
+      ],
+      [
+        "stachyose",
+        "is-a",
+        "raffinose family oligosaccharide"
+      ]
+    ]
+  },
+  {
+    "id": "372eba78b9f44b77bffef9f458836c2f",
+    "primitive-ontology-triples": [
+      [
+        "per steradian",
+        "instance-of",
+        "luminous intensity"
+      ],
+      [
+        "speed",
+        "is-a",
+        "quantity"
+      ],
+      [
+        "steradian",
+        "instance-of",
+        "luminous intensity"
+      ]
+    ]
+  },
+  {
+    "id": "37342c4203494b59beed77bfacaf54d5",
+    "primitive-ontology-triples": [
+      [
+        "gravitational wave",
+        "equivalent class",
+        "gravity wave"
+      ]
+    ]
+  },
+  {
+    "id": "3788642d3f584b64a450598a6ec74526",
+    "primitive-ontology-triples": [
+      [
+        "carboxylic ester",
+        "is-a",
+        "a"
+      ],
+      [
+        "carboxylic ester",
+        "is-a",
+        "ester"
+      ],
+      [
+        "ester",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "37a997b12a95473b896712a68c12e0f2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "37b2fea12cd94bb088b8707769a69adc",
+    "primitive-ontology-triples": [
+      [
+        "food",
+        "instance-of",
+        "a"
+      ],
+      [
+        "line",
+        "is-a",
+        "infant formula (milk-based)"
+      ]
+    ]
+  },
+  {
+    "id": "38cce7704a5b473ba696950145095af8",
+    "primitive-ontology-triples": [
+      [
+        "algae",
+        "equivalent class",
+        "algal"
+      ]
+    ]
+  },
+  {
+    "id": "38f80d835a4744748a4c690883efd289",
+    "primitive-ontology-triples": [
+      [
+        "soft red winter wheat kernel",
+        "is-a",
+        "red wheat kernel"
+      ],
+      [
+        "sucker",
+        "is-a",
+        "a"
+      ],
+      [
+        "white sucker",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "39ccd234671241e1a227003636d5b412",
+    "primitive-ontology-triples": [
+      [
+        "cricket carcass",
+        "is-a",
+        "cricket carcass"
+      ],
+      [
+        "house cricket carcass",
+        "is-a",
+        "cricket carcass"
+      ],
+      [
+        "plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant",
+        "is-a",
+        "common"
+      ]
+    ]
+  },
+  {
+    "id": "39fc074fcede4fff9eb487c2364e2b7d",
+    "primitive-ontology-triples": [
+      [
+        "split hand-foot malformation",
+        "is-a",
+        "a"
+      ],
+      [
+        "split hand-foot malformation",
+        "is-a",
+        "group"
+      ]
+    ]
+  },
+  {
+    "id": "3a6e203b4e994052a9ba478653227f4c",
+    "primitive-ontology-triples": [
+      [
+        "leaf",
+        "is-a",
+        "a"
+      ],
+      [
+        "leaf",
+        "is-a",
+        "common"
+      ],
+      [
+        "rosette leaf",
+        "is-a",
+        "a"
+      ],
+      [
+        "rosette leaf",
+        "is-a",
+        "common"
+      ]
+    ]
+  },
+  {
+    "id": "3a8b6b0163a0495abd69cf4d54913b70",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3b3bcb8796c9462ba918379f4c613f74",
+    "primitive-ontology-triples": [
+      [
+        "pike",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "3b7cbc88355e46339ecffa18476ebc2f",
+    "primitive-ontology-triples": [
+      [
+        "blood",
+        "is-a",
+        "a"
+      ],
+      [
+        "mouse mhc class ii protein complex",
+        "is-a",
+        "mhc class ii protein complex"
+      ]
+    ]
+  },
+  {
+    "id": "3ba61435645a467184669096afc16f21",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3bc122d3eed84a6f80ee2401f5762314",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3c00939636a34e4a947854ca4cbc6e3c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3c30fbd1b4aa46f48ec1440a5d93eb54",
+    "primitive-ontology-triples": [
+      [
+        "vector field",
+        "is-a",
+        "field"
+      ]
+    ]
+  },
+  {
+    "id": "3cc99c2d260c42448d1b102fe71db7e7",
+    "primitive-ontology-triples": [
+      [
+        "candy bar",
+        "is-a",
+        "candy food product"
+      ],
+      [
+        "candy food product",
+        "is-a",
+        "confectionery food product"
+      ],
+      [
+        "soft candy food product",
+        "is-a",
+        "candy food product"
+      ]
+    ]
+  },
+  {
+    "id": "3ccb237d963549e1a9f6c27bc8534642",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3d3682e4df5f4ce7b0ab4ca440a57cee",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3d532c74d4734ce1b986c5d6aa83c440",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3dc52db7d7294b97ba207ffdef9787eb",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3e025e6c9dae49f7894083f39acfd26e",
+    "primitive-ontology-triples": [
+      [
+        "colloid suspended in a hydrosphere",
+        "is-a",
+        "a"
+      ],
+      [
+        "hydrosphere",
+        "is-a",
+        "a"
+      ],
+      [
+        "structure",
+        "is-a",
+        "a"
+      ],
+      [
+        "structure",
+        "is-a",
+        "well"
+      ],
+      [
+        "time",
+        "is-a",
+        "environmental material"
+      ]
+    ]
+  },
+  {
+    "id": "3e0ea8c8b1d54ca4a90f043a8120c4d0",
+    "primitive-ontology-triples": [
+      [
+        "dioxygen",
+        "is-a",
+        "a"
+      ],
+      [
+        "urea",
+        "is-a",
+        "a"
+      ],
+      [
+        "urea",
+        "is-a",
+        "monocarboxylic acid amide"
+      ]
+    ]
+  },
+  {
+    "id": "3e40cb3aafc4416aa92f823142278ad6",
+    "primitive-ontology-triples": [
+      [
+        "polysaccharide sulfate",
+        "is-a",
+        "a"
+      ],
+      [
+        "polysaccharide sulfate",
+        "is-a",
+        "carbohydrate"
+      ],
+      [
+        "sulfate",
+        "is-a",
+        "a"
+      ],
+      [
+        "sulfate",
+        "is-a",
+        "carbohydrate"
+      ]
+    ]
+  },
+  {
+    "id": "3e4835b66310479c9928da319a61e2dc",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "3e4f38f914974dea8ca789e9549709db",
+    "primitive-ontology-triples": [
+      [
+        "piece(s) of chicken breast (skinless)",
+        "is-a",
+        "piece(s) of chicken breast"
+      ],
+      [
+        "piece(s) of chicken wing (skinless)",
+        "is-a",
+        "piece(s) of chicken wing"
+      ]
+    ]
+  },
+  {
+    "id": "3edded785c5146f291aec6f43a69cd65",
+    "primitive-ontology-triples": [
+      [
+        "concentration of calcium sulfate in material entity",
+        "is-a",
+        "concentration of inorganic calcium salt in material entity"
+      ],
+      [
+        "entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "3f9a7f851efa44b9b84a621d84e78149",
+    "primitive-ontology-triples": [
+      [
+        "environmental lapse rate",
+        "is-a",
+        "lapse rate"
+      ],
+      [
+        "granule",
+        "is-a",
+        "data"
+      ],
+      [
+        "granule",
+        "is-a",
+        "gravel"
+      ],
+      [
+        "lapse rate",
+        "is-a",
+        "environmental lapse rate"
+      ],
+      [
+        "pebble",
+        "is-a",
+        "gravel"
+      ],
+      [
+        "rate",
+        "is-a",
+        "environmental lapse rate"
+      ]
+    ]
+  },
+  {
+    "id": "401e5475073d42a9ac37d65cc31ecdae",
+    "primitive-ontology-triples": [
+      [
+        "fish",
+        "is-a",
+        "a"
+      ],
+      [
+        "fish",
+        "is-a",
+        "ctenochaetus"
+      ]
+    ]
+  },
+  {
+    "id": "406a3c18bfdf48748099dc7a969d3f8b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4259bb89168d4d2fb56069de057640ff",
+    "primitive-ontology-triples": [
+      [
+        "pork processed carcass (raw)",
+        "is-a",
+        "piece of pig (raw)"
+      ]
+    ]
+  },
+  {
+    "id": "425b3930083146619c2db68a330ca1a5",
+    "primitive-ontology-triples": [
+      [
+        "barbeque sauce",
+        "is-a",
+        "sauce"
+      ]
+    ]
+  },
+  {
+    "id": "4297096e9e5c4d7b8b1ec6812f3277e1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "42b17a2d904f4f959ccc143d92ac9edb",
+    "primitive-ontology-triples": [
+      [
+        "bean",
+        "is-a",
+        "a"
+      ],
+      [
+        "bean",
+        "is-a",
+        "bean food product"
+      ],
+      [
+        "brown bean food product",
+        "is-a",
+        "bean food product"
+      ]
+    ]
+  },
+  {
+    "id": "438d19a7b6cf48ad921fb1bffe00fccb",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "43b00dab930743dbb737b0cc3cc4793f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4455a9895502445e94a9b2e92e156ca8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "44b9e2200f7548e08e32544d428ec455",
+    "primitive-ontology-triples": [
+      [
+        "family",
+        "is-a",
+        "a"
+      ],
+      [
+        "material",
+        "is-a",
+        "duck fat"
+      ],
+      [
+        "prionace glauca",
+        "is-a",
+        "species"
+      ],
+      [
+        "requiem shark family",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "44cd5ca5caa641b1a4751ef796d2b5ab",
+    "primitive-ontology-triples": [
+      [
+        "condition",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "45d44fa1638c45108a17d2a5fa91e502",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "46593f66b1774305902cc15b2f417d62",
+    "primitive-ontology-triples": [
+      [
+        "herbal tea (dry)",
+        "is-a",
+        "tea (dry)"
+      ]
+    ]
+  },
+  {
+    "id": "46c8351ef5d445888ca51a1b7f85e93a",
+    "primitive-ontology-triples": [
+      [
+        "lake",
+        "is-a",
+        "connected"
+      ]
+    ]
+  },
+  {
+    "id": "46d2c9b2210e437393d3c3587700a4b3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "46e0f484dc18406396aad7fcd19d34a5",
+    "primitive-ontology-triples": [
+      [
+        "neuropathy",
+        "is-a",
+        "a"
+      ],
+      [
+        "neuropathy",
+        "is-a",
+        "functional"
+      ]
+    ]
+  },
+  {
+    "id": "46e1ce4c28bb475e983cc45fddd17851",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "46fa9b3d988c471290d01a47e2017cf1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "471083c204ff48418499ae82b76b3d14",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "476be625699d490bac15e270294ecf5a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "47dfb9ae374c4398b57fc6e491e698e4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "47fa02cf8e5a4c97816fa75e320832c0",
+    "primitive-ontology-triples": [
+      [
+        "rock cycle",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "484e4d934f394b948f0cb3d23eccf766",
+    "primitive-ontology-triples": [
+      [
+        "syndrome",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "485d69a1586246a1bb97a6234539554c",
+    "primitive-ontology-triples": [
+      [
+        "condition",
+        "is-a",
+        "primary angle-closure glaucoma"
+      ]
+    ]
+  },
+  {
+    "id": "48a30ecc8f324821aef9127fdb4d74f3",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "salami"
+      ]
+    ]
+  },
+  {
+    "id": "48c52d133e3146008da8f2938ab9704e",
+    "primitive-ontology-triples": [
+      [
+        "Iron",
+        "is-a",
+        "mineral"
+      ]
+    ]
+  },
+  {
+    "id": "48cf6b2e18b54a9a94b837497f9de2df",
+    "primitive-ontology-triples": [
+      [
+        "candy bar",
+        "is-a",
+        "candy food product"
+      ],
+      [
+        "chocolate candy (hollow)",
+        "is-a",
+        "chocolate candy food product"
+      ],
+      [
+        "chocolate-flavored candy",
+        "is-a",
+        "chocolate candy food product"
+      ],
+      [
+        "confectionery (cocoa-based)",
+        "is-a",
+        "chocolate candy food product"
+      ],
+      [
+        "milk chocolate",
+        "is-a",
+        "chocolate candy food product"
+      ]
+    ]
+  },
+  {
+    "id": "48ffb15358894a92baa7ce426d5f509c",
+    "primitive-ontology-triples": [
+      [
+        "ostrich",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "495627d23e8049a5a69290d61969fa02",
+    "primitive-ontology-triples": [
+      [
+        "blackeyed pea",
+        "is-a",
+        "a"
+      ],
+      [
+        "pea",
+        "is-a",
+        "a"
+      ],
+      [
+        "pea (dried)",
+        "is-a",
+        "pea"
+      ],
+      [
+        "pea (mature)",
+        "is-a",
+        "pea"
+      ],
+      [
+        "pea (raw)",
+        "is-a",
+        "pea"
+      ]
+    ]
+  },
+  {
+    "id": "496c6efb68d34d4f90f3808b1eb1a7cb",
+    "primitive-ontology-triples": [
+      [
+        "an",
+        "instance-of",
+        "specimen"
+      ],
+      [
+        "as",
+        "instance-of",
+        "specimen"
+      ],
+      [
+        "chloroform",
+        "instance-of",
+        "a"
+      ],
+      [
+        "chloroform",
+        "instance-of",
+        "one-carbon compound"
+      ]
+    ]
+  },
+  {
+    "id": "4a313dad46904039b65ec8a63122afed",
+    "primitive-ontology-triples": [
+      [
+        "half",
+        "is-a",
+        "a"
+      ],
+      [
+        "lamb foreshank",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "4a7ad693f90741868066205eb7ca6625",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4aca46b00f4d4d238e6d14aaeb3df248",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4ace5db1aef142509d33d09d4540dcd3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4b0987797fae4196956498080169cae8",
+    "primitive-ontology-triples": [
+      [
+        "disease",
+        "is-a",
+        "a"
+      ],
+      [
+        "phenotype",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "4b1ecc26f2ab4b94baccb5655231c71b",
+    "primitive-ontology-triples": [
+      [
+        "lagoon",
+        "is-a",
+        "a"
+      ],
+      [
+        "layer",
+        "is-a",
+        "a"
+      ],
+      [
+        "marine layer",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "4b6e24ec48f44dbfa00385cf417c0208",
+    "primitive-ontology-triples": [
+      [
+        "brain",
+        "is-a",
+        "a"
+      ],
+      [
+        "brain",
+        "is-a",
+        "piece of beef"
+      ]
+    ]
+  },
+  {
+    "id": "4b9663fdeba24ade85071765c3f8e2f3",
+    "primitive-ontology-triples": [
+      [
+        "pandan leaf",
+        "is-a",
+        "leaf"
+      ],
+      [
+        "savory leaf",
+        "is-a",
+        "leaf"
+      ],
+      [
+        "seed",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "4c1fbb7cd1184a35be2ae293f08c032b",
+    "primitive-ontology-triples": [
+      [
+        "broad",
+        "is-a",
+        "shape"
+      ],
+      [
+        "coiling",
+        "is-a",
+        "shape"
+      ]
+    ]
+  },
+  {
+    "id": "4d1018d97f6b4b4bb81b27485b8b9145",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4d5d1c99613a4cc4a572061fec575819",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4d71a596c99947ddbc34835ed49a085e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4d7f7407e89144fc8e8a0c4b73e28aab",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4ded6e85c0ab49c2aa18c87dcba8ccd5",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4e0a94acb89e4df9902c0730299e2f53",
+    "primitive-ontology-triples": [
+      [
+        "concentration unit",
+        "is-a",
+        "unit"
+      ],
+      [
+        "fraction",
+        "is-a",
+        "a"
+      ],
+      [
+        "fraction",
+        "is-a",
+        "mole fraction based unit"
+      ],
+      [
+        "mass percentage",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "mass volume percentage",
+        "instance-of",
+        "a"
+      ],
+      [
+        "mass volume percentage",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "mass volume percentage",
+        "instance-of",
+        "mass volume percentage based unit"
+      ],
+      [
+        "molar",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "mole fraction",
+        "is-a",
+        "a"
+      ],
+      [
+        "mole fraction",
+        "is-a",
+        "mole fraction based unit"
+      ],
+      [
+        "normal based unit",
+        "is-a",
+        "a"
+      ],
+      [
+        "normal based unit",
+        "is-a",
+        "unit"
+      ],
+      [
+        "percentage",
+        "is-a",
+        "a"
+      ],
+      [
+        "percentage",
+        "is-a",
+        "mass volume percentage based unit"
+      ],
+      [
+        "unit",
+        "is-a",
+        "a"
+      ],
+      [
+        "unit",
+        "is-a",
+        "concentration unit"
+      ],
+      [
+        "volume percentage",
+        "instance-of",
+        "a"
+      ],
+      [
+        "volume percentage",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "volume percentage",
+        "instance-of",
+        "mass volume percentage based unit"
+      ]
+    ]
+  },
+  {
+    "id": "4e6a13b2d26b4f3a8e2f39e4889ce1e4",
+    "primitive-ontology-triples": [
+      [
+        "fish",
+        "is-a",
+        "a"
+      ],
+      [
+        "fish",
+        "is-a",
+        "terapontidae"
+      ]
+    ]
+  },
+  {
+    "id": "4e8e661a087f4dd590bc4c57e6eff45f",
+    "primitive-ontology-triples": [
+      [
+        "system",
+        "is-a",
+        "subject"
+      ],
+      [
+        "urinary system cancer",
+        "is-a",
+        "urinary system disease"
+      ]
+    ]
+  },
+  {
+    "id": "4eff2d964be6430ea5eb3ef71c64abb5",
+    "primitive-ontology-triples": [
+      [
+        "connective tissue",
+        "is-a",
+        "tissue"
+      ]
+    ]
+  },
+  {
+    "id": "4f737377542b4f1fa95f73ea7790f58e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "4fa286922ed6405ea45a5b6f317862b9",
+    "primitive-ontology-triples": [
+      [
+        "clinical history of cancer",
+        "is-a",
+        "clinical history"
+      ],
+      [
+        "family clinical history of cancer",
+        "is-a",
+        "clinical history"
+      ]
+    ]
+  },
+  {
+    "id": "4fe78dfa038d4d96bb878782e7267f62",
+    "primitive-ontology-triples": [
+      [
+        "spill",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "5077eb14b9e94ff9af7f56bd8bcc3b62",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "508155f7986f4286905e20bf634610a5",
+    "primitive-ontology-triples": [
+      [
+        "compound",
+        "is-a",
+        "curcumin"
+      ],
+      [
+        "curcumin",
+        "is-a",
+        "an"
+      ],
+      [
+        "curcumin",
+        "is-a",
+        "aromatic ether"
+      ]
+    ]
+  },
+  {
+    "id": "50b21f0c61d845219be438efd5576680",
+    "primitive-ontology-triples": [
+      [
+        "polydactylus",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "5117f2f370134828bf36c81fb6c2adf2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "51cb088985914d82a40e6af61794594f",
+    "primitive-ontology-triples": [
+      [
+        "Equipment",
+        "is-a",
+        "calibrated"
+      ]
+    ]
+  },
+  {
+    "id": "523b61db04a9402dafd004c8138161af",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5325af4ff71c4beab5f4852a2a6c86fe",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "535aa071af5c4d779a97c50cc4d241e6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "53b251413f974dd1922c1f188e850c9d",
+    "primitive-ontology-triples": [
+      [
+        "degree",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "hour",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "kelvin",
+        "is-a",
+        "si"
+      ],
+      [
+        "minute",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "second",
+        "instance-of",
+        "unit"
+      ]
+    ]
+  },
+  {
+    "id": "53e7d8d10e7144f89fcc6154d4358201",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "544ea05d8c5646f4aa3eed1f301f5f8e",
+    "primitive-ontology-triples": [
+      [
+        "piece of squab meat (raw)",
+        "is-a",
+        "piece of squab"
+      ],
+      [
+        "piece of squab meat (raw)",
+        "is-a",
+        "piece of squab meat"
+      ]
+    ]
+  },
+  {
+    "id": "54f9b414bb54473e806687bb6a90470c",
+    "primitive-ontology-triples": [
+      [
+        "pie",
+        "is-a",
+        "pie food product"
+      ],
+      [
+        "pie (frozen)",
+        "is-a",
+        "pie food product"
+      ]
+    ]
+  },
+  {
+    "id": "552e3846612943a3b78fd237023a6d30",
+    "primitive-ontology-triples": [
+      [
+        "measure",
+        "is-a",
+        "root number"
+      ]
+    ]
+  },
+  {
+    "id": "554351eebc7048fd84f56d57a067ff6e",
+    "primitive-ontology-triples": [
+      [
+        "haliaeetus",
+        "is-a",
+        "a"
+      ],
+      [
+        "haliaeetus",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "554edacea2d148c9bcaa00c7a9b4974b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "557a2bf6320a4f639957202a0cdcb087",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "55972cf3aeb2440baba3ff3b144c28c8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "559fac72d04245259869b248fe4522c8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "55cd08df6a5046248fb578d7d20f3284",
+    "primitive-ontology-triples": [
+      [
+        "primary bacterial infectious disease",
+        "is-a",
+        "bacterial infectious disease"
+      ]
+    ]
+  },
+  {
+    "id": "5710824d55be45528de054e8b7578105",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "572a0c55602b4e5aaa37bcdf64a50c4d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5739eab5206e47399c7da20e8dc7efb0",
+    "primitive-ontology-triples": [
+      [
+        "tomato",
+        "is-a",
+        "a"
+      ],
+      [
+        "tomato",
+        "is-a",
+        "berry fruit"
+      ],
+      [
+        "tomato",
+        "is-a",
+        "tomato"
+      ]
+    ]
+  },
+  {
+    "id": "57b216786aba4856b66078bd1d5eb3ce",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "580509bb900a4b22859eac8f085df5e6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5841a8c7a5f04941abfcac7e6815247b",
+    "primitive-ontology-triples": [
+      [
+        "backpack sprayer",
+        "is-a",
+        "sprayer"
+      ],
+      [
+        "binder",
+        "is-a",
+        "a"
+      ],
+      [
+        "binder",
+        "is-a",
+        "plant"
+      ],
+      [
+        "boom sprayer",
+        "is-a",
+        "sprayer"
+      ],
+      [
+        "hand sprayer",
+        "is-a",
+        "sprayer"
+      ],
+      [
+        "mulch implement",
+        "is-a",
+        "agricultural implement"
+      ],
+      [
+        "puddling implement",
+        "is-a",
+        "a"
+      ],
+      [
+        "puddling implement",
+        "is-a",
+        "tillage implement"
+      ],
+      [
+        "scythe",
+        "is-a",
+        "a"
+      ],
+      [
+        "sprayer",
+        "is-a",
+        "agricultural implement"
+      ],
+      [
+        "tillage implement",
+        "is-a",
+        "agricultural implement"
+      ]
+    ]
+  },
+  {
+    "id": "584eee0c5d6d42509ba54ac2fd12dfef",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "587985a0dfa44803990eee8e0080716c",
+    "primitive-ontology-triples": [
+      [
+        "angstrom",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "area",
+        "is-a",
+        "well"
+      ],
+      [
+        "circular mil",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "milligram rae",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "quart (imperial)",
+        "instance-of",
+        "unit"
+      ],
+      [
+        "stokes",
+        "instance-of",
+        "unit"
+      ]
+    ]
+  },
+  {
+    "id": "58c85c11b6bb4996b70bc59f145e34d4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "596a7bae1c4f4b5e8cf35f2d5250fdae",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "597d08a3ea874887980f9d7bac1de87d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "599f6ab6704d4ff18050364638e87bba",
+    "primitive-ontology-triples": [
+      [
+        "cow milk",
+        "is-a",
+        "base"
+      ]
+    ]
+  },
+  {
+    "id": "5a3adfb97dde4125a139cf8bd0da262b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5a67a8ca97d84a56895cc58b75d70161",
+    "primitive-ontology-triples": [
+      [
+        "tremor",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "5a8a9c23cd4642d99e674e9a22aa2661",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5a95c4c01bf542669b5e56ef80d7d802",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5b775624235d4ac6a7db775f6cb0b4ba",
+    "primitive-ontology-triples": [
+      [
+        "mass percentage",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "mass volume percentage",
+        "instance-of",
+        "concentration unit"
+      ],
+      [
+        "volume percentage",
+        "instance-of",
+        "concentration unit"
+      ]
+    ]
+  },
+  {
+    "id": "5cee2a0fe84147818b5f7c8443005f01",
+    "primitive-ontology-triples": [
+      [
+        "bembrops anatirostris",
+        "is-a",
+        "flathead"
+      ],
+      [
+        "bembrops anatirostris",
+        "is-a",
+        "species"
+      ],
+      [
+        "bembrops gobioides",
+        "is-a",
+        "flathead"
+      ]
+    ]
+  },
+  {
+    "id": "5de7363d93504025ae7ed3c806b87061",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5e11b5a2e1ba439da8b4cc4348d1496c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5e1c184f6e44452da510051af2d87ff3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5e45af8eb40d4250b5b4baf3ce1bdac6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5ed1803428fa4a7893a48563ba6340cf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5ed1a685ae604067bfadd65081218053",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5f35e00b99814a32bf852be57724baab",
+    "primitive-ontology-triples": [
+      [
+        "piece of animal meat (raw)",
+        "is-a",
+        "piece of animal"
+      ],
+      [
+        "piece of antelope",
+        "is-a",
+        "piece of animal"
+      ],
+      [
+        "piece of wild boar",
+        "is-a",
+        "piece of animal"
+      ]
+    ]
+  },
+  {
+    "id": "5f63f0bd37d14e65b47ca4198154bfd7",
+    "primitive-ontology-triples": [
+      [
+        "rainbow smelt fillet",
+        "is-a",
+        "rainbow smelt fillet"
+      ],
+      [
+        "rainbow smelt fillet (with skin)",
+        "is-a",
+        "rainbow smelt fillet"
+      ]
+    ]
+  },
+  {
+    "id": "5f6588bd6af34ba0a9be449d2b62e779",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "5f9f36724dc24f4fb2f3cff7eaf8035c",
+    "primitive-ontology-triples": [
+      [
+        "entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "entity",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "concentration of"
+      ]
+    ]
+  },
+  {
+    "id": "603f7d779e424271a137469153e9248c",
+    "primitive-ontology-triples": [
+      [
+        "eriphia gonagra",
+        "is-a",
+        "eriphia"
+      ],
+      [
+        "eriphia gonagra",
+        "is-a",
+        "species"
+      ],
+      [
+        "eriphia sebana",
+        "is-a",
+        "eriphia"
+      ],
+      [
+        "eriphia smithii",
+        "is-a",
+        "eriphia"
+      ],
+      [
+        "eriphia verrucosa",
+        "is-a",
+        "eriphia"
+      ]
+    ]
+  },
+  {
+    "id": "6052d0756561486f8255ba19ae736367",
+    "primitive-ontology-triples": [
+      [
+        "bratwurst",
+        "is-a",
+        "a"
+      ],
+      [
+        "italian sausage (raw)",
+        "is-a",
+        "sausage"
+      ]
+    ]
+  },
+  {
+    "id": "60a9bd85ee0f47108fafbdf4e18928e8",
+    "primitive-ontology-triples": [
+      [
+        "entity",
+        "is-a",
+        "liver lipoma"
+      ],
+      [
+        "group",
+        "is-a",
+        "familial hepatic adenoma"
+      ],
+      [
+        "leiomyoma",
+        "is-a",
+        "a"
+      ],
+      [
+        "leiomyoma",
+        "is-a",
+        "rare"
+      ],
+      [
+        "liver benign neoplasm",
+        "is-a",
+        "endocrine organ benign neoplasm"
+      ]
+    ]
+  },
+  {
+    "id": "611362ac3bb84d58b3babd9d047513ea",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "614c2a08fef7414fa1aa12a085f679ea",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "617e5e61bcdc40929a4c561abddc9e70",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "62676b0804de43868e046ad17f594b24",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "62e5469e1e4848d99836a8bcb9a843f5",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "631cf0dbcedf4d0ab2b57a1f6baf34fe",
+    "primitive-ontology-triples": [
+      [
+        "blindness",
+        "is-a",
+        "color blindness"
+      ],
+      [
+        "blue color blindness",
+        "is-a",
+        "color blindness"
+      ]
+    ]
+  },
+  {
+    "id": "633bfbac11f04302b0331428c34b073d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6377de321a6146dca3de0a2e8694b707",
+    "primitive-ontology-triples": [
+      [
+        "carcass",
+        "is-a",
+        "processed"
+      ]
+    ]
+  },
+  {
+    "id": "638528c23a6249cdb6142c55d0c942b6",
+    "primitive-ontology-triples": [
+      [
+        "jam",
+        "is-a",
+        "jam food product"
+      ]
+    ]
+  },
+  {
+    "id": "63a2ee050f3c4296b6a7b75d67c3958c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "63c3d0a1769f41d39369cb3ac524c6b8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "646f9f00045c4c95998c909ca2128fc8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "64b04d7486304cd2ba3bffe9ff5abb5d",
+    "primitive-ontology-triples": [
+      [
+        "dangerous behaviour",
+        "is-a",
+        "traffic incident causes"
+      ],
+      [
+        "system",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "64bde2f421de4e4185040defbd9f5ce7",
+    "primitive-ontology-triples": [
+      [
+        "atmosphere ocean exchange",
+        "is-a",
+        "phenomena"
+      ],
+      [
+        "system state",
+        "is-a",
+        "state"
+      ]
+    ]
+  },
+  {
+    "id": "651dd4824db04419b3acd68703e89513",
+    "primitive-ontology-triples": [
+      [
+        "adenoma",
+        "is-a",
+        "a"
+      ],
+      [
+        "adenoma",
+        "is-a",
+        "benign neoplasm"
+      ],
+      [
+        "adenoma",
+        "is-a",
+        "rare"
+      ]
+    ]
+  },
+  {
+    "id": "6527d6e43d8a44708a2865bdf1671e56",
+    "primitive-ontology-triples": [
+      [
+        "piece of deer",
+        "is-a",
+        "piece of deer"
+      ],
+      [
+        "piece of moose",
+        "is-a",
+        "piece of deer"
+      ],
+      [
+        "piece of moose",
+        "is-a",
+        "piece of moose"
+      ],
+      [
+        "substance",
+        "is-a",
+        "a"
+      ],
+      [
+        "substance",
+        "is-a",
+        "moose material"
+      ]
+    ]
+  },
+  {
+    "id": "656a822471fb41d3bc87b7ddef54ad13",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "658f7c6a7e8e4df48b1571b46a87f166",
+    "primitive-ontology-triples": [
+      [
+        "complex",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "65e2b904eade454b8ac1b7812a82a00c",
+    "primitive-ontology-triples": [
+      [
+        "carcass",
+        "is-a",
+        "processed"
+      ]
+    ]
+  },
+  {
+    "id": "664b9fa234b94ea1911c8b6ac59ea082",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "66bd460d425f44608ac95efbbd5856a8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "66d2fda93f4e4d82b329db44dd6038e0",
+    "primitive-ontology-triples": [
+      [
+        "mm_topic_6144",
+        "instance-of",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "66f138722a2343eeaeddd1cc14abcede",
+    "primitive-ontology-triples": [
+      [
+        "sulfate",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "6755667a1bc543fd8dacb24943b33d69",
+    "primitive-ontology-triples": [
+      [
+        "edible",
+        "is-a",
+        "fungi"
+      ],
+      [
+        "saccharomyceta",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "67ac4dc99c5d4a66a6fda11c56540ced",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "67ae782016b14776bd9e0643270c61bf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6829633223c94400ae93b05c49ebd345",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "682cb58843964a4c8924469dbcd5f244",
+    "primitive-ontology-triples": [
+      [
+        "ardenna grisea",
+        "is-a",
+        "shearwater"
+      ],
+      [
+        "fulmarus glacialis",
+        "is-a",
+        "fulmar"
+      ],
+      [
+        "fulmarus glacialoides",
+        "is-a",
+        "fulmar"
+      ]
+    ]
+  },
+  {
+    "id": "68535ba4b4ef4af185d43709e3537061",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "68bcf14ede5e45ccbece8a1935f7d266",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "69249d145d17449d95dc196c8f4d0941",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6924d578e074457eba3800e785498444",
+    "primitive-ontology-triples": [
+      [
+        "biome",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "69d4ec1ce8694918b12a8e6fa65a3adb",
+    "primitive-ontology-triples": [
+      [
+        "quartz crystal microbalance assay measuring the dissociation constant [kd] of a b cell epitope:antibody complex",
+        "is-a",
+        "assay measuring the dissociation constant [kd] of a b cell epitope:antibody complex"
+      ]
+    ]
+  },
+  {
+    "id": "69db3d80366b451cb9ec7d72258717c2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6a1323961ba948a48833d95435e9eb80",
+    "primitive-ontology-triples": [
+      [
+        "increased rate",
+        "is-a",
+        "rate"
+      ],
+      [
+        "increased rate of occurrence",
+        "is-a",
+        "increased rate"
+      ]
+    ]
+  },
+  {
+    "id": "6a158c15895b4549bf133a8c83aa1bd6",
+    "primitive-ontology-triples": [
+      [
+        "animal back",
+        "is-a",
+        "piece of animal meat"
+      ],
+      [
+        "piece of animal meat (raw)",
+        "is-a",
+        "piece of animal meat"
+      ],
+      [
+        "piece of nile tilapia meat",
+        "is-a",
+        "piece of animal meat"
+      ]
+    ]
+  },
+  {
+    "id": "6ae96ab5f0444a1a926f8dde5e028019",
+    "primitive-ontology-triples": [
+      [
+        "field",
+        "is-a",
+        "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing"
+      ],
+      [
+        "single-nucleotide-resolution nucleic acid structure mapping assay",
+        "is-a",
+        "assay"
+      ],
+      [
+        "single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing",
+        "is-a",
+        "single-nucleotide-resolution nucleic acid structure mapping assay"
+      ]
+    ]
+  },
+  {
+    "id": "6affb6c246774c4e87e1b938d0d38044",
+    "primitive-ontology-triples": [
+      [
+        "fused preposition determiner",
+        "instance-of",
+        "part of speech"
+      ]
+    ]
+  },
+  {
+    "id": "6b2f50813ed84e5688d1c22c1246cacb",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "sphyrna lewini"
+      ],
+      [
+        "species",
+        "is-a",
+        "sphyrna mokarran"
+      ],
+      [
+        "sphyrna lewini",
+        "is-a",
+        "hammerhead shark"
+      ],
+      [
+        "sphyrna mokarran",
+        "is-a",
+        "hammerhead shark"
+      ],
+      [
+        "sphyrna tiburo",
+        "is-a",
+        "hammerhead shark"
+      ],
+      [
+        "sphyrna tudes",
+        "is-a",
+        "hammerhead shark"
+      ],
+      [
+        "sphyrna zygaena",
+        "is-a",
+        "hammerhead shark"
+      ],
+      [
+        "sphyrna zygaena",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "6b7d33f0b0b94eceaf20d2f2299ad5d5",
+    "primitive-ontology-triples": [
+      [
+        "pot",
+        "is-a",
+        "a"
+      ],
+      [
+        "vent",
+        "is-a",
+        "a"
+      ],
+      [
+        "vent",
+        "is-a",
+        "manufactured product"
+      ]
+    ]
+  },
+  {
+    "id": "6bc81de8fc4a4e04a70e1e9cc178914e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6bd502e412764fc399e023d6fcaee7e4",
+    "primitive-ontology-triples": [
+      [
+        "hypertension",
+        "is-a",
+        "a"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "stratified"
+      ]
+    ]
+  },
+  {
+    "id": "6ce63a9a60da4724ae15d6bf37434d0e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6d1cc882ebf74f67b2e724d6bbf199fa",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6dfd1bfbf9cd44b6ac47c402b4d75a7f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6dfd41faa99340b0854458d7c6ee1df8",
+    "primitive-ontology-triples": [
+      [
+        "leaf phosphorus content",
+        "is-a",
+        "leaf composition trait"
+      ]
+    ]
+  },
+  {
+    "id": "6dfd7099d24241edb58271721919da97",
+    "primitive-ontology-triples": [
+      [
+        "buffalo pizza",
+        "is-a",
+        "a"
+      ],
+      [
+        "pizza",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "6e31b39cb9de4c07a4d23249f7e81c10",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6e611b9574e948a59715262b8115fed6",
+    "primitive-ontology-triples": [
+      [
+        "family",
+        "is-a",
+        "balaena mysticetus"
+      ]
+    ]
+  },
+  {
+    "id": "6e8a5d40b0f64f1a8c88366a338ec948",
+    "primitive-ontology-triples": [
+      [
+        "fruit",
+        "is-a",
+        "a"
+      ],
+      [
+        "yogurt with fruit",
+        "is-a",
+        "a"
+      ],
+      [
+        "yogurt with fruit",
+        "is-a",
+        "yogurt food product"
+      ]
+    ]
+  },
+  {
+    "id": "6ee2ec87b65a418ca659d47a28749dcc",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6f07e3919d72446fa3f8483e4051544e",
+    "primitive-ontology-triples": [
+      [
+        "fragment",
+        "instance-of",
+        "an"
+      ],
+      [
+        "fragment",
+        "instance-of",
+        "isolated"
+      ]
+    ]
+  },
+  {
+    "id": "6f0b8d0452e34aca8bf713919c012211",
+    "primitive-ontology-triples": [
+      [
+        "family",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "6f13eec0b394471497caf38f6cfbdb4e",
+    "primitive-ontology-triples": [
+      [
+        "quenching assay measuring the association constant [ka] of a b cell epitope:antibody complex",
+        "is-a",
+        "assay measuring the association constant [KA] of a B cell epitope:antibody complex"
+      ],
+      [
+        "quenching assay measuring the dissociation constant [kd] of a b cell epitope:antibody complex",
+        "is-a",
+        "assay measuring the dissociation constant [kd] of a b cell epitope:antibody complex"
+      ]
+    ]
+  },
+  {
+    "id": "6f29f263f4784154964d9285e69b5139",
+    "primitive-ontology-triples": [
+      [
+        "industrial product",
+        "is-a",
+        "product"
+      ],
+      [
+        "lumpsucker",
+        "instance-of",
+        "engineered"
+      ],
+      [
+        "smartphone",
+        "instance-of",
+        "engineered"
+      ],
+      [
+        "supply",
+        "is-a",
+        "product"
+      ],
+      [
+        "voltmeter",
+        "instance-of",
+        "calibrated"
+      ]
+    ]
+  },
+  {
+    "id": "6f5b44b9d3d943128bcd175a4e745c2a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6f8443ac745e459aac4f9ab6fa92f8de",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "6fcdee0d886143d8852c9a3ca8ba0363",
+    "primitive-ontology-triples": [
+      [
+        "animal",
+        "is-a",
+        "classification"
+      ]
+    ]
+  },
+  {
+    "id": "7003468459974273bb52f380c780d138",
+    "primitive-ontology-triples": [
+      [
+        "spinal cord ependymoma",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "704ea146ccf148ca896b8406ac8949fc",
+    "primitive-ontology-triples": [
+      [
+        "cryptosporidiosis",
+        "is-a",
+        "intestinal disease"
+      ]
+    ]
+  },
+  {
+    "id": "708d92c904c741fca7f58e1a6ab38589",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "70e4c39b6cca4bceb92eeb87a1bc8d62",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7126525ad8434b789f5aac0d6b17d6be",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "71d9a42c498941b4a42dca270c38124f",
+    "primitive-ontology-triples": [
+      [
+        "scylla",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "72311349f2af4b7bbf2fa370ff71b8fe",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "731f349be69b457a8c0b381f1c6fbfdf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "737c537e20d94f2b952b817230c1bd4d",
+    "primitive-ontology-triples": [
+      [
+        "electron concentration",
+        "instance-of",
+        "electron concentration"
+      ],
+      [
+        "electron density of states at fermi level",
+        "instance-of",
+        "electron density of states at fermi level"
+      ]
+    ]
+  },
+  {
+    "id": "73ea12dc9e1542aca6d36111cc611191",
+    "primitive-ontology-triples": [
+      [
+        "propane-1,2-diol",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "7451ee756a2b4b8caa4ba9a6f767f170",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "74bb83ec6e9c46d5a4317ba46c6503fe",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "74dfe673cbb640959cfd39b837cbb634",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "74e27758f38146f9b2af38e627e2bce5",
+    "primitive-ontology-triples": [
+      [
+        "fujita pearson scale",
+        "is-a",
+        "a"
+      ],
+      [
+        "scale",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "750404487dc3408abef413e8358fadbc",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "75e253c55f6b467494f0b38108032f0e",
+    "primitive-ontology-triples": [
+      [
+        "skipjack tuna food product",
+        "is-a",
+        "tuna food product"
+      ]
+    ]
+  },
+  {
+    "id": "75efd0c6848744a7b4c1212e162ff352",
+    "primitive-ontology-triples": [
+      [
+        "cancer",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "760a3a706a774a988e22adef425d5e4a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "76bec894fad04e5dbf3c6c8c80c8805f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "76f35992df4c4f7fa6103d85cf365c06",
+    "primitive-ontology-triples": [
+      [
+        "endometrial stromal sarcoma",
+        "is-a",
+        "endometrial stromal tumor"
+      ]
+    ]
+  },
+  {
+    "id": "76fafd1d448a45a9b706d0e66ee0164c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7745781d5f5842949414fa8d81a3c0db",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7758236a9da84f089d741d78ebec0998",
+    "primitive-ontology-triples": [
+      [
+        "air",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "cement",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "colloid",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "debris",
+        "is-a",
+        "sediment"
+      ],
+      [
+        "debris flow",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "ejecta",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "regolith",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "rock",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "sediment",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "slurry",
+        "is-a",
+        "mixture"
+      ],
+      [
+        "soil",
+        "is-a",
+        "sediment"
+      ],
+      [
+        "xenocryst",
+        "is-a",
+        "mixture"
+      ]
+    ]
+  },
+  {
+    "id": "7783c02f74c54345a2ea231bf8a5aafe",
+    "primitive-ontology-triples": [
+      [
+        "asexual spore",
+        "is-a",
+        "spore"
+      ]
+    ]
+  },
+  {
+    "id": "77df32e223834532894c4d27ae6c2b95",
+    "primitive-ontology-triples": [
+      [
+        "confocal microscope",
+        "is-a",
+        "microscope"
+      ]
+    ]
+  },
+  {
+    "id": "77e565790bfe4f99abf78a80cd94269a",
+    "primitive-ontology-triples": [
+      [
+        "cob area",
+        "is-a",
+        "area"
+      ]
+    ]
+  },
+  {
+    "id": "78a8e56a84794a56afbaecba16b0271b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "78d67df4407449cf93d8e3c91ef30a36",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "795a3d47866f48bf923081bd59588f2c",
+    "primitive-ontology-triples": [
+      [
+        "measure",
+        "is-a",
+        "colony forming unit"
+      ]
+    ]
+  },
+  {
+    "id": "79bb3abfa4e44828b3e7fd8ab1a1fe36",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "79c9e211111d44cc99ca8bfccddc18f2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7a0811572e4141baab1a3763df77b0ea",
+    "primitive-ontology-triples": [
+      [
+        "body of water",
+        "is-a",
+        "a"
+      ],
+      [
+        "reservoir",
+        "is-a",
+        "an"
+      ],
+      [
+        "water",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "7a128958050e4191946d922410e2519c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7a5bbe98a7cb496b8d3da8be2ca5e627",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7aa18c822ab64bb1a1a916edcfb26dfb",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7bae77a6831b408b86e92a45bdf9ab73",
+    "primitive-ontology-triples": [
+      [
+        "A conic section",
+        "is-a",
+        "geometrical object 2d that encompasses several fundamental shapes"
+      ],
+      [
+        "an",
+        "instance-of",
+        "star"
+      ]
+    ]
+  },
+  {
+    "id": "7bc6008a2571472c9f2421d99e0b27fd",
+    "primitive-ontology-triples": [
+      [
+        "ridge",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "7bda20d2807040d98980b42d72d31d56",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7bedf0b19ab5493aa38a8c1f0ea0e18c",
+    "primitive-ontology-triples": [
+      [
+        "entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "entity",
+        "is-a",
+        "direct"
+      ],
+      [
+        "entity",
+        "is-a",
+        "key"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "direct"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "7c2e1ff611794b8781461a305df4aff1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7c3c210bcbce4f2badfa22a4f315b66b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7c6f1f0b40484a1c9d50ca2cd87f77fb",
+    "primitive-ontology-triples": [
+      [
+        "other",
+        "instance-of",
+        "role"
+      ],
+      [
+        "process",
+        "exact match",
+        "process"
+      ]
+    ]
+  },
+  {
+    "id": "7c70ca36fe674ad8b3048312e815c2d1",
+    "primitive-ontology-triples": [
+      [
+        "cheese",
+        "is-a",
+        "cheese food product"
+      ]
+    ]
+  },
+  {
+    "id": "7c9b9c7ae31947daa21c5a924143873a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7cc61ff482334d1aab6851ac0f70b2cc",
+    "primitive-ontology-triples": [
+      [
+        "hake",
+        "is-a",
+        "species"
+      ],
+      [
+        "maize cob",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "7cf47f03c16e441cb094421d8741972a",
+    "primitive-ontology-triples": [
+      [
+        "variance",
+        "is-a",
+        "distributed"
+      ]
+    ]
+  },
+  {
+    "id": "7d9e79251b3740e68e6cc1f47a47cc18",
+    "primitive-ontology-triples": [
+      [
+        "fish",
+        "is-a",
+        "fauna"
+      ],
+      [
+        "onion plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "scallion plant",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "7dd7fa775af94969a7c3480ff7ca6236",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7e6628da881041f6827447925562c3e7",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7ead6118af1c48c3abf255bece89eed2",
+    "primitive-ontology-triples": [
+      [
+        "assessment",
+        "is-a",
+        "integral"
+      ],
+      [
+        "cattle MHC class II protein complex",
+        "is-a",
+        "mhc class ii protein complex"
+      ],
+      [
+        "mouse mhc class ii protein complex",
+        "is-a",
+        "mhc class ii protein complex"
+      ],
+      [
+        "rat mhc class ii protein complex with rt1-a haplotype",
+        "is-a",
+        "mhc class ii protein complex"
+      ]
+    ]
+  },
+  {
+    "id": "7f642c383f734881ae33e122bb3984e0",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7fd331d4fc6e4dcf9af67e29dd7c2110",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "7fe7a121dba84bb1920dda50f3e2caa1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "80491a91ec704657b2358a9b96da0c01",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "807f1a2cbd384e7ab62cf824e40310ef",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "80a48799111144c6b83fcefa15ae9e6b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "80b46881e7ae448eb0ec405d565c848d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "80ba505e8f7a4023a60eca0623514dcf",
+    "primitive-ontology-triples": [
+      [
+        "focus",
+        "is-a",
+        "inflorescence size"
+      ],
+      [
+        "inflorescence length",
+        "is-a",
+        "a"
+      ],
+      [
+        "inflorescence size",
+        "is-a",
+        "size"
+      ],
+      [
+        "length",
+        "is-a",
+        "a"
+      ],
+      [
+        "panicle inflorescence",
+        "is-a",
+        "inflorescence"
+      ],
+      [
+        "panicle inflorescence size",
+        "is-a",
+        "size"
+      ]
+    ]
+  },
+  {
+    "id": "810e19ff888e41ed8360605429dd2eef",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "810e2f7acc6249d995327cd46d891e37",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "811a55a28f6a4fff9f136a8c95af8973",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "81bc61925c4c4f18b2499c111007e6e6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "823e19a8497f4268a8ec906aaffc9247",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "824869aa613a47c5a34bd860f5454335",
+    "primitive-ontology-triples": [
+      [
+        "clear cell adenofibroma",
+        "is-a",
+        "adenofibroma"
+      ],
+      [
+        "dermoid cyst of ovary",
+        "is-a",
+        "a"
+      ],
+      [
+        "dermoid cyst of ovary",
+        "is-a",
+        "well"
+      ],
+      [
+        "mucinous adenofibroma",
+        "is-a",
+        "adenofibroma"
+      ],
+      [
+        "ovarian benign neoplasm",
+        "is-a",
+        "ovarian disease"
+      ],
+      [
+        "ovarian gonadoblastoma",
+        "is-a",
+        "gonadoblastoma"
+      ],
+      [
+        "ovary",
+        "is-a",
+        "a"
+      ],
+      [
+        "ovary",
+        "is-a",
+        "well"
+      ]
+    ]
+  },
+  {
+    "id": "8280255f9c1442b3b6927e29a9617fbf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "828352ad8f8c4e69bbf582f6e3317a89",
+    "primitive-ontology-triples": [
+      [
+        "as",
+        "is-a",
+        "chicken thigh (skinless, with bone)"
+      ],
+      [
+        "flame",
+        "is-a",
+        "a"
+      ],
+      [
+        "flame",
+        "is-a",
+        "chicken"
+      ]
+    ]
+  },
+  {
+    "id": "82df7259068b422f8713ed91ca847892",
+    "primitive-ontology-triples": [
+      [
+        "noonan syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "noonan syndrome",
+        "is-a",
+        "monogenic disease"
+      ],
+      [
+        "noonan syndrome",
+        "is-a",
+        "rasopathy"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "monogenic disease"
+      ]
+    ]
+  },
+  {
+    "id": "82f7c3556ffc4be38eb8fa1fe697aa44",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "8412d866f8d1400eab209dba905ba63a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "845d9d46a0d54adca8e75a69a47c6a93",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "84920a5e60c545f7a7362c5b6369f9e1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "84d5fde14c4541289df89a19db8952d3",
+    "primitive-ontology-triples": [
+      [
+        "process",
+        "is-a",
+        "phyllome"
+      ]
+    ]
+  },
+  {
+    "id": "84da7dd52f494f32b55e05f2ab684b0a",
+    "primitive-ontology-triples": [
+      [
+        "event",
+        "is-a",
+        "a"
+      ],
+      [
+        "family",
+        "is-a",
+        "a"
+      ],
+      [
+        "name",
+        "is-a",
+        "integral"
+      ],
+      [
+        "the Conference or Event",
+        "is-a",
+        "Authority Resource, organizing information about gatherings"
+      ]
+    ]
+  },
+  {
+    "id": "84dedbfcf7d14db6a95a028b53a702f5",
+    "primitive-ontology-triples": [
+      [
+        "extraction",
+        "is-a",
+        "a"
+      ],
+      [
+        "rna extraction",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "851ded2914764b799db2ca2853d46454",
+    "primitive-ontology-triples": [
+      [
+        "Similarly, 13700 - allspice fruit (efsa foodex2)",
+        "is-a",
+        "13690 - allspice fruit and similar- (efsa foodex2)"
+      ],
+      [
+        "family",
+        "is-a",
+        "a"
+      ],
+      [
+        "filefish family",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "855f30431f634cb5b713389876bc87bf",
+    "primitive-ontology-triples": [
+      [
+        "04620 - witloofs and similar- (efsa foodex2)",
+        "is-a",
+        "04520 - other leafy vegetables (efsa foodex2)"
+      ]
+    ]
+  },
+  {
+    "id": "8582e20f85c245bba6fa0dcb4a9135bb",
+    "primitive-ontology-triples": [
+      [
+        "a",
+        "instance-of",
+        "class"
+      ],
+      [
+        "class",
+        "is-a",
+        "a"
+      ],
+      [
+        "x class",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "85f71b09e8d447eea3f39a125a5a7778",
+    "primitive-ontology-triples": [
+      [
+        "family",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "860e3ae903dc4d9d8a34d2fb30a4f386",
+    "primitive-ontology-triples": [
+      [
+        "notably, a model name itself",
+        "is-a",
+        "designative name"
+      ]
+    ]
+  },
+  {
+    "id": "862ca04767a84f978d9943bdeefa6493",
+    "primitive-ontology-triples": [
+      [
+        "esophagus squamous cell carcinoma",
+        "is-a",
+        "squamous cell carcinoma"
+      ],
+      [
+        "lacrimal gland squamous cell carcinoma",
+        "is-a",
+        "squamous cell carcinoma"
+      ]
+    ]
+  },
+  {
+    "id": "863c920b13034b0c9f026f4c09683747",
+    "primitive-ontology-triples": [
+      [
+        "name",
+        "is-a",
+        "a"
+      ],
+      [
+        "name",
+        "is-a",
+        "identifier"
+      ]
+    ]
+  },
+  {
+    "id": "86805e495d584a8ab64efb9accc64f3c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "86c297d1d83f49bf8736177db323622d",
+    "primitive-ontology-triples": [
+      [
+        "jahnsite",
+        "is-a",
+        "mineral"
+      ]
+    ]
+  },
+  {
+    "id": "86cce58b7e2c4975b8def4a532777b28",
+    "primitive-ontology-triples": [
+      [
+        "plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant",
+        "is-a",
+        "key"
+      ],
+      [
+        "vegetable dish (eurofir)",
+        "is-a",
+        "a"
+      ],
+      [
+        "wheat plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "wheat plant",
+        "is-a",
+        "key"
+      ],
+      [
+        "winter wheat plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "winter wheat plant",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "87399082ec96434bb2455fbc8f7eb84e",
+    "primitive-ontology-triples": [
+      [
+        "rdf",
+        "instance-of",
+        "archived"
+      ]
+    ]
+  },
+  {
+    "id": "873df94820ef4163bc189b7afc196644",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "885572365b5d4cccb6121565bf817f62",
+    "primitive-ontology-triples": [
+      [
+        "cone",
+        "is-a",
+        "geometry"
+      ],
+      [
+        "investigation",
+        "is-a",
+        "a"
+      ],
+      [
+        "sphere",
+        "is-a",
+        "geometry"
+      ]
+    ]
+  },
+  {
+    "id": "88a086e5f30d431c9dff32bb11beb62c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "88d34a2040354edeba85bf528c36fb7d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "89bedbb72862416e9d4b1530c8338ff4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "8a25cd9586504e2f9099b2cecd40377b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "8a2d97bad64548c5ab5611d9c6841e20",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "nut food product",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "8a9b396bef1247bf99de177bf04f1aa7",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "8b0c731940ee4cf3ad6a74b1b89b3a3b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "8b42ce582e814d1a8f76142376f13ac9",
+    "primitive-ontology-triples": [
+      [
+        "glycogen storage disease IXa",
+        "is-a",
+        "group"
+      ],
+      [
+        "intellectual disability",
+        "is-a",
+        "a"
+      ],
+      [
+        "intellectual disability",
+        "is-a",
+        "common"
+      ]
+    ]
+  },
+  {
+    "id": "8b5213f78e66481e902a126b2f977d68",
+    "primitive-ontology-triples": [
+      [
+        "aseptate hypha",
+        "is-a",
+        "hypha"
+      ],
+      [
+        "hyphal tip",
+        "is-a",
+        "hyphal tip, septate hypha"
+      ],
+      [
+        "septate hypha",
+        "is-a",
+        "hypha"
+      ]
+    ]
+  },
+  {
+    "id": "8c4b9708c210409dafd357c81fa2284e",
+    "primitive-ontology-triples": [
+      [
+        "biome",
+        "is-a",
+        "a"
+      ],
+      [
+        "forest biome",
+        "is-a",
+        "a"
+      ],
+      [
+        "marine iceberg",
+        "is-a",
+        "iceberg"
+      ],
+      [
+        "mediterranean forest biome",
+        "is-a",
+        "a"
+      ],
+      [
+        "mediterranean forest biome",
+        "is-a",
+        "forest biome"
+      ]
+    ]
+  },
+  {
+    "id": "8cb664fe7de245f6ba12282773817abb",
+    "primitive-ontology-triples": [
+      [
+        "syndromic microphthalmia 9",
+        "is-a",
+        "an"
+      ],
+      [
+        "syndromic microphthalmia 9",
+        "is-a",
+        "autosomal recessive disease"
+      ]
+    ]
+  },
+  {
+    "id": "8cd1d874127e4de88c3247789edfac88",
+    "primitive-ontology-triples": [
+      [
+        "embryonic tissue",
+        "is-a",
+        "tissue"
+      ],
+      [
+        "head mesenchyme",
+        "is-a",
+        "mesenchyme"
+      ],
+      [
+        "mesenchyme",
+        "is-a",
+        "tissue"
+      ],
+      [
+        "neural crest",
+        "is-a",
+        "population"
+      ]
+    ]
+  },
+  {
+    "id": "8da85230f92449df9158b8052da11378",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "8dab0f9302bb461cb7a18baafa6de44a",
+    "primitive-ontology-triples": [
+      [
+        "date",
+        "is-a",
+        "time"
+      ],
+      [
+        "day",
+        "is-a",
+        "temporal instant"
+      ],
+      [
+        "time",
+        "is-a",
+        "temporal instant"
+      ]
+    ]
+  },
+  {
+    "id": "8ddffd93d68c46889c0b550731e16a4e",
+    "primitive-ontology-triples": [
+      [
+        "bread",
+        "instance-of",
+        "a"
+      ],
+      [
+        "bread",
+        "instance-of",
+        "direct"
+      ]
+    ]
+  },
+  {
+    "id": "8df008fc570b4228a560438816bb73e6",
+    "primitive-ontology-triples": [
+      [
+        "region",
+        "is-a",
+        "processed"
+      ]
+    ]
+  },
+  {
+    "id": "8e9ec16bd9e04132937d99f5df16dd22",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "8f79722a573d4dfb803aac45c3d011ca",
+    "primitive-ontology-triples": [
+      [
+        "bulk density",
+        "is-a",
+        "density"
+      ],
+      [
+        "content",
+        "is-a",
+        "density"
+      ],
+      [
+        "river bed",
+        "is-a",
+        "physical"
+      ]
+    ]
+  },
+  {
+    "id": "8fad64ae5fbe4ef5b3f9e16102c6a3e5",
+    "primitive-ontology-triples": [
+      [
+        "brassicaceae",
+        "is-a",
+        "brassicales"
+      ],
+      [
+        "brassiceae",
+        "is-a",
+        "a"
+      ],
+      [
+        "brassiceae",
+        "is-a",
+        "brassicaceae"
+      ],
+      [
+        "kumquat",
+        "is-a",
+        "citrus fruit"
+      ],
+      [
+        "protein",
+        "is-a",
+        "a"
+      ],
+      [
+        "sisymbrium altissimum",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "8fafd36d82e947c190c3ebb5325a770f",
+    "primitive-ontology-triples": [
+      [
+        "3d neural cell structure determination assay",
+        "is-a",
+        "a"
+      ],
+      [
+        "3d neural cell structure determination assay",
+        "is-a",
+        "key"
+      ],
+      [
+        "assay",
+        "is-a",
+        "a"
+      ],
+      [
+        "assay",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "900ec75f2bd948df883e78a369e68bdf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9058b3e801e34a06ad9d5c1e5a080f5f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "90b57843b3114552903214e94007f8eb",
+    "primitive-ontology-triples": [
+      [
+        "branch",
+        "is-a",
+        "sugar"
+      ],
+      [
+        "detroit dark red beet leaf",
+        "is-a",
+        "detroit dark red beet leaf"
+      ]
+    ]
+  },
+  {
+    "id": "90d934ea87764a76acf7b37c3acfc4a9",
+    "primitive-ontology-triples": [
+      [
+        "fish fillet",
+        "is-a",
+        "fish fillet"
+      ],
+      [
+        "fish fillet (breaded)",
+        "is-a",
+        "fish fillet"
+      ],
+      [
+        "fish fillet (frozen)",
+        "is-a",
+        "fish fillet"
+      ]
+    ]
+  },
+  {
+    "id": "91088ec5b41e42aead3e62f8a7352a8e",
+    "primitive-ontology-triples": [
+      [
+        "electromagnetic wave",
+        "is-a",
+        "wave"
+      ],
+      [
+        "sound",
+        "is-a",
+        "wave"
+      ],
+      [
+        "sound wave",
+        "is-a",
+        "wave"
+      ]
+    ]
+  },
+  {
+    "id": "9142ccfd840d40399f95c05b99c80ca9",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "914d57228908454da8fc28cb2e9f1e6d",
+    "primitive-ontology-triples": [
+      [
+        "flora",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "91c05853e88f4bbca1df6e41797841af",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "91c9baa0d7894fdcaca0bcd91642577b",
+    "primitive-ontology-triples": [
+      [
+        "magnesium porphyrin",
+        "is-a",
+        "a"
+      ],
+      [
+        "magnesium porphyrin",
+        "is-a",
+        "magnesium"
+      ]
+    ]
+  },
+  {
+    "id": "9293d636097d4b85a5987e395366edbe",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "92dde04cfcc84cc7a880f9e2086fdb8c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9370a75228724f6fa5de177b05146516",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "937cffa8441a40a7a30a4cc51df06e06",
+    "primitive-ontology-triples": [
+      [
+        "position",
+        "is-a",
+        "a"
+      ],
+      [
+        "remote sensing",
+        "is-a",
+        "data"
+      ]
+    ]
+  },
+  {
+    "id": "93ac16d2917a4a78b146bc326a0dd404",
+    "primitive-ontology-triples": [
+      [
+        "piece of squab meat",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "93dfd4ef5e78479197b8de9cf4dc5c5a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "93eb680624e646c4b5d5dff95085f109",
+    "primitive-ontology-triples": [
+      [
+        "chicken wing (with skin, raw)",
+        "is-a",
+        "piece of chicken meat (with skin, raw)"
+      ],
+      [
+        "piece of chicken meat (with skin, raw)",
+        "is-a",
+        "layer"
+      ],
+      [
+        "piece of chicken wing (with skin, raw)",
+        "is-a",
+        "piece of chicken meat (with skin, raw)"
+      ]
+    ]
+  },
+  {
+    "id": "9403bf5545d34e2db00a95d08507cca9",
+    "primitive-ontology-triples": [
+      [
+        "ice",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "9413187f92af44d48f41a2cce6e662c9",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "941fc68c75a84f24b6e26f86fec5d22d",
+    "primitive-ontology-triples": [
+      [
+        "collection",
+        "is-a",
+        "data"
+      ]
+    ]
+  },
+  {
+    "id": "945f848747fe432296def8f1787637b3",
+    "primitive-ontology-triples": [
+      [
+        "animal breast (bone-in, raw)",
+        "is-a",
+        "animal breast (bone-in)"
+      ],
+      [
+        "chicken breast (bone-in)",
+        "is-a",
+        "animal breast (bone-in)"
+      ],
+      [
+        "chicken breast (bone-in)",
+        "is-a",
+        "chicken breast"
+      ],
+      [
+        "chicken breast (bone-in, raw)",
+        "is-a",
+        "chicken breast (bone-in)"
+      ],
+      [
+        "turkey breast (bone-in)",
+        "is-a",
+        "animal breast (bone-in)"
+      ],
+      [
+        "turkey breast (bone-in, raw)",
+        "is-a",
+        "turkey breast (bone-in)"
+      ]
+    ]
+  },
+  {
+    "id": "9522c033da8b42a8ac2e8dd83c87a7f3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "952a6fbd6aea46f1bcf5e119800eab4a",
+    "primitive-ontology-triples": [
+      [
+        "Furthermore, the concentration of Cyclokievitone in material entity",
+        "is-a",
+        "concentration of isoflavonoid in material entity"
+      ],
+      [
+        "as",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "concentration of alkaloid in material entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "concentration of alkaloid in material entity",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "diversity",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "entity",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "concentration of"
+      ]
+    ]
+  },
+  {
+    "id": "952d0617d65245ebbf89cfa83cd62ad8",
+    "primitive-ontology-triples": [
+      [
+        "retinal vascular disease",
+        "is-a",
+        "vascular disease"
+      ]
+    ]
+  },
+  {
+    "id": "95772bd4d5034cc4bd953ce83944ffee",
+    "primitive-ontology-triples": [
+      [
+        "silicon dioxide",
+        "is-a",
+        "a"
+      ],
+      [
+        "silicon dioxide",
+        "is-a",
+        "silicon oxide"
+      ]
+    ]
+  },
+  {
+    "id": "9625e115990f4533874197f7a0fc9671",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "963e42639f214f12b507cb147703ba48",
+    "primitive-ontology-triples": [
+      [
+        "1000 colony forming unit",
+        "instance-of",
+        "unit division"
+      ],
+      [
+        "colony forming unit per millilitre",
+        "instance-of",
+        "unit division"
+      ],
+      [
+        "joule per kelvin",
+        "instance-of",
+        "unit division"
+      ],
+      [
+        "kilogram per second",
+        "instance-of",
+        "unit division"
+      ]
+    ]
+  },
+  {
+    "id": "96bea4083fec455a950b04e10eff3d28",
+    "primitive-ontology-triples": [
+      [
+        "bison",
+        "is-a",
+        "animal"
+      ]
+    ]
+  },
+  {
+    "id": "96e732fb5cff4be5aa738442bf747357",
+    "primitive-ontology-triples": [
+      [
+        "orange",
+        "is-a",
+        "other"
+      ]
+    ]
+  },
+  {
+    "id": "9709ced69ac543cf9801da0b832240b7",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "984f4410f49e429f99a3669b53b44ab5",
+    "primitive-ontology-triples": [
+      [
+        "adipose tissue",
+        "is-a",
+        "a"
+      ],
+      [
+        "aluminium atom",
+        "is-a",
+        "a"
+      ],
+      [
+        "aluminium atom",
+        "is-a",
+        "boron group element atom"
+      ],
+      [
+        "atom",
+        "is-a",
+        "a"
+      ],
+      [
+        "atom",
+        "is-a",
+        "boron group element atom"
+      ],
+      [
+        "tissue",
+        "is-a",
+        "a"
+      ],
+      [
+        "tissue",
+        "is-a",
+        "adipose tissue"
+      ]
+    ]
+  },
+  {
+    "id": "9868c4273f0043068edacbdfc6597174",
+    "primitive-ontology-triples": [
+      [
+        "food",
+        "instance-of",
+        "digestible food material"
+      ],
+      [
+        "sausage",
+        "is-a",
+        "a"
+      ],
+      [
+        "sausage",
+        "is-a",
+        "group"
+      ],
+      [
+        "sausage",
+        "is-a",
+        "swine sausage"
+      ],
+      [
+        "swine sausage",
+        "is-a",
+        "a"
+      ],
+      [
+        "swine sausage",
+        "is-a",
+        "swine food product"
+      ]
+    ]
+  },
+  {
+    "id": "9872cacf085a4c579a1ba96610632034",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "987f9169ad9943e991200dc01d4bd6a6",
+    "primitive-ontology-triples": [
+      [
+        "bean",
+        "is-a",
+        "bean food product"
+      ],
+      [
+        "winged bean",
+        "is-a",
+        "bean"
+      ],
+      [
+        "winged bean food product",
+        "is-a",
+        "bean food product"
+      ]
+    ]
+  },
+  {
+    "id": "988c4d29fe33416198dc17b0d430215e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "98cfef4eb7a74e7f969af8391dbb29ff",
+    "primitive-ontology-triples": [
+      [
+        "identifier",
+        "is-a",
+        "information content entity"
+      ],
+      [
+        "name",
+        "is-a",
+        "identifier"
+      ]
+    ]
+  },
+  {
+    "id": "98e006d1dc3d4da592e9e1f4ed683972",
+    "primitive-ontology-triples": [
+      [
+        "assay measuring epitope specific interleukin-23 production by T cells",
+        "is-a",
+        "a"
+      ],
+      [
+        "epitope specific interleukin-23 production by T cells",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "98f8afd1bb474563abab541e4521a4c9",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "98fd8fa494da4eada237984bc2af7abc",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9919c102dd9943e488cb59798e640990",
+    "primitive-ontology-triples": [
+      [
+        "goat meat (minced)",
+        "is-a",
+        "piece(s) of goat meat"
+      ],
+      [
+        "piece(s) of goat meat",
+        "is-a",
+        "piece(s) of goat"
+      ],
+      [
+        "piece(s) of goat meat (with skin)",
+        "is-a",
+        "piece(s) of goat meat"
+      ]
+    ]
+  },
+  {
+    "id": "99288ee7e6354712996a871c308d5e57",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9983b16356ab493c8fb2f84d71c3e3c5",
+    "primitive-ontology-triples": [
+      [
+        "point group symmetry",
+        "is-a",
+        "symmetry"
+      ]
+    ]
+  },
+  {
+    "id": "99cf380f6a914e568129d6e16dba8969",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9a1db7a909af4073a0234bb90f4ee595",
+    "primitive-ontology-triples": [
+      [
+        "blackberry pie",
+        "is-a",
+        "a"
+      ],
+      [
+        "fruit pie food product",
+        "is-a",
+        "pie food product"
+      ],
+      [
+        "pie",
+        "is-a",
+        "a"
+      ],
+      [
+        "pie",
+        "is-a",
+        "pie food product"
+      ],
+      [
+        "pie",
+        "is-a",
+        "slightly"
+      ]
+    ]
+  },
+  {
+    "id": "9a803ddf599c45d587616063c4eba931",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "an"
+      ],
+      [
+        "Product",
+        "is-a",
+        "herb food product"
+      ],
+      [
+        "chinese chive leaf",
+        "is-a",
+        "chinese chive leaf"
+      ],
+      [
+        "chinese chive leaf",
+        "is-a",
+        "leaf"
+      ],
+      [
+        "food product",
+        "is-a",
+        "an"
+      ],
+      [
+        "food product",
+        "is-a",
+        "herb food product"
+      ],
+      [
+        "parsley leaf",
+        "is-a",
+        "leaf"
+      ],
+      [
+        "rosemary leaf",
+        "is-a",
+        "leaf"
+      ]
+    ]
+  },
+  {
+    "id": "9ab53809cd9647d89128d1c06f49c7aa",
+    "primitive-ontology-triples": [
+      [
+        "seed",
+        "is-a",
+        "a"
+      ],
+      [
+        "seed size",
+        "is-a",
+        "a"
+      ],
+      [
+        "seed size",
+        "is-a",
+        "seed"
+      ],
+      [
+        "size",
+        "is-a",
+        "a"
+      ],
+      [
+        "size",
+        "is-a",
+        "seed"
+      ],
+      [
+        "system",
+        "is-a",
+        "concept"
+      ]
+    ]
+  },
+  {
+    "id": "9b795b96cfe54335ac5d9b27576e1680",
+    "primitive-ontology-triples": [
+      [
+        "function",
+        "is-a",
+        "a"
+      ],
+      [
+        "function",
+        "is-a",
+        "increase"
+      ],
+      [
+        "ground motor vehicle",
+        "is-a",
+        "a"
+      ],
+      [
+        "motor vehicle",
+        "is-a",
+        "a"
+      ],
+      [
+        "propeller",
+        "is-a",
+        "a"
+      ],
+      [
+        "vehicle",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "9b85efbc4cc64a28aec21abf7a57cf2f",
+    "primitive-ontology-triples": [
+      [
+        "classification",
+        "is-a",
+        "herb food product"
+      ],
+      [
+        "leaf",
+        "is-a",
+        "a"
+      ],
+      [
+        "leaf",
+        "is-a",
+        "herb food product"
+      ],
+      [
+        "marjoram leaf",
+        "is-a",
+        "leaf"
+      ],
+      [
+        "spearmint leaf",
+        "is-a",
+        "a"
+      ],
+      [
+        "spearmint leaf",
+        "is-a",
+        "herb food product"
+      ]
+    ]
+  },
+  {
+    "id": "9b9376cc493040ea930f9e292c95efaa",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9c122a867b3c49918228078b65391c07",
+    "primitive-ontology-triples": [
+      [
+        "leek",
+        "is-a",
+        "a"
+      ],
+      [
+        "peel",
+        "is-a",
+        "a"
+      ],
+      [
+        "root, tuber or bulb, with peel",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "9c1277ae94314b46a8f885707fae4119",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9c18717a692d4a6793b865449ebc6b56",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9c85312bc3394198a549fbef967aca18",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9ca57152a6e349bd94f81ea7c08df14c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9cc15bf2cfa9425b847b2baff1e75d16",
+    "primitive-ontology-triples": [
+      [
+        "gravity wave",
+        "is-a",
+        "a"
+      ],
+      [
+        "sound",
+        "is-a",
+        "wave"
+      ],
+      [
+        "swell",
+        "is-a",
+        "phenomena"
+      ],
+      [
+        "wave",
+        "is-a",
+        "a"
+      ],
+      [
+        "wave",
+        "is-a",
+        "gravity wave"
+      ]
+    ]
+  },
+  {
+    "id": "9cc66271199f411586da1ef010c5037e",
+    "primitive-ontology-triples": [
+      [
+        "canarium album",
+        "is-a",
+        "canarium plant"
+      ],
+      [
+        "canarium ovatum",
+        "is-a",
+        "canarium plant"
+      ],
+      [
+        "canarium pimela",
+        "is-a",
+        "canarium plant"
+      ]
+    ]
+  },
+  {
+    "id": "9cfc0adc131f46fba4bbacfa7feb6e41",
+    "primitive-ontology-triples": [
+      [
+        "intertidal",
+        "is-a",
+        "coastal"
+      ],
+      [
+        "mangrove swamp",
+        "is-a",
+        "a"
+      ],
+      [
+        "mangrove swamp",
+        "is-a",
+        "coastal"
+      ],
+      [
+        "shoreline",
+        "is-a",
+        "coastal"
+      ],
+      [
+        "tidal",
+        "is-a",
+        "coastal"
+      ]
+    ]
+  },
+  {
+    "id": "9d3157e95dbf4a709110fec4c7509085",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9d5a26254a94439bb5e4c06ba2cb45fc",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9d7e2e82573c4e3cae05636c4e310e85",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9de49c468cb048afa314d66a17e53b29",
+    "primitive-ontology-triples": [
+      [
+        "chicken carcass",
+        "is-a",
+        "chicken"
+      ],
+      [
+        "protein",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "9debff83935d4e5fa99dc2a885d5fef3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9e9fa7c72e6841d8afb876ca28a88ba8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9eb707300b074efc9f94ac693b0e7c3e",
+    "primitive-ontology-triples": [
+      [
+        "Chenopodium quinoa",
+        "is-a",
+        "chenopodium"
+      ],
+      [
+        "Chenopodium quinoa",
+        "is-a",
+        "goosefoot family"
+      ],
+      [
+        "chenopodium album",
+        "is-a",
+        "goosefoot family"
+      ],
+      [
+        "chenopodium pallidicaule",
+        "is-a",
+        "chenopodium"
+      ],
+      [
+        "chenopodium pallidicaule",
+        "is-a",
+        "goosefoot family"
+      ]
+    ]
+  },
+  {
+    "id": "9eb95217d5104321860acf3a01bd6c18",
+    "primitive-ontology-triples": [
+      [
+        "Resource",
+        "is-a",
+        "a"
+      ],
+      [
+        "Resource",
+        "is-a",
+        "mineral"
+      ]
+    ]
+  },
+  {
+    "id": "9ec6d9407c924ffe8defb1ddd7690791",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9ef40c72cf334ac1a555bdd91a355601",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9f0f0931dbe242a2a7c69267ed0f9e31",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "9f3d9b9411e340799da59a47e50b3e7a",
+    "primitive-ontology-triples": [
+      [
+        "state",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "9f76f38d0f8842d18a18d5ba592a1ebb",
+    "primitive-ontology-triples": [
+      [
+        "biome",
+        "is-a",
+        "a"
+      ],
+      [
+        "marine reef biome",
+        "is-a",
+        "a"
+      ],
+      [
+        "marine sponge reef",
+        "is-a",
+        "marine reef"
+      ],
+      [
+        "marine subtidal rocky reef",
+        "is-a",
+        "marine reef"
+      ],
+      [
+        "marine subtidal rocky reef",
+        "is-a",
+        "rocky reef"
+      ]
+    ]
+  },
+  {
+    "id": "a00008f6816849dca7a1766dd30d95ad",
+    "primitive-ontology-triples": [
+      [
+        "paralichthys",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "a00ea21846ab46358874604022d49e8f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a065dcf5e73f4527b43bfa02a2a0b5fc",
+    "primitive-ontology-triples": [
+      [
+        "cancer",
+        "is-a",
+        "one"
+      ],
+      [
+        "endometrial cancer",
+        "is-a",
+        "one"
+      ]
+    ]
+  },
+  {
+    "id": "a08dee74799c43d185498183c7b23847",
+    "primitive-ontology-triples": [
+      [
+        "syndrome",
+        "is-a",
+        "integral"
+      ]
+    ]
+  },
+  {
+    "id": "a0d6f7f2e4ae4adb8dae5041bfd27857",
+    "primitive-ontology-triples": [
+      [
+        "realm",
+        "is-a",
+        "plastic"
+      ]
+    ]
+  },
+  {
+    "id": "a13c24d2dfca470a81cbefda5569788c",
+    "primitive-ontology-triples": [
+      [
+        "siderophore",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "a1d53de65aeb4d8daeb2332b42efe9ed",
+    "primitive-ontology-triples": [
+      [
+        "mononucleate macroconidium",
+        "is-a",
+        "macroconidium"
+      ]
+    ]
+  },
+  {
+    "id": "a1f20cfc8c1c4e1684d077ce091c4ae6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a201bd8f35e04b3582e01d082366d1ef",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a2a9aa4423bb41618a9cfa168367b35f",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "sphyraena"
+      ],
+      [
+        "sphyraena",
+        "is-a",
+        "species"
+      ],
+      [
+        "sphyraena",
+        "is-a",
+        "sphyraenidae"
+      ]
+    ]
+  },
+  {
+    "id": "a2d8a7a4c2d949a78163422d9a70fc9c",
+    "primitive-ontology-triples": [
+      [
+        "cutaneous lupus erythematosus",
+        "is-a",
+        "lupus erythematosus"
+      ],
+      [
+        "stiff skin syndrome",
+        "is-a",
+        "integument"
+      ]
+    ]
+  },
+  {
+    "id": "a3490bd3916b43d0b68fdf2371fe6f64",
+    "primitive-ontology-triples": [
+      [
+        "leaf",
+        "is-a",
+        "a"
+      ],
+      [
+        "leaf",
+        "is-a",
+        "an"
+      ],
+      [
+        "leaf",
+        "is-a",
+        "edible"
+      ]
+    ]
+  },
+  {
+    "id": "a3b9e8dd9ab64ea78ed6066a3108a522",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a40f4fe46cc34c2dada17b862599bfa7",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a41576fc57d646e7b6a4881731110a57",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a443ece51d954bc3b406b13364928ffe",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a45b946a73844610aebbdad2df7227ea",
+    "primitive-ontology-triples": [
+      [
+        "Acetes japonicus",
+        "is-a",
+        "a"
+      ],
+      [
+        "Acetes japonicus",
+        "is-a",
+        "sergestidae"
+      ]
+    ]
+  },
+  {
+    "id": "a49e068ba68a436c835ed9e017d5a795",
+    "primitive-ontology-triples": [
+      [
+        "dense mesenchyme tissue",
+        "is-a",
+        "mesenchyme"
+      ],
+      [
+        "mesenchyme",
+        "is-a",
+        "tissue"
+      ],
+      [
+        "migrating mesenchyme population",
+        "is-a",
+        "mesenchyme"
+      ],
+      [
+        "pharmaceutical ink",
+        "is-a",
+        "manufactured product"
+      ],
+      [
+        "soy ink",
+        "is-a",
+        "manufactured product"
+      ]
+    ]
+  },
+  {
+    "id": "a535a63c0eef4305bfc5b210cbf8a88b",
+    "primitive-ontology-triples": [
+      [
+        "Concrete",
+        "instance-of",
+        "ionosphere"
+      ],
+      [
+        "d layer",
+        "is-a",
+        "a"
+      ],
+      [
+        "d layer",
+        "is-a",
+        "mantle"
+      ],
+      [
+        "layer",
+        "is-a",
+        "a"
+      ],
+      [
+        "phenomena",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "a5f278cd6514410993d748cc91dd56a0",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a5fd0c8870db40c8bbb47d2eba6997de",
+    "primitive-ontology-triples": [
+      [
+        "bread (enriched)",
+        "is-a",
+        "bread loaf containing wheat"
+      ]
+    ]
+  },
+  {
+    "id": "a64388378d8a4dbd841c20265573ec77",
+    "primitive-ontology-triples": [
+      [
+        "piece(s) of turkey back",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey breast",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey drumstick",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey leg",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey meat",
+        "is-a",
+        "piece(s) of turkey"
+      ],
+      [
+        "piece(s) of turkey meat (raw)",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey meat (skinless)",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey meat (with skin)",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey neck",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey thigh",
+        "is-a",
+        "piece(s) of turkey meat"
+      ],
+      [
+        "piece(s) of turkey wing",
+        "is-a",
+        "piece(s) of turkey meat"
+      ]
+    ]
+  },
+  {
+    "id": "a67907b1f9d940479bb3b66d71999c41",
+    "primitive-ontology-triples": [
+      [
+        "elephas maximus",
+        "is-a",
+        "elephantidae"
+      ]
+    ]
+  },
+  {
+    "id": "a68d0478f01c4db380cc99c3c1d707b0",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a690b06f60f04b488a6f643f465ff84e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a6a7c25701e54fa9b17a0224a4bac0e1",
+    "primitive-ontology-triples": [
+      [
+        "height",
+        "exact match",
+        "height"
+      ],
+      [
+        "width",
+        "exact match",
+        "width"
+      ]
+    ]
+  },
+  {
+    "id": "a740a80aa4654bf8b7cc5bb3a89f7edf",
+    "primitive-ontology-triples": [
+      [
+        "configuration",
+        "is-a",
+        "a"
+      ],
+      [
+        "configuration",
+        "is-a",
+        "co"
+      ]
+    ]
+  },
+  {
+    "id": "a79d420d76e243faa8dc92519a12cb37",
+    "primitive-ontology-triples": [
+      [
+        "liquid water",
+        "is-a",
+        "a"
+      ],
+      [
+        "sea water",
+        "is-a",
+        "a"
+      ],
+      [
+        "soil",
+        "is-a",
+        "a"
+      ],
+      [
+        "soil",
+        "is-a",
+        "key"
+      ],
+      [
+        "soil",
+        "is-a",
+        "physical"
+      ],
+      [
+        "water",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "a7f66657a92449fa81c4a03685fbf6e3",
+    "primitive-ontology-triples": [
+      [
+        "family",
+        "is-a",
+        "fish"
+      ]
+    ]
+  },
+  {
+    "id": "a8381cf8606f43a1ad66a949dea6adaf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a8511e2e01a84ee2bd4c9d4e85782163",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "a859a0f2bb02405f8049effc891ca52b",
+    "primitive-ontology-triples": [
+      [
+        "flour",
+        "is-a",
+        "common"
+      ]
+    ]
+  },
+  {
+    "id": "a89a9aa8df2e417bb74d0e280d00a8e8",
+    "primitive-ontology-triples": [
+      [
+        "syndrome",
+        "is-a",
+        "disease"
+      ]
+    ]
+  },
+  {
+    "id": "a9aa155679834d8a9357ad780a29c059",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "fish food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "a9ae8c4324464b8fad80db6573956dc8",
+    "primitive-ontology-triples": [
+      [
+        "flour",
+        "is-a",
+        "flour food product"
+      ],
+      [
+        "wheat flour food product",
+        "is-a",
+        "flour food product"
+      ]
+    ]
+  },
+  {
+    "id": "aa384ffddd4e49eea13c08debba11dd2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "abd3e91900514b57be15ec3f6946becb",
+    "primitive-ontology-triples": [
+      [
+        "plant",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "ac82158c1c3945ac803653ec59f6b32d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ac8d2d8b1a11475bbdd5cae1d8921af3",
+    "primitive-ontology-triples": [
+      [
+        "food",
+        "instance-of",
+        "engineered"
+      ],
+      [
+        "system",
+        "is-a",
+        "broad"
+      ]
+    ]
+  },
+  {
+    "id": "acb9a521560b466a87d3e10938b78cbb",
+    "primitive-ontology-triples": [
+      [
+        "family",
+        "is-a",
+        "a"
+      ],
+      [
+        "scomberesox saurus",
+        "is-a",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "ad410b799a3343e286af1dca97df17da",
+    "primitive-ontology-triples": [
+      [
+        "road vehicle damage",
+        "is-a",
+        "damage"
+      ]
+    ]
+  },
+  {
+    "id": "ad737e3cca414d58a79bd5988f2dfb64",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ad7b29ec02954fc7a594ec546044c439",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ae047840a91b49cba5c8b4e32f2334f3",
+    "primitive-ontology-triples": [
+      [
+        "barbonymus gonionotus",
+        "is-a",
+        "carp or minnow family"
+      ]
+    ]
+  },
+  {
+    "id": "ae2b49d0b00240e8ae5461effbc00709",
+    "primitive-ontology-triples": [
+      [
+        "renal artery atheroma",
+        "is-a",
+        "atherosclerosis"
+      ]
+    ]
+  },
+  {
+    "id": "ae37f29cce404e19a036cbc74c6f1514",
+    "primitive-ontology-triples": [
+      [
+        "cucumber",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "ae6f87aa464449d7850725df752b65ce",
+    "primitive-ontology-triples": [
+      [
+        "calzone",
+        "is-a",
+        "mass"
+      ],
+      [
+        "cart",
+        "is-a",
+        "Equipment"
+      ],
+      [
+        "footstool",
+        "is-a",
+        "mass"
+      ]
+    ]
+  },
+  {
+    "id": "ae9ce2005a354411ac0f87b520c254f7",
+    "primitive-ontology-triples": [
+      [
+        "environmental monitoring",
+        "is-a",
+        "calibrated"
+      ]
+    ]
+  },
+  {
+    "id": "af630dfa97eb4371a9a608ec08369432",
+    "primitive-ontology-triples": [
+      [
+        "t1 weighted gre magnetic resonance image data set",
+        "is-a",
+        "t1 weighted magnetic resonance image data set"
+      ]
+    ]
+  },
+  {
+    "id": "afe952161bcd44079f5ae1764e4b7237",
+    "primitive-ontology-triples": [
+      [
+        "an",
+        "instance-of",
+        "vocta_data_format"
+      ],
+      [
+        "as",
+        "instance-of",
+        "vocta_data_format"
+      ],
+      [
+        "format",
+        "is-a",
+        "integral"
+      ],
+      [
+        "topic",
+        "equivalent class",
+        "topic"
+      ],
+      [
+        "topic",
+        "same as",
+        "topic"
+      ]
+    ]
+  },
+  {
+    "id": "b015f56dee274829b98811bdf67dc323",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b0a07bd375ce40008c61639798b5ab69",
+    "primitive-ontology-triples": [
+      [
+        "concentration of",
+        "is-a",
+        "entity"
+      ],
+      [
+        "concentration of",
+        "is-a",
+        "material entity"
+      ],
+      [
+        "entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "entity",
+        "is-a",
+        "key"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "b0aeb987771d47b4b8e638aebb285000",
+    "primitive-ontology-triples": [
+      [
+        "an",
+        "instance-of",
+        "denotator type"
+      ],
+      [
+        "as",
+        "instance-of",
+        "denotator type"
+      ]
+    ]
+  },
+  {
+    "id": "b1206d8baf8242a5837dca87ab1a8b7f",
+    "primitive-ontology-triples": [
+      [
+        "geochronologic era",
+        "is-a",
+        "era"
+      ]
+    ]
+  },
+  {
+    "id": "b1ac698f395d43248526e8e237302d40",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b1d4ea66027441c188bdf0de42369168",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b1e5c0e29e664b06a034b2c6b7ff6dfb",
+    "primitive-ontology-triples": [
+      [
+        "spondylocostal dysostosis",
+        "is-a",
+        "dysostosis"
+      ],
+      [
+        "spondyloepimetaphyseal dysplasia",
+        "is-a",
+        "osteochondrodysplasia"
+      ],
+      [
+        "variant",
+        "is-a",
+        "spondyloepimetaphyseal dysplasia"
+      ]
+    ]
+  },
+  {
+    "id": "b20e1908320d403f90a158facf5eb3af",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b2202434dc834a36905bcda27f9ec048",
+    "primitive-ontology-triples": [
+      [
+        "atom",
+        "is-a",
+        "material entity"
+      ],
+      [
+        "cell",
+        "is-a",
+        "material entity"
+      ],
+      [
+        "entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "material entity",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "b3cebf1a8dc747d7808f0d78aed5877f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b438c6ca1cf84323b267546e1aed6567",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b446e714bc0044e9a8b57e68d4393f45",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "squash food product"
+      ],
+      [
+        "flower",
+        "is-a",
+        "squash food product"
+      ],
+      [
+        "food product",
+        "is-a",
+        "squash food product"
+      ],
+      [
+        "seed",
+        "is-a",
+        "squash food product"
+      ],
+      [
+        "squash seed",
+        "is-a",
+        "squash food product"
+      ],
+      [
+        "zucchini squash",
+        "is-a",
+        "zucchini squash"
+      ]
+    ]
+  },
+  {
+    "id": "b507f9e30d534ebbbf604b978373e708",
+    "primitive-ontology-triples": [
+      [
+        "synovial sarcoma",
+        "is-a",
+        "a"
+      ],
+      [
+        "synovial sarcoma",
+        "is-a",
+        "rare"
+      ]
+    ]
+  },
+  {
+    "id": "b53ef8c132c6424885f8ca3837d9bf60",
+    "primitive-ontology-triples": [
+      [
+        "embryonal rhabdomyosarcoma",
+        "is-a",
+        "rhabdomyosarcoma"
+      ],
+      [
+        "media",
+        "is-a",
+        "blue drum syndrome"
+      ],
+      [
+        "otitis media",
+        "is-a",
+        "blue drum syndrome"
+      ]
+    ]
+  },
+  {
+    "id": "b5c35c66501c40309779722736c931e9",
+    "primitive-ontology-triples": [
+      [
+        "ammonium nitrate phosphate",
+        "has part",
+        "ammonium nitrate"
+      ]
+    ]
+  },
+  {
+    "id": "b5c8ce277d7c4137b1b9e9be7270001d",
+    "primitive-ontology-triples": [
+      [
+        "localized irrigation process",
+        "is-a",
+        "irrigation process"
+      ]
+    ]
+  },
+  {
+    "id": "b5fba7742e0c4e0a9cb41d1f42b576df",
+    "primitive-ontology-triples": [
+      [
+        "spermatogenic failure",
+        "is-a",
+        "a"
+      ],
+      [
+        "spermatogenic failure 5",
+        "is-a",
+        "spermatogenic failure"
+      ]
+    ]
+  },
+  {
+    "id": "b6212c29ff3a4e2e9388941df99d588d",
+    "primitive-ontology-triples": [
+      [
+        "seed",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "b6433bc0fa6b4e10a90d0ec27a8a8dc4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b6637d1744114444943807b0a39ec13d",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "b69ec35302534ec9baede03e0cc3cc3f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b6a32f84f78c4b5db61643aea91f22b2",
+    "primitive-ontology-triples": [
+      [
+        "layer",
+        "is-a",
+        "a"
+      ],
+      [
+        "soil layer",
+        "is-a",
+        "layer"
+      ]
+    ]
+  },
+  {
+    "id": "b768bc7b774349de9fb11d8b2560507c",
+    "primitive-ontology-triples": [
+      [
+        "focus",
+        "is-a",
+        "skin cancer"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "acute"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "an"
+      ]
+    ]
+  },
+  {
+    "id": "b77586e140e64efabdf677438c03ca0f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "b8b48d73c84f4c68b57946eddac3fe36",
+    "primitive-ontology-triples": [
+      [
+        "external ear squamous cell carcinoma",
+        "is-a",
+        "squamous cell carcinoma"
+      ],
+      [
+        "head and neck squamous cell carcinoma",
+        "is-a",
+        "squamous cell carcinoma"
+      ],
+      [
+        "pituitary gland",
+        "is-a",
+        "site"
+      ],
+      [
+        "squamous cell bile duct carcinoma",
+        "is-a",
+        "squamous cell carcinoma"
+      ]
+    ]
+  },
+  {
+    "id": "b901b8ecfce54ec2b58bea669a7c2aad",
+    "primitive-ontology-triples": [
+      [
+        "analyte assay",
+        "is-a",
+        "assay"
+      ]
+    ]
+  },
+  {
+    "id": "ba12c24c9e4445e08048b930a99eeb07",
+    "primitive-ontology-triples": [
+      [
+        "organization",
+        "is-a",
+        "musculature"
+      ]
+    ]
+  },
+  {
+    "id": "ba3627d0e1b448f7a5bf449c2e9b4f3b",
+    "primitive-ontology-triples": [
+      [
+        "syndrome",
+        "is-a",
+        "a"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "rare"
+      ]
+    ]
+  },
+  {
+    "id": "babb5d450ccc4e20a247ac0c6ea8059e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "bb2465041510437c99e073ed62795b50",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "bb3550d3468c4098ac089d4eba7ad7d3",
+    "primitive-ontology-triples": [
+      [
+        "ground cherry",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "bb45745165034577ac7ab81c843f451a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "bb841e18612b4e94a0ccfc8f8ec5bad5",
+    "primitive-ontology-triples": [
+      [
+        "malignant neoplasm of acoustic nerve",
+        "is-a",
+        "a"
+      ],
+      [
+        "malignant neoplasm of acoustic nerve",
+        "is-a",
+        "cranial nerve malignant neoplasm"
+      ],
+      [
+        "malignant neoplasm of acoustic nerve",
+        "is-a",
+        "vestibulocochlear nerve disease"
+      ],
+      [
+        "nerve",
+        "is-a",
+        "a"
+      ],
+      [
+        "nerve",
+        "is-a",
+        "vestibulocochlear nerve disease"
+      ],
+      [
+        "neuronitis",
+        "is-a",
+        "a"
+      ],
+      [
+        "vestibular neuronitis",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "bbae2d4754cb49a5b5a77e0f04f6297e",
+    "primitive-ontology-triples": [
+      [
+        "common",
+        "instance-of",
+        "a"
+      ],
+      [
+        "common",
+        "instance-of",
+        "prefixed unit"
+      ]
+    ]
+  },
+  {
+    "id": "bbc7c85d02ea4296b0262f6b45d36c81",
+    "primitive-ontology-triples": [
+      [
+        "atom",
+        "is-a",
+        "elemental substance"
+      ],
+      [
+        "series",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "bbcdf9c387184abd83c5703ca69ca314",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "bbd6c96e584446d3a6625b7f8a2d090f",
+    "primitive-ontology-triples": [
+      [
+        "fresh specimen",
+        "is-a",
+        "a"
+      ],
+      [
+        "item",
+        "is-a",
+        "a"
+      ],
+      [
+        "jujube fruit (raw)",
+        "is-a",
+        "jujube fruit"
+      ],
+      [
+        "li jujube fruit",
+        "is-a",
+        "jujube fruit"
+      ],
+      [
+        "piece of sheep stomach",
+        "is-a",
+        "piece of sheep"
+      ],
+      [
+        "sheep stomach",
+        "is-a",
+        "piece of sheep"
+      ],
+      [
+        "specimen",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "bbe41308ccd24940abe1ef792dd505c6",
+    "primitive-ontology-triples": [
+      [
+        "sinusitis",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "bbff51cfcc4b4a32b5871bda9b839d2a",
+    "primitive-ontology-triples": [
+      [
+        "tropical forest",
+        "is-a",
+        "forest"
+      ]
+    ]
+  },
+  {
+    "id": "bcde9993cc4c4e7598e33a9d7e0bfe87",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "bd0098484ac04c5c889c0c0f65c1c6db",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "bd98be3d2adc49148a1ad63c33554db2",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "be3307ea0ba34ba19ff057adfde04946",
+    "primitive-ontology-triples": [
+      [
+        "compound",
+        "is-a",
+        "a"
+      ],
+      [
+        "compound",
+        "is-a",
+        "chemical substance"
+      ],
+      [
+        "molecule",
+        "is-a",
+        "a"
+      ],
+      [
+        "solvent",
+        "is-a",
+        "medium"
+      ]
+    ]
+  },
+  {
+    "id": "be609580d6834e8c8a5b6aae33f08de8",
+    "primitive-ontology-triples": [
+      [
+        "as",
+        "is-a",
+        "malva verticillata"
+      ],
+      [
+        "thespesia populnea",
+        "is-a",
+        "an"
+      ]
+    ]
+  },
+  {
+    "id": "be9e060bd621442b93b0d48de1fedef3",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "Product",
+        "is-a",
+        "cucurbit fruit food product"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "food product",
+        "is-a",
+        "cucurbit fruit food product"
+      ],
+      [
+        "head mesenchyme",
+        "is-a",
+        "a"
+      ],
+      [
+        "head mesenchyme",
+        "is-a",
+        "mesenchyme"
+      ],
+      [
+        "head mesenchyme",
+        "is-a",
+        "portion"
+      ],
+      [
+        "mesenchyme",
+        "is-a",
+        "a"
+      ],
+      [
+        "mesenchyme",
+        "is-a",
+        "portion"
+      ]
+    ]
+  },
+  {
+    "id": "bebb63db09c84292b23be3df66b9f9a6",
+    "primitive-ontology-triples": [
+      [
+        "disposition",
+        "disjoint with",
+        "role"
+      ],
+      [
+        "disposition",
+        "is-a",
+        "realizable entity"
+      ],
+      [
+        "role",
+        "is-a",
+        "realizable entity"
+      ],
+      [
+        "stasis of artifact operationality",
+        "is-a",
+        "a"
+      ],
+      [
+        "stasis of artifact operationality",
+        "is-a",
+        "stasis"
+      ]
+    ]
+  },
+  {
+    "id": "bf06d705b2d7431f903e884fe6d4d76f",
+    "primitive-ontology-triples": [
+      [
+        "adenoma",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "bf76bb80f1df46f6b5341019225babd3",
+    "primitive-ontology-triples": [
+      [
+        "centrophorus granulosus",
+        "is-a",
+        "gulper shark family"
+      ],
+      [
+        "centrophorus squamosus",
+        "is-a",
+        "family"
+      ],
+      [
+        "centrophorus squamosus",
+        "is-a",
+        "gulper shark family"
+      ]
+    ]
+  },
+  {
+    "id": "bf8eb6bb88d84dc491acccc92368e315",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "bf8f2b592e2640b093d092653c1a1879",
+    "primitive-ontology-triples": [
+      [
+        "convenience",
+        "is-a",
+        "shop"
+      ]
+    ]
+  },
+  {
+    "id": "c08d690f0f48458ca99da30e659d2cfd",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c10766e9e3044f2190382a7f6018d187",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c11b8a1b897541ec9f8fc51bcf27ae40",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c18a2b11497f44228df31c7e8aa071c9",
+    "primitive-ontology-triples": [
+      [
+        "condition",
+        "is-a",
+        "humidity"
+      ],
+      [
+        "soil",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "c1a17804b484422694fc2d6629315817",
+    "primitive-ontology-triples": [
+      [
+        "anaplastic large cell lymphoma",
+        "is-a",
+        "non-Hodgkin lymphoma"
+      ],
+      [
+        "lymphoma",
+        "is-a",
+        "peripheral"
+      ],
+      [
+        "non-Hodgkin lymphoma",
+        "is-a",
+        "peripheral"
+      ],
+      [
+        "primary cutaneous T-cell non-Hodgkin lymphoma",
+        "is-a",
+        "peripheral"
+      ],
+      [
+        "t-cell non-hodgkin lymphoma",
+        "is-a",
+        "non-Hodgkin lymphoma"
+      ],
+      [
+        "t-cell non-hodgkin lymphoma",
+        "is-a",
+        "peripheral"
+      ]
+    ]
+  },
+  {
+    "id": "c24c85b06c0c41e6806e925196cced40",
+    "primitive-ontology-triples": [
+      [
+        "monoatomic anion",
+        "is-a",
+        "anion"
+      ],
+      [
+        "monoatomic cation",
+        "is-a",
+        "cation"
+      ],
+      [
+        "zinc",
+        "is-a",
+        "an"
+      ]
+    ]
+  },
+  {
+    "id": "c284f6438a854e8889f5c995dfa944dc",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c2993510ea8448b28ad190cc45c9d3d3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c29efcf316b840359c0bee3364d318e3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c2f93d200ac148298587827d7f780196",
+    "primitive-ontology-triples": [
+      [
+        "clingstone peach",
+        "is-a",
+        "a"
+      ],
+      [
+        "peach",
+        "is-a",
+        "a"
+      ],
+      [
+        "peach",
+        "is-a",
+        "clingstone peach"
+      ],
+      [
+        "peach juice",
+        "is-a",
+        "a"
+      ],
+      [
+        "peach juice",
+        "is-a",
+        "peach"
+      ]
+    ]
+  },
+  {
+    "id": "c3a1b33c968246fc80c11f18baaccd65",
+    "primitive-ontology-triples": [
+      [
+        "apple jelly",
+        "is-a",
+        "fruit jelly food product"
+      ],
+      [
+        "fruit jelly",
+        "is-a",
+        "fruit jelly food product"
+      ]
+    ]
+  },
+  {
+    "id": "c3d92f4497c641669ac7b8761a1e20fe",
+    "primitive-ontology-triples": [
+      [
+        "Element",
+        "is-a",
+        "optical"
+      ]
+    ]
+  },
+  {
+    "id": "c46dec46e2a34073abff83f2def25bb6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c49ada51f9804e44b83363efac7c5f4c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c4c2ac24daa84fadb1fb4eed8cab78a0",
+    "primitive-ontology-triples": [
+      [
+        "charcot marie tooth disease type 1f",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "c4df8fab0cd947ddb61cc56d14008da8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c51e2454635645678e5729ee4508653a",
+    "primitive-ontology-triples": [
+      [
+        "disease",
+        "is-a",
+        "a"
+      ],
+      [
+        "syndrome",
+        "is-a",
+        "disease"
+      ]
+    ]
+  },
+  {
+    "id": "c522f2e35c31428d82d7daedca0a7855",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c548675d035049d8866d38d72a17d3c5",
+    "primitive-ontology-triples": [
+      [
+        "red",
+        "instance-of",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "c5940fe3da1344dc8967a88a39a52d9b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c59b29e304f943fe8cefe74b10eb4b9f",
+    "primitive-ontology-triples": [
+      [
+        "Equus asinus",
+        "is-a",
+        "equus"
+      ],
+      [
+        "Equus caballus",
+        "is-a",
+        "equus"
+      ],
+      [
+        "elephas maximus",
+        "is-a",
+        "elephas"
+      ],
+      [
+        "taurine cattle",
+        "is-a",
+        "bos taurus"
+      ]
+    ]
+  },
+  {
+    "id": "c61e60ff049d4181a499b06b1696220d",
+    "primitive-ontology-triples": [
+      [
+        "assay",
+        "is-a",
+        "a"
+      ],
+      [
+        "extracellular electrophysiology recording assay",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "c626ea48b18e49d1a7cd51c4113d6ed1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c633f12b5ddb4824b638fdabf5dd68d1",
+    "primitive-ontology-triples": [
+      [
+        "turkey drumstick (with skin, raw)",
+        "is-a",
+        "turkey drumstick (with skin)"
+      ]
+    ]
+  },
+  {
+    "id": "c65c4cfc689749d8b795a264099ba087",
+    "primitive-ontology-triples": [
+      [
+        "nipple carcinoma",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "c68cacc93e864f9596ae4f2423189a07",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c80f7b51a6194249a15c3891d42c2e81",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c830f20f7fc2431cae9830fcc67814f9",
+    "primitive-ontology-triples": [
+      [
+        "beta-diketone",
+        "is-a",
+        "diketone"
+      ]
+    ]
+  },
+  {
+    "id": "c8e7d5c0d1ad40bf9fdab06608dda08c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c903c8ab1bed4de1a89196e81b8d0b6f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c9a021a35fa84ca2b495b87401f1bf2d",
+    "primitive-ontology-triples": [
+      [
+        "intrauterine cannibalism",
+        "is-a",
+        "a"
+      ],
+      [
+        "intrauterine cannibalism",
+        "is-a",
+        "rare"
+      ]
+    ]
+  },
+  {
+    "id": "c9a8b87cd6cd4ba9a83005e648ff417e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "c9e6a9371afb4de79cfefffd5689641b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "caa5c0db32304fcda311972556b7bbdd",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "cab8a54495664af4bc25c48964ec2961",
+    "primitive-ontology-triples": [
+      [
+        "scarlet nantes carrot root",
+        "is-a",
+        "vegetable"
+      ]
+    ]
+  },
+  {
+    "id": "cb47f511f7db48c39d41e2982ee45d7c",
+    "primitive-ontology-triples": [
+      [
+        "keldin hard red winter wheat kernel",
+        "is-a",
+        "hard red winter wheat kernel"
+      ]
+    ]
+  },
+  {
+    "id": "cb4862c432e144e98321603833331cf5",
+    "primitive-ontology-triples": [
+      [
+        "chestnut",
+        "is-a",
+        "chestnut"
+      ],
+      [
+        "chinese chestnut",
+        "is-a",
+        "chestnut"
+      ]
+    ]
+  },
+  {
+    "id": "cb4bf54d10284d1896ce3ec3848754c0",
+    "primitive-ontology-triples": [
+      [
+        "assay",
+        "is-a",
+        "a"
+      ],
+      [
+        "binding assay",
+        "is-a",
+        "assay"
+      ],
+      [
+        "direct binding assay",
+        "is-a",
+        "binding assay"
+      ]
+    ]
+  },
+  {
+    "id": "cb6d1b54f8e24ced8a5fba5b42777a7f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "cc0deb0877c842788de8108c2b672c3b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "cc264d5fc48e433ab762f3df150f48f7",
+    "primitive-ontology-triples": [
+      [
+        "data transformation objective",
+        "is-a",
+        "objective specification"
+      ],
+      [
+        "statistical hypothesis test",
+        "is-a",
+        "data transformation"
+      ]
+    ]
+  },
+  {
+    "id": "ccff15e413944774829c8f48a37c10d8",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "cd0d042d96d04d00910ca4071c844a14",
+    "primitive-ontology-triples": [
+      [
+        "closure",
+        "is-a",
+        "a"
+      ],
+      [
+        "closure",
+        "is-a",
+        "quality"
+      ],
+      [
+        "mass",
+        "is-a",
+        "a"
+      ],
+      [
+        "mass",
+        "is-a",
+        "quality"
+      ],
+      [
+        "value",
+        "is-a",
+        "a"
+      ],
+      [
+        "value",
+        "is-a",
+        "quality"
+      ]
+    ]
+  },
+  {
+    "id": "cd59287aa3b34b1abd873c8abc3fda97",
+    "primitive-ontology-triples": [
+      [
+        "piece of domestic yak meat",
+        "is-a",
+        "piece of domestic yak"
+      ]
+    ]
+  },
+  {
+    "id": "cd6261e6e77149b8ada6c05ac8340a6b",
+    "primitive-ontology-triples": [
+      [
+        "plume",
+        "is-a",
+        "a"
+      ],
+      [
+        "substance",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "cdfda131e0a54cb097fa7650ae38c8c1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ce0eec1847b84a07904ab2c526419498",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ce211bd741e64bf199541e917fafc141",
+    "primitive-ontology-triples": [
+      [
+        "automobile",
+        "instance-of",
+        "document"
+      ],
+      [
+        "rdf",
+        "instance-of",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "ce26c57e3df745b28adb055ba22d5b77",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ce63bea480ff492994207ef63b4e17a7",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "cf182a3ac0874cd6ab67362ac18ea1f6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "cf66e354f2bf4a64b931d4acf1924a07",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "cfe4e2df45d041debd528de1a894c1fa",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d0483eb98bcc48d8b816add9a1bf4333",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d0a069fd0fd44ced9b9eb73bc53b6248",
+    "primitive-ontology-triples": [
+      [
+        "basaloid squamous cell carcinoma",
+        "is-a",
+        "squamous cell carcinoma"
+      ],
+      [
+        "squamous cell carcinoma",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "d0b388a0300a404b8903837f81a8820a",
+    "primitive-ontology-triples": [
+      [
+        "beef blade chuck steak",
+        "is-a",
+        "beef steak (raw)"
+      ],
+      [
+        "beef cowboy steak",
+        "is-a",
+        "beef steak (raw)"
+      ],
+      [
+        "beef sirloin tip center steak",
+        "is-a",
+        "beef steak (raw)"
+      ],
+      [
+        "beef steak",
+        "is-a",
+        "cow food product"
+      ]
+    ]
+  },
+  {
+    "id": "d13683593a9a40a1b7503193cbc7a47a",
+    "primitive-ontology-triples": [
+      [
+        "as",
+        "is-a",
+        "cambodian in cambodia (sgdp)"
+      ],
+      [
+        "burmese in myanmar (sgdp)",
+        "is-a",
+        "east asian"
+      ],
+      [
+        "cambodian in cambodia (sgdp)",
+        "is-a",
+        "east asian"
+      ]
+    ]
+  },
+  {
+    "id": "d192d89acba243aa96976303c482241c",
+    "primitive-ontology-triples": [
+      [
+        "dysentery",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "d1a5d2692c33487a9308067450368abf",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d3237bc21ce74f718749433bf4bbdd3b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d3662e8fe8a6421ba5819bf6ba7a2540",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d39937159122465ca86392f403ced061",
+    "primitive-ontology-triples": [
+      [
+        "dessert (fruit-flavored)",
+        "is-a",
+        "dessert food"
+      ]
+    ]
+  },
+  {
+    "id": "d39e499723524b9e90587d88423ff7a4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d3e30e8b96624a19b9ac250e92d4ceea",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d3e6bdd3811343a5983f765a9d72b4cc",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d487708e389d478e8adc6c0868df764b",
+    "primitive-ontology-triples": [
+      [
+        "value",
+        "is-a",
+        "data"
+      ]
+    ]
+  },
+  {
+    "id": "d4f33cab608d48c788822181384208f3",
+    "primitive-ontology-triples": [
+      [
+        "intensity",
+        "is-a",
+        "a"
+      ],
+      [
+        "intensity",
+        "is-a",
+        "measure"
+      ]
+    ]
+  },
+  {
+    "id": "d4ffd6057f484136b9e1de9d826d1a3f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d53a497d04a3440ab0e78278dc367c90",
+    "primitive-ontology-triples": [
+      [
+        "plum tomato",
+        "is-a",
+        "tomato"
+      ],
+      [
+        "tomato",
+        "is-a",
+        "a"
+      ],
+      [
+        "tomato",
+        "is-a",
+        "tomato"
+      ]
+    ]
+  },
+  {
+    "id": "d5821db1b7694a3b982fa941b3ed7282",
+    "primitive-ontology-triples": [
+      [
+        "electronvolt",
+        "instance-of",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "d60265b79f0444c4af0996ef59200995",
+    "primitive-ontology-triples": [
+      [
+        "multi-component wheat food product",
+        "is-a",
+        "multi-component plant food product"
+      ]
+    ]
+  },
+  {
+    "id": "d6752ff85c254b2faf50145b98e36023",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d6854111b9284488bb2547df646c87fd",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d6a838e8bd444218aa3717b27ede93b6",
+    "primitive-ontology-triples": [
+      [
+        "theaceae",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "d8a5aa5c7c0f4f7c8069b764cf4c5988",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d8b1f16774144d8c8ea857219ed610a3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d8cbb43a7e18451d80b31d0e0639604c",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "d9dfaaf73d414ad89b4cd1d9d88ce377",
+    "primitive-ontology-triples": [
+      [
+        "condition",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "dab328e0200c44f880cf26a501abd798",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "dadc37b4fc624dfc8c85ef837002d636",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "db610fc1f76446249fe3a586f0852ddb",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "dc97b67d88324da79c60eedcfbd1215e",
+    "primitive-ontology-triples": [
+      [
+        "testosterone",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "dcaf1ed4135e4585bffb7baf2b575155",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "dcbde24f40304b82a569cadb81d350ec",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "dd70e541fda44cb7aafb5cd1411edf73",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ddb10fb59e0642ba8aef568e3df66374",
+    "primitive-ontology-triples": [
+      [
+        "sea water",
+        "is-a",
+        "water"
+      ]
+    ]
+  },
+  {
+    "id": "de0e2f4fc9da4eb58b817d69a0192774",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "de47f4bf1daf40bfb846d252acb33ab3",
+    "primitive-ontology-triples": [
+      [
+        "role",
+        "equivalent class",
+        "role"
+      ]
+    ]
+  },
+  {
+    "id": "df11445b146c4aaeb5554514c4ede6f0",
+    "primitive-ontology-triples": [
+      [
+        "an",
+        "instance-of",
+        "unit derived by shifting"
+      ],
+      [
+        "binary operation",
+        "is-a",
+        "operation"
+      ],
+      [
+        "function",
+        "is-a",
+        "operation"
+      ],
+      [
+        "operation on function",
+        "is-a",
+        "operation"
+      ],
+      [
+        "point",
+        "is-a",
+        "operation"
+      ],
+      [
+        "statistical operation",
+        "is-a",
+        "operation"
+      ],
+      [
+        "unary operation",
+        "is-a",
+        "operation"
+      ]
+    ]
+  },
+  {
+    "id": "df1c5861be5d45e189346f7ad5b153b9",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "df4ff5f95d0a4640acb3cb3848be0f5b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "df6e61672a7d409698e26abc8a26cae8",
+    "primitive-ontology-triples": [
+      [
+        "tomato juice food product",
+        "is-a",
+        "vegetable juice food product"
+      ]
+    ]
+  },
+  {
+    "id": "e0eb9c3de47541efae7e50b6c5c5f8d6",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "piece of turkey meat (with bone)"
+      ]
+    ]
+  },
+  {
+    "id": "e17fb53564a045bdaee94c8375bd83d3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e193861a321c470f8b0b2c389b9b10aa",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e1ae1e15153c4467b30451c1db2a7c43",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e271d0966729419bb64fa2f88a7740c7",
+    "primitive-ontology-triples": [
+      [
+        "virtuoso universal server",
+        "is-a",
+        "a"
+      ],
+      [
+        "virtuoso universal server",
+        "is-a",
+        "key"
+      ]
+    ]
+  },
+  {
+    "id": "e2e65bddfa8447b2b0de60c992d8f89b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e302b108e9744f1f954f0fefe4c05358",
+    "primitive-ontology-triples": [
+      [
+        "instability",
+        "is-a",
+        "a"
+      ],
+      [
+        "instability",
+        "is-a",
+        "scenario"
+      ]
+    ]
+  },
+  {
+    "id": "e308f884093e40d7a62f5ea219af6b9d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e395cc2153654321a58e27be41677877",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e3a17b28509748cb8361200e7b2e0d32",
+    "primitive-ontology-triples": [
+      [
+        "adenoma",
+        "is-a",
+        "a"
+      ],
+      [
+        "adenoma",
+        "is-a",
+        "vaginal benign neoplasm"
+      ],
+      [
+        "vaginal adenoma",
+        "is-a",
+        "vaginal benign neoplasm characterized by glandular formation"
+      ],
+      [
+        "vaginal benign neoplasm",
+        "is-a",
+        "female reproductive organ benign neoplasm"
+      ],
+      [
+        "vaginal benign neoplasm",
+        "is-a",
+        "vaginal disease"
+      ]
+    ]
+  },
+  {
+    "id": "e3c47b203f004c31b429eeef547eaa65",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e3e5c32e32f14f2b9146f7428ad4ec30",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e459a79193124d7f913e4bb07d5d7327",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e462306f6a994517be85d8f4871d714d",
+    "primitive-ontology-triples": [
+      [
+        "antigen binding",
+        "is-a",
+        "a"
+      ],
+      [
+        "h2-dd protein complex",
+        "is-a",
+        "mouse mhc class i protein complex"
+      ],
+      [
+        "h2-kd protein complex",
+        "is-a",
+        "mouse mhc class i protein complex"
+      ],
+      [
+        "mouse mhc class i protein complex",
+        "is-a",
+        "mhc class i protein complex"
+      ],
+      [
+        "rat mhc class i protein complex",
+        "is-a",
+        "mhc class i protein complex"
+      ]
+    ]
+  },
+  {
+    "id": "e502fd96f31e40109a44831d4166612f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e5a585ba353d4a8486728e79699d24f3",
+    "primitive-ontology-triples": [
+      [
+        "plant",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "e5c8495bcbad43cbac7a719ce3b95485",
+    "primitive-ontology-triples": [
+      [
+        "disease",
+        "is-a",
+        "a"
+      ],
+      [
+        "distal myopathy",
+        "is-a",
+        "a"
+      ],
+      [
+        "distal myopathy",
+        "is-a",
+        "group"
+      ],
+      [
+        "distal myopathy",
+        "is-a",
+        "muscular dystrophy"
+      ],
+      [
+        "distal myopathy 3",
+        "is-a",
+        "distal myopathy"
+      ],
+      [
+        "distal myopathy with anterior tibial onset",
+        "is-a",
+        "distal myopathy"
+      ],
+      [
+        "muscular dystrophy",
+        "is-a",
+        "distal myopathy"
+      ],
+      [
+        "muscular dystrophy",
+        "is-a",
+        "myopathy"
+      ],
+      [
+        "myopathy",
+        "is-a",
+        "a"
+      ],
+      [
+        "myopathy",
+        "is-a",
+        "distal myopathy"
+      ],
+      [
+        "myopathy",
+        "is-a",
+        "group"
+      ],
+      [
+        "tibial muscular dystrophy",
+        "is-a",
+        "distal myopathy"
+      ]
+    ]
+  },
+  {
+    "id": "e5e704071ac64fb78b7f87e0859860ef",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e62797c464094d74b43ad49f895cecda",
+    "primitive-ontology-triples": [
+      [
+        "connective tissue",
+        "is-a",
+        "tissue"
+      ],
+      [
+        "dense connective tissue",
+        "is-a",
+        "connective tissue"
+      ],
+      [
+        "irregular connective tissue",
+        "is-a",
+        "connective tissue"
+      ]
+    ]
+  },
+  {
+    "id": "e687a222bf6145aa83dadfa1b12dbce1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e74115e050054b79beb58b8c0c00e48d",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e7524625b3a04006ac4aaeb47ed2d3db",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e756ab2de9e445f381cd8fcbe997e74f",
+    "primitive-ontology-triples": [
+      [
+        "gadolinium atom",
+        "is-a",
+        "atom"
+      ],
+      [
+        "lanthanum atom",
+        "is-a",
+        "atom"
+      ],
+      [
+        "species",
+        "is-a",
+        "an"
+      ],
+      [
+        "species",
+        "is-a",
+        "f-block"
+      ]
+    ]
+  },
+  {
+    "id": "e77b2d14e2b24f9fa4aecc5c689065e2",
+    "primitive-ontology-triples": [
+      [
+        "linaria vulgaris",
+        "is-a",
+        "plantaginaceae"
+      ],
+      [
+        "veronica officinalis",
+        "is-a",
+        "plantaginaceae"
+      ]
+    ]
+  },
+  {
+    "id": "e7941b21ab9e447bb598946444896222",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e7bff122473a40fa85d09d653003a211",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e7e7147adfc5438497d63f5a899e2df3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e863623fd2ee41d5aaafeafa04dc8c93",
+    "primitive-ontology-triples": [
+      [
+        "classification",
+        "is-a",
+        "hyperphosphatemic familial tumoral calcinosis"
+      ]
+    ]
+  },
+  {
+    "id": "e8adb7ba396d423e98d442685498d9dc",
+    "primitive-ontology-triples": [
+      [
+        "plant",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "e8be2816ca4d48bd90073a919bdced7a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e8fb45f69ae541ac9c8254661e513ce0",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "e940ca846f9340b2a14009631c500e51",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ea2d9deb08fb4a77a84ebd0a6518ae79",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ea795cea22bd434fa543fe03f40d224f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "eabe9a7f0b4c4e7da373ada2aa3d4c0e",
+    "primitive-ontology-triples": [
+      [
+        "count",
+        "instance-of",
+        "a"
+      ],
+      [
+        "count",
+        "instance-of",
+        "quantitative"
+      ]
+    ]
+  },
+  {
+    "id": "eb07497c23ba4a8488a17c992a189238",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "eb56d1c0a4584a9281cd2bd4288cd426",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "eb67ad9a5c9c4be6b494806f221f6c3d",
+    "primitive-ontology-triples": [
+      [
+        "tomatillo",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "eb7dad3db56b49398e8b89e567e92abc",
+    "primitive-ontology-triples": [
+      [
+        "group",
+        "is-a",
+        "cheese"
+      ],
+      [
+        "milk based gravy or sauce food product",
+        "is-a",
+        "gravy or sauce"
+      ],
+      [
+        "sauce",
+        "is-a",
+        "gravy or sauce"
+      ]
+    ]
+  },
+  {
+    "id": "ebf0a27c1cd54507b1213461a6174b6b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ec22d761f53f41d78ef5dc5d0710b2a3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ec456b0a2b47408c91f91e96e21de503",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ec9d8b010fa54c838aa3f097a504e01a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "eca3b274e80c46b08210869515afdded",
+    "primitive-ontology-triples": [
+      [
+        "elk",
+        "is-a",
+        "a"
+      ],
+      [
+        "physalis",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "ecf9c818d4124259bfa4c23549831401",
+    "primitive-ontology-triples": [
+      [
+        "animal back",
+        "is-a",
+        "piece of animal meat"
+      ],
+      [
+        "animal thigh",
+        "is-a",
+        "animal thigh"
+      ]
+    ]
+  },
+  {
+    "id": "ed238c4477df4f03aa9ec2d9effae30e",
+    "primitive-ontology-triples": [
+      [
+        "role",
+        "equivalent class",
+        "role"
+      ]
+    ]
+  },
+  {
+    "id": "ed9ac828171f46698f0112ee5f3a548c",
+    "primitive-ontology-triples": [
+      [
+        "skin hemangioma",
+        "is-a",
+        "hemangioma"
+      ]
+    ]
+  },
+  {
+    "id": "eda0aa2d79f54ab5b0095d64efef483c",
+    "primitive-ontology-triples": [
+      [
+        "late harvest",
+        "is-a",
+        "wine"
+      ],
+      [
+        "sauternes",
+        "is-a",
+        "late harvest"
+      ]
+    ]
+  },
+  {
+    "id": "edbd8de727434b3ab40ef8869ed0ae38",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "edf7ce86db7d409d9f82f4565a51bd87",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ee5fe91ffb014f3ba6d63c591113f724",
+    "primitive-ontology-triples": [
+      [
+        "bean",
+        "is-a",
+        "bean food product"
+      ]
+    ]
+  },
+  {
+    "id": "eec9b548f841473ba982e5d4e96d5010",
+    "primitive-ontology-triples": [
+      [
+        "within this hierarchy, the fluxmaterial",
+        "is-a",
+        "externalfluxused, which itself is connected to the printedcircuitboardcontactpad"
+      ]
+    ]
+  },
+  {
+    "id": "eed909f17e1f4564ac0819de22060fd7",
+    "primitive-ontology-triples": [
+      [
+        "Dog",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "Label",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "apple",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "architecture",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "auction",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "bicycle",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "book",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "buick",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "cadillac",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "campsite",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "car",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "carpet",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "chromaflair",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "condominium",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "coupon",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "education",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "hammer",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "horse",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "hotel",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "insurance",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "massage",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "phosphorescence",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "photoperiodism",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "real estate",
+        "is-a",
+        "Product"
+      ],
+      [
+        "resort",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "safari",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "travel",
+        "is-a",
+        "product or service"
+      ],
+      [
+        "zwieback",
+        "is-a",
+        "product or service"
+      ]
+    ]
+  },
+  {
+    "id": "eef1f2b4059a42c9861516c6b01e5c71",
+    "primitive-ontology-triples": [
+      [
+        "as",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "dilution",
+        "is-a",
+        "a"
+      ],
+      [
+        "dilution",
+        "is-a",
+        "concentration"
+      ],
+      [
+        "liquid water",
+        "is-a",
+        "a"
+      ],
+      [
+        "liquid water",
+        "is-a",
+        "concentration"
+      ],
+      [
+        "snow",
+        "is-a",
+        "a"
+      ],
+      [
+        "snow",
+        "is-a",
+        "concentration"
+      ],
+      [
+        "water",
+        "is-a",
+        "a"
+      ],
+      [
+        "water",
+        "is-a",
+        "concentration"
+      ]
+    ]
+  },
+  {
+    "id": "ef3fb632e2684d10aab4fe336e72b31f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ef5d0972b4384a14b9bd4867a7bbf7b4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ef6e4445e7ca42f09d4c0796efa8261b",
+    "primitive-ontology-triples": [
+      [
+        "animal",
+        "is-a",
+        "infrastructure"
+      ],
+      [
+        "pacific salmon food product",
+        "is-a",
+        "salmon food product"
+      ],
+      [
+        "salmon",
+        "is-a",
+        "salmon food product"
+      ]
+    ]
+  },
+  {
+    "id": "ef95326bf36245a9a7694a707a50942d",
+    "primitive-ontology-triples": [
+      [
+        "adjective",
+        "instance-of",
+        "part of speech"
+      ],
+      [
+        "an",
+        "instance-of",
+        "part of speech"
+      ],
+      [
+        "as",
+        "instance-of",
+        "part of speech"
+      ],
+      [
+        "comparative particle",
+        "instance-of",
+        "part of speech"
+      ],
+      [
+        "coordination particle",
+        "instance-of",
+        "part of speech"
+      ],
+      [
+        "particle",
+        "instance-of",
+        "part of speech"
+      ],
+      [
+        "personal pronoun",
+        "is-a",
+        "pronoun"
+      ],
+      [
+        "pronoun",
+        "instance-of",
+        "part of speech"
+      ],
+      [
+        "pronoun",
+        "is-a",
+        "a"
+      ],
+      [
+        "pronoun",
+        "is-a",
+        "part of speech"
+      ],
+      [
+        "unclassified particle",
+        "instance-of",
+        "part of speech"
+      ]
+    ]
+  },
+  {
+    "id": "f015c71c660c4656a17a207d0d95e754",
+    "primitive-ontology-triples": [
+      [
+        "blade",
+        "is-a",
+        "a"
+      ],
+      [
+        "konbu blade",
+        "is-a",
+        "a"
+      ],
+      [
+        "piece of squab meat (with skin)",
+        "is-a",
+        "piece of squab meat"
+      ]
+    ]
+  },
+  {
+    "id": "f01b09cebf6641ea94e7c6b9c6ccecf3",
+    "primitive-ontology-triples": [
+      [
+        "species",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "f043993901954034828f365269a0309b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f07f5f010d864868ad1dab89a51ee7e1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f0c6a209cad448dc9998685822cf7d5f",
+    "primitive-ontology-triples": [
+      [
+        "red plum",
+        "is-a",
+        "plum (raw)"
+      ],
+      [
+        "yellow plum",
+        "is-a",
+        "plum (raw)"
+      ]
+    ]
+  },
+  {
+    "id": "f176491d592845e199b58e02c355a714",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f1ff2221835b4b91880bd308f707de54",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f229d54ea1074e919c1a01d946ab18f1",
+    "primitive-ontology-triples": [
+      [
+        "seed",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "f25472b130e04fa88dbe660c1ffcaaf5",
+    "primitive-ontology-triples": [
+      [
+        "activation",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "f2886b19dfa843d5b90da090e8eebdeb",
+    "primitive-ontology-triples": [
+      [
+        "syndrome",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "f28e4c2f74284d07b24acfd577a033b3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f2b5386e4ead4a0abc3c6d06729bdf7b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f2c26bb14bca4a848469db257b0474b9",
+    "primitive-ontology-triples": [
+      [
+        "beef prime rib roast",
+        "is-a",
+        "a"
+      ],
+      [
+        "beef ribeye petite roast",
+        "is-a",
+        "beef ribeye petite roast"
+      ],
+      [
+        "beef roast",
+        "is-a",
+        "beef retail cut"
+      ]
+    ]
+  },
+  {
+    "id": "f31ac8859cdd4c389ff9e2f2f0934435",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f360fce1eeec4c2aa19a06d331a5fd0f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f3a5e4f576504465a4378604ce50044e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f3ee977813994c9bbf416dce72892f3f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f4ed80d31b6b400fbd0bb84307fc1d99",
+    "primitive-ontology-triples": [
+      [
+        "onion",
+        "is-a",
+        "a"
+      ],
+      [
+        "parameter",
+        "is-a",
+        "concentration of"
+      ],
+      [
+        "redwing onion",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "f57a13218826490bb991d42af50f63f3",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f580195201be4573a43a87122a84ce48",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f5a34e4d3cd3421cbd04dd80f148f3e7",
+    "primitive-ontology-triples": [
+      [
+        "broad bean",
+        "is-a",
+        "bean"
+      ],
+      [
+        "broad bean",
+        "is-a",
+        "broad bean"
+      ],
+      [
+        "hyacinth bean",
+        "is-a",
+        "bean"
+      ],
+      [
+        "soybean",
+        "is-a",
+        "bean"
+      ],
+      [
+        "soybean",
+        "is-a",
+        "soybean"
+      ],
+      [
+        "winged bean",
+        "is-a",
+        "bean"
+      ]
+    ]
+  },
+  {
+    "id": "f65650d4349e4b6b99c50b5173016145",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f6d2d5babd1b44a0ae30716cbea77aa5",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f78c69e0631e46cba4e5d45a49f6c17e",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f79dff74c4b24aaaa3b24bcba402e1e4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f7be895e55b54927bda8010f775e049b",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f8072b5b3a4a407a88cbc711a11b3aa4",
+    "primitive-ontology-triples": [
+      [
+        "Lagrangian point",
+        "is-a",
+        "a"
+      ],
+      [
+        "point",
+        "is-a",
+        "a"
+      ],
+      [
+        "space",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "f872810c91874f68a95025840338accf",
+    "primitive-ontology-triples": [
+      [
+        "passion fruit juice (frozen)",
+        "is-a",
+        "passion fruit juice"
+      ],
+      [
+        "passion fruit juice (raw)",
+        "is-a",
+        "passion fruit juice"
+      ]
+    ]
+  },
+  {
+    "id": "f8733ec6fda849d38ccd010f80b9fb7a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f8982d48da7c4478b8202b2d414d052f",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f8de484920fb4633a776e8aedf8eb8fa",
+    "primitive-ontology-triples": [
+      [
+        "melon plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "melon plant",
+        "is-a",
+        "fruit-producing plant"
+      ],
+      [
+        "piece of quail breast (skinless, raw)",
+        "is-a",
+        "piece of quail breast (skinless)"
+      ],
+      [
+        "plant",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant",
+        "is-a",
+        "melon plant"
+      ]
+    ]
+  },
+  {
+    "id": "f952ab56e96645b9b575b3f38000d9b0",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f95f7fca0caf4013bcf8192003589c76",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "f97884a770834888a5f7ecb75c6c06f6",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "fa0c64846a874c6fa61c3aa7482a493a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "fa4c2ba480c447cab089dfd4820db4ec",
+    "primitive-ontology-triples": [
+      [
+        "Element",
+        "is-a",
+        "a"
+      ],
+      [
+        "Element",
+        "is-a",
+        "chemical substance"
+      ],
+      [
+        "as",
+        "is-a",
+        "a"
+      ],
+      [
+        "as",
+        "is-a",
+        "compound"
+      ],
+      [
+        "deposit",
+        "is-a",
+        "a"
+      ],
+      [
+        "deposit",
+        "is-a",
+        "substance"
+      ],
+      [
+        "organism",
+        "is-a",
+        "a"
+      ],
+      [
+        "water",
+        "is-a",
+        "a"
+      ],
+      [
+        "water",
+        "is-a",
+        "compound"
+      ]
+    ]
+  },
+  {
+    "id": "fa93a8098f7e4df2867a61ecf85aa295",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "fad7a4079c1a45beb208679fd77b183e",
+    "primitive-ontology-triples": [
+      [
+        "global positioning system",
+        "is-a",
+        "sensor"
+      ]
+    ]
+  },
+  {
+    "id": "fc015ba6b5ab4375ab4634c6b317a9bd",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "fc58bd757dfa4bd9925c61fa56d777ae",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "fc59b5476a1644efae8694b2dae58c74",
+    "primitive-ontology-triples": [
+      [
+        "carotene",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "fc7ef96ae9b541e58e492d8c8b6f6bdd",
+    "primitive-ontology-triples": [
+      [
+        "cancer",
+        "is-a",
+        "a"
+      ],
+      [
+        "maxillary sinus cancer",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "fc82d9ef3f6e4b68868a4060ee15f41c",
+    "primitive-ontology-triples": [
+      [
+        "equation",
+        "is-a",
+        "a"
+      ],
+      [
+        "infrastructure",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "fc87501f13bb48eebb0ee9e09f07c9f7",
+    "primitive-ontology-triples": [
+      [
+        "assay",
+        "is-a",
+        "a"
+      ],
+      [
+        "chem11 venous blood carbon dioxide assay",
+        "is-a",
+        "measurement"
+      ]
+    ]
+  },
+  {
+    "id": "fd981d87b68947c0ad6fff2373f0479a",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "fdaee009b80b4dc39fb0fa2057e917a1",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "fe367c345b9444ff801b9064c178749f",
+    "primitive-ontology-triples": [
+      [
+        "assay",
+        "is-a",
+        "a"
+      ],
+      [
+        "assay",
+        "is-a",
+        "direct"
+      ],
+      [
+        "methodology",
+        "is-a",
+        "in vivo assay measuring B cell epitope specific tolerance induction resulting from the adoptive transfer of epitope specific antibodies or B cells"
+      ]
+    ]
+  },
+  {
+    "id": "fe97a7cc771241a3992840d27ad3cbf0",
+    "primitive-ontology-triples": [
+      [
+        "Product",
+        "is-a",
+        "a"
+      ],
+      [
+        "Product",
+        "is-a",
+        "food product"
+      ],
+      [
+        "food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant food product",
+        "is-a",
+        "a"
+      ],
+      [
+        "plant food product",
+        "is-a",
+        "food product"
+      ]
+    ]
+  },
+  {
+    "id": "fe9e75e919f24f50abdfe45e0af568b4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ff303d63f8874400b40213ed6ef174e7",
+    "primitive-ontology-triples": [
+      [
+        "organic plant cultivation",
+        "is-a",
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "ffa0c83bfbb3430d80bba801c64950d4",
+    "primitive-ontology-triples": []
+  },
+  {
+    "id": "ffb0fd373bff486f81493f7eff2af9d1",
+    "primitive-ontology-triples": [
+      [
+        "sodium",
+        "instance-of",
+        "species"
+      ]
+    ]
+  },
+  {
+    "id": "ffd549e6b748441299e17adff6a27787",
+    "primitive-ontology-triples": [
+      [
+        "fig",
+        "is-a",
+        "an"
+      ],
+      [
+        "fig",
+        "is-a",
+        "ancient"
+      ]
+    ]
+  }
+]

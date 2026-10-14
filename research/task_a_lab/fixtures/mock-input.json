@@ -1,0 +1,5 @@
+[
+  {"id":"demo-class","context":"T-cell and T cell are types of cell."},
+  {"id":"demo-instance","context":"Milo is an instance of Cat. Milo likes Cat."},
+  {"id":"demo-invalid","context":"A model may fail to produce JSON."}
+]

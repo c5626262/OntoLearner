@@ -1,0 +1,4 @@
+PASS: git diff 4791725 -- baselines/task_a_cpu ontolearner research/llms4ol2026 tests/test_task_a_cpu.py is empty.
+PASS: source SHA-256 and fixed split checked by existing adapter.
+PASS: compileall research/task_a_lab tests/test_task_a_lab.py.
+No SSH, GPU, model download, external inference service, push, PR or merge was used.
