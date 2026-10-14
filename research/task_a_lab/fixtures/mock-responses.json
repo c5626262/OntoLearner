@@ -1,0 +1,5 @@
+[
+  "{\"triples\":[{\"subject\":\"T-cell\",\"predicate\":\"is-a\",\"object\":\"cell\"},{\"subject\":\"T cell\",\"predicate\":\"is-a\",\"object\":\"cell\"}]}",
+  "{\"triples\":[{\"subject\":\"Milo\",\"predicate\":\"instance-of\",\"object\":\"Cat\"},{\"subject\":\"Milo\",\"predicate\":\"likes\",\"object\":\"Cat\"}]}",
+  "This is deliberately not JSON."
+]
