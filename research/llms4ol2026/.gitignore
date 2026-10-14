@@ -1,0 +1,18 @@
+# Generated reports and local runtime artifacts are not source inputs.
+/reports/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+
+# Keep public datasets and model weights outside the committed preparation tools.
+train_task_a.json
+test_task_a.json
+/data/
+/models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+.env
+.env.*
