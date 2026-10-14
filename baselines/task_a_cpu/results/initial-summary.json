@@ -1,0 +1,44 @@
+{
+  "official_mean_scores": {
+    "edge_f1": 0.0,
+    "neighborhood_similarity": 0.0,
+    "taxonomy_similarity": 0.00028756768107110914,
+    "graph_similarity": 9.585589369036972e-05
+  },
+  "overall": {
+    "tp": 0,
+    "fp": 500,
+    "fn": 11132,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  },
+  "by_relation": {
+    "is-a": {
+      "tp": 0,
+      "fp": 452,
+      "fn": 9882,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "instance-of": {
+      "tp": 0,
+      "fp": 35,
+      "fn": 1060,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "other": {
+      "tp": 0,
+      "fp": 13,
+      "fn": 190,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "predictions_sha256": "d9401dc18d24918509946a82df79ceae0047bc3538425571e0a7d8940e74ecf0",
+  "note": "Initial retrieval + full-sentence rules diagnostic; replaced by final train-lexicon baseline. No validation example inspection was used for rule development."
+}

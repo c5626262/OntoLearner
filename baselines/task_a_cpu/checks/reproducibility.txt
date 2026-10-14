@@ -1,0 +1,3 @@
+PASS: independent processes; prediction hash seed varied; evaluation PYTHONHASHSEED=0.
+Predictions, manifest and evaluation JSON are byte-identical.
+861 validation records; source/output hashes verified.
