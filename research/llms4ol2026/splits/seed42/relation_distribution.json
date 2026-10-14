@@ -1,0 +1,366 @@
+{
+  "labels": [
+    {
+      "label": "is-a",
+      "full_triples": 49532,
+      "train_triples": 39647,
+      "validation_triples": 9885,
+      "full_documents": 4137,
+      "train_documents": 3311,
+      "validation_documents": 826,
+      "train_triple_fraction": 0.8915248139236805,
+      "validation_triple_fraction": 0.8877413560844185
+    },
+    {
+      "label": "instance-of",
+      "full_triples": 4876,
+      "train_triples": 3816,
+      "validation_triples": 1060,
+      "full_documents": 419,
+      "train_documents": 341,
+      "validation_documents": 78,
+      "train_triple_fraction": 0.08580872928425266,
+      "validation_triple_fraction": 0.09519533004041311
+    },
+    {
+      "label": "is defined by",
+      "full_triples": 351,
+      "train_triples": 279,
+      "validation_triples": 72,
+      "full_documents": 32,
+      "train_documents": 26,
+      "validation_documents": 6,
+      "train_triple_fraction": 0.006273751433518473,
+      "validation_triple_fraction": 0.0064660978895374945
+    },
+    {
+      "label": "equivalent class",
+      "full_triples": 284,
+      "train_triples": 240,
+      "validation_triples": 44,
+      "full_documents": 145,
+      "train_documents": 120,
+      "validation_documents": 25,
+      "train_triple_fraction": 0.005396775426682557,
+      "validation_triple_fraction": 0.003951504265828468
+    },
+    {
+      "label": "disjoint with",
+      "full_triples": 261,
+      "train_triples": 227,
+      "validation_triples": 34,
+      "full_documents": 105,
+      "train_documents": 87,
+      "validation_documents": 18,
+      "train_triple_fraction": 0.005104450091070585,
+      "validation_triple_fraction": 0.0030534351145038168
+    },
+    {
+      "label": "type",
+      "full_triples": 114,
+      "train_triples": 112,
+      "validation_triples": 2,
+      "full_documents": 21,
+      "train_documents": 20,
+      "validation_documents": 1,
+      "train_triple_fraction": 0.0025184951991185267,
+      "validation_triple_fraction": 0.0001796138302649304
+    },
+    {
+      "label": "exact match",
+      "full_triples": 40,
+      "train_triples": 30,
+      "validation_triples": 10,
+      "full_documents": 25,
+      "train_documents": 17,
+      "validation_documents": 8,
+      "train_triple_fraction": 0.0006745969283353196,
+      "validation_triple_fraction": 0.000898069151324652
+    },
+    {
+      "label": "tree view",
+      "full_triples": 28,
+      "train_triples": 21,
+      "validation_triples": 7,
+      "full_documents": 18,
+      "train_documents": 14,
+      "validation_documents": 4,
+      "train_triple_fraction": 0.00047221784983472373,
+      "validation_triple_fraction": 0.0006286484059272564
+    },
+    {
+      "label": "part_of",
+      "full_triples": 25,
+      "train_triples": 18,
+      "validation_triples": 7,
+      "full_documents": 17,
+      "train_documents": 13,
+      "validation_documents": 4,
+      "train_triple_fraction": 0.0004047581570011918,
+      "validation_triple_fraction": 0.0006286484059272564
+    },
+    {
+      "label": "has part",
+      "full_triples": 22,
+      "train_triples": 16,
+      "validation_triples": 6,
+      "full_documents": 12,
+      "train_documents": 11,
+      "validation_documents": 1,
+      "train_triple_fraction": 0.0003597850284455038,
+      "validation_triple_fraction": 0.0005388414907947912
+    },
+    {
+      "label": "database_cross_reference",
+      "full_triples": 16,
+      "train_triples": 14,
+      "validation_triples": 2,
+      "full_documents": 12,
+      "train_documents": 10,
+      "validation_documents": 2,
+      "train_triple_fraction": 0.00031481189988981584,
+      "validation_triple_fraction": 0.0001796138302649304
+    },
+    {
+      "label": "see also",
+      "full_triples": 16,
+      "train_triples": 16,
+      "validation_triples": 0,
+      "full_documents": 4,
+      "train_documents": 4,
+      "validation_documents": 0,
+      "train_triple_fraction": 0.0003597850284455038,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "same as",
+      "full_triples": 7,
+      "train_triples": 7,
+      "validation_triples": 0,
+      "full_documents": 4,
+      "train_documents": 4,
+      "validation_documents": 0,
+      "train_triple_fraction": 0.00015740594994490792,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "is_conjugate_acid_of",
+      "full_triples": 5,
+      "train_triples": 3,
+      "validation_triples": 2,
+      "full_documents": 3,
+      "train_documents": 2,
+      "validation_documents": 1,
+      "train_triple_fraction": 6.745969283353197e-05,
+      "validation_triple_fraction": 0.0001796138302649304
+    },
+    {
+      "label": "is_conjugate_base_of",
+      "full_triples": 5,
+      "train_triples": 3,
+      "validation_triples": 2,
+      "full_documents": 3,
+      "train_documents": 2,
+      "validation_documents": 1,
+      "train_triple_fraction": 6.745969283353197e-05,
+      "validation_triple_fraction": 0.0001796138302649304
+    },
+    {
+      "label": "range",
+      "full_triples": 5,
+      "train_triples": 5,
+      "validation_triples": 0,
+      "full_documents": 4,
+      "train_documents": 4,
+      "validation_documents": 0,
+      "train_triple_fraction": 0.00011243282138921994,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "derives from",
+      "full_triples": 3,
+      "train_triples": 3,
+      "validation_triples": 0,
+      "full_documents": 3,
+      "train_documents": 3,
+      "validation_documents": 0,
+      "train_triple_fraction": 6.745969283353197e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "develops_from",
+      "full_triples": 3,
+      "train_triples": 3,
+      "validation_triples": 0,
+      "full_documents": 2,
+      "train_documents": 2,
+      "validation_documents": 0,
+      "train_triple_fraction": 6.745969283353197e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "broader",
+      "full_triples": 2,
+      "train_triples": 2,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 4.497312855568798e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "domain",
+      "full_triples": 2,
+      "train_triples": 1,
+      "validation_triples": 1,
+      "full_documents": 2,
+      "train_documents": 1,
+      "validation_documents": 1,
+      "train_triple_fraction": 2.248656427784399e-05,
+      "validation_triple_fraction": 8.98069151324652e-05
+    },
+    {
+      "label": "has role",
+      "full_triples": 2,
+      "train_triples": 2,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 4.497312855568798e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "located in",
+      "full_triples": 1,
+      "train_triples": 1,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 2.248656427784399e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "overlaps",
+      "full_triples": 1,
+      "train_triples": 1,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 2.248656427784399e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "positively regulates",
+      "full_triples": 1,
+      "train_triples": 1,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 2.248656427784399e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "regulates",
+      "full_triples": 1,
+      "train_triples": 1,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 2.248656427784399e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "ro_0002220",
+      "full_triples": 1,
+      "train_triples": 1,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 2.248656427784399e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "ro_0002473",
+      "full_triples": 1,
+      "train_triples": 1,
+      "validation_triples": 0,
+      "full_documents": 1,
+      "train_documents": 1,
+      "validation_documents": 0,
+      "train_triple_fraction": 2.248656427784399e-05,
+      "validation_triple_fraction": 0.0
+    },
+    {
+      "label": "term replaced by",
+      "full_triples": 1,
+      "train_triples": 0,
+      "validation_triples": 1,
+      "full_documents": 1,
+      "train_documents": 0,
+      "validation_documents": 1,
+      "train_triple_fraction": 0.0,
+      "validation_triple_fraction": 8.98069151324652e-05
+    }
+  ],
+  "categories": {
+    "is-a": {
+      "train_triples": 39647,
+      "validation_triples": 9885,
+      "train_fraction": 0.8915248139236805,
+      "validation_fraction": 0.8877413560844185
+    },
+    "instance-of": {
+      "train_triples": 3816,
+      "validation_triples": 1060,
+      "train_fraction": 0.08580872928425266,
+      "validation_fraction": 0.09519533004041311
+    },
+    "other": {
+      "train_triples": 1008,
+      "validation_triples": 190,
+      "train_fraction": 0.02266645679206674,
+      "validation_fraction": 0.01706331387516839
+    }
+  },
+  "rare_definition": "present in at most 5 documents of the public full train",
+  "rare_labels_missing_validation": [
+    "see also",
+    "same as",
+    "range",
+    "derives from",
+    "develops_from",
+    "broader",
+    "has role",
+    "located in",
+    "overlaps",
+    "positively regulates",
+    "regulates",
+    "ro_0002220",
+    "ro_0002473"
+  ],
+  "all_labels_missing_validation": [
+    "see also",
+    "same as",
+    "range",
+    "derives from",
+    "develops_from",
+    "broader",
+    "has role",
+    "located in",
+    "overlaps",
+    "positively regulates",
+    "regulates",
+    "ro_0002220",
+    "ro_0002473"
+  ],
+  "all_labels_missing_train": [
+    "term replaced by"
+  ]
+}

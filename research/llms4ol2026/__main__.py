@@ -22,8 +22,22 @@ def main() -> None:
     evaluate.add_argument("--predictions", required=True, type=Path)
     evaluate.add_argument("--mode", choices=["exact", "fuzzy"], default="exact")
     evaluate.add_argument("--output", required=True, type=Path)
+    split_command = commands.add_parser("split", help="grouped train/validation holdout from pinned public train")
+    split_command.add_argument("--train", required=True, type=Path)
+    split_command.add_argument("--output", required=True, type=Path)
+    split_command.add_argument("--seed", type=int, default=42)
+    split_command.add_argument("--validation-fraction", type=float, default=0.20)
+    split_command.add_argument("--candidates", type=int, default=64)
+    split_command.add_argument("--near-threshold", type=float, default=0.80)
     args = parser.parse_args()
     samples = load_training_data(args.train)
+    if args.command == "split":
+        from .splitting import SIMILARITY_FLOOR, create_split, find_similar_documents, save_split
+        pairs = find_similar_documents(samples, min(SIMILARITY_FLOOR, args.near_threshold))
+        split = create_split(samples, args.seed, args.validation_fraction, args.candidates, args.near_threshold, pairs)
+        manifest = save_split(samples, split, args.output, args.train, pairs)
+        print(json.dumps({"output": str(args.output), **manifest["counts"]}, ensure_ascii=False))
+        return
     if args.command == "analyze":
         report = analyze_training(samples)
     else:
